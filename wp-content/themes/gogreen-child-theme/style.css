@@ -1,0 +1,25 @@
+/*
+Theme Name: GoGreen Child
+Description: Child theme of the GoGreen. By using a child theme you will ensure that your modifications are preserved.
+Author: Wyde
+Template: gogreen
+Version: 1.0
+*/
+#header:before {
+    background: #000 !important;
+}
+@media only screen and (min-width: 1080px) {
+#header-logo {
+    width: 260px !important;
+}
+}
+.btn_buy{
+	background-color:#36C5F0;
+	border-radius: 5px; 
+	height: 35px; 
+	width: 100px; 
+	position: absolute;
+	padding-left: 30px;
+	padding-top:2px;
+	}
+	

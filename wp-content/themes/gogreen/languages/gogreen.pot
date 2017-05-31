@@ -1,0 +1,4241 @@
+# GoGreen Theme
+msgid ""
+msgstr ""
+"Project-Id-Version: GoGreen\n"
+"POT-Creation-Date: 2016-09-01 16:29+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:10
+msgid "404"
+msgstr ""
+
+#: 404.php:11 page-title.php:195
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:12
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: admin/class-theme-options.php:84 admin/class-theme-options.php:113
+msgid "Import Demo Content"
+msgstr ""
+
+#: admin/class-theme-options.php:85 admin/class-theme-options.php:114
+msgid ""
+"Please make sure you have required plugins installed and activated to "
+"receive that portion of the content. This is recommended to do on fresh "
+"installs."
+msgstr ""
+
+#: admin/class-theme-options.php:94 admin/class-theme-options.php:123
+msgid "WARNING:"
+msgstr ""
+
+#: admin/class-theme-options.php:95
+msgid ""
+"Import demo content requires <strong>GoGreen Demo Content</strong> plugin. "
+"Please make sure you have this plugin installed and activated. See more "
+"details in our documentation."
+msgstr ""
+
+#: admin/class-theme-options.php:124
+msgid ""
+"1. The Importing will append your current <strong>Pages, Posts and other "
+"content types</strong>, you should import them only once.\n"
+"                                    <br />2. You can use <a href=\"https://"
+"wordpress.org/plugins/wordpress-reset/\" target=\"_blank\">WordPress Reset</"
+"a> plugin to remove all existing data before importing."
+msgstr ""
+
+#: admin/class-theme-options.php:146
+msgid "Success!"
+msgstr ""
+
+#: admin/class-theme-options.php:147
+msgid "The demo content has been successfully imported."
+msgstr ""
+
+#: admin/class-theme-options.php:158
+msgid "ERROR!"
+msgstr ""
+
+#: admin/class-theme-options.php:159
+msgid "An error occurred while importing demo data, please try again later."
+msgstr ""
+
+#: admin/class-theme-options.php:165
+msgid "Home"
+msgstr ""
+
+#: admin/class-theme-options.php:183
+msgid "General"
+msgstr ""
+
+#: admin/class-theme-options.php:189 admin/class-theme-options.php:204
+msgid "Color Scheme"
+msgstr ""
+
+#: admin/class-theme-options.php:190
+msgid "Select your website color scheme from predefined colors."
+msgstr ""
+
+#: admin/class-theme-options.php:197
+msgid "Custom Color Scheme"
+msgstr ""
+
+#: admin/class-theme-options.php:198
+msgid "Use custom color from color picker."
+msgstr ""
+
+#: admin/class-theme-options.php:205
+msgid "Choose your own color scheme."
+msgstr ""
+
+#: admin/class-theme-options.php:213
+msgid "Smooth Scrolling"
+msgstr ""
+
+#: admin/class-theme-options.php:214
+msgid "Enable the smooth scrolling."
+msgstr ""
+
+#: admin/class-theme-options.php:220
+msgid "Lightbox Title"
+msgstr ""
+
+#: admin/class-theme-options.php:221
+msgid "Display the lightbox title."
+msgstr ""
+
+#: admin/class-theme-options.php:227
+msgid "Preload Images"
+msgstr ""
+
+#: admin/class-theme-options.php:228
+msgid ""
+"Preloading images definitely helps users enjoy a better experience when "
+"viewing your content."
+msgstr ""
+
+#: admin/class-theme-options.php:234
+msgid "Loader"
+msgstr ""
+
+#: admin/class-theme-options.php:235
+msgid "Select a loader animation."
+msgstr ""
+
+#: admin/class-theme-options.php:247
+msgid "Loader Icon"
+msgstr ""
+
+#: admin/class-theme-options.php:250
+msgid "Loader image to display at the center of the loader animation."
+msgstr ""
+
+#: admin/class-theme-options.php:251
+msgid "Maximum height: 70px."
+msgstr ""
+
+#: admin/class-theme-options.php:259
+msgid "Back To Top Button"
+msgstr ""
+
+#: admin/class-theme-options.php:260
+msgid "Enable a back to top button."
+msgstr ""
+
+#: admin/class-theme-options.php:266
+msgid "Animation on Mobile"
+msgstr ""
+
+#: admin/class-theme-options.php:267
+msgid "Enable animated elements on mobile devices."
+msgstr ""
+
+#: admin/class-theme-options.php:273
+msgid "Page Zooming on Mobile"
+msgstr ""
+
+#: admin/class-theme-options.php:274
+msgid "Allow users to zoom in and out on website."
+msgstr ""
+
+#: admin/class-theme-options.php:288 admin/class-theme-options.php:294
+msgid "Favicon"
+msgstr ""
+
+#: admin/class-theme-options.php:295
+msgid "Customize a favicon for your site."
+msgstr ""
+
+#: admin/class-theme-options.php:301
+msgid "Favicon Image (.PNG)"
+msgstr ""
+
+#: admin/class-theme-options.php:302
+msgid ""
+"Upload a favicon image for your site, or you can specify an image URL "
+"directly."
+msgstr ""
+
+#: admin/class-theme-options.php:303 admin/class-theme-options.php:313
+#: admin/class-theme-options.php:322 admin/class-theme-options.php:330
+#: admin/class-theme-options.php:338 admin/class-theme-options.php:346
+msgid "Icon dimension:"
+msgstr ""
+
+#: admin/class-theme-options.php:311
+msgid "Favicon (.ICO)"
+msgstr ""
+
+#: admin/class-theme-options.php:312
+msgid ""
+"Upload a favicon for your site, or you can specify an icon URL directly."
+msgstr ""
+
+#: admin/class-theme-options.php:319
+msgid "Apple iPhone Icon"
+msgstr ""
+
+#: admin/class-theme-options.php:321
+msgid "Favicon for Apple iPhone."
+msgstr ""
+
+#: admin/class-theme-options.php:327
+msgid "Apple iPhone Icon (Retina Version)"
+msgstr ""
+
+#: admin/class-theme-options.php:329
+msgid "Favicon for Apple iPhone Retina Version."
+msgstr ""
+
+#: admin/class-theme-options.php:335
+msgid "Apple iPad Icon"
+msgstr ""
+
+#: admin/class-theme-options.php:337
+msgid "Favicon for Apple iPad."
+msgstr ""
+
+#: admin/class-theme-options.php:343
+msgid "Apple iPad Icon (Retina Version)"
+msgstr ""
+
+#: admin/class-theme-options.php:345
+msgid "Favicon for Apple iPad Retina Version."
+msgstr ""
+
+#: admin/class-theme-options.php:356 admin/class-theme-options.php:362
+msgid "Navigation"
+msgstr ""
+
+#: admin/class-theme-options.php:363
+msgid "Customize the primary navigation."
+msgstr ""
+
+#: admin/class-theme-options.php:369 admin/class-theme-options.php:675
+#: admin/class-theme-options.php:1000 admin/class-theme-options.php:1334
+#: admin/class-theme-options.php:1535 inc/metaboxes/page-options.php:37
+#: inc/metaboxes/wyde_portfolio-options.php:18
+msgid "Layout"
+msgstr ""
+
+#: admin/class-theme-options.php:370
+msgid "Select a navigation layout."
+msgstr ""
+
+#: admin/class-theme-options.php:372
+msgid "Classic"
+msgstr ""
+
+#: admin/class-theme-options.php:373 admin/class-theme-options.php:806
+#: inc/metaboxes/page-options.php:235 inc/metaboxes/post-options.php:277
+#: inc/metaboxes/wyde_portfolio-options.php:319
+#: inc/shortcodes/wyde-heading.php:71 inc/shortcodes/wyde-separator.php:54
+msgid "Center"
+msgstr ""
+
+#: admin/class-theme-options.php:380
+msgid "Shopping Cart Icon"
+msgstr ""
+
+#: admin/class-theme-options.php:381
+msgid "Turn on to display the shopping cart icon."
+msgstr ""
+
+#: admin/class-theme-options.php:387
+msgid "Search Icon"
+msgstr ""
+
+#: admin/class-theme-options.php:388
+msgid "Turn on to display the search icon."
+msgstr ""
+
+#: admin/class-theme-options.php:394 functions.php:106
+msgid "Sliding Bar"
+msgstr ""
+
+#: admin/class-theme-options.php:395
+msgid "Turn on to display a sliding widget area."
+msgstr ""
+
+#: admin/class-theme-options.php:401 admin/class-theme-options.php:434
+#: admin/class-theme-options.php:447 functions.php:42
+msgid "Contact Info"
+msgstr ""
+
+#: admin/class-theme-options.php:402
+msgid "Display contact info in sliding widget area and mobile menu."
+msgstr ""
+
+#: admin/class-theme-options.php:408 admin/class-theme-options.php:435
+#: admin/class-theme-options.php:448
+msgid "Social Media Icons"
+msgstr ""
+
+#: admin/class-theme-options.php:409
+msgid "Display social media icons in sliding widget area and mobile menu."
+msgstr ""
+
+#: admin/class-theme-options.php:415
+msgid "Top Navigation"
+msgstr ""
+
+#: admin/class-theme-options.php:416
+msgid "Customize the page header and top menu."
+msgstr ""
+
+#: admin/class-theme-options.php:422
+msgid "Top Bar Menu"
+msgstr ""
+
+#: admin/class-theme-options.php:423
+msgid "Display top bar menu."
+msgstr ""
+
+#: admin/class-theme-options.php:430
+msgid "Left Side"
+msgstr ""
+
+#: admin/class-theme-options.php:431
+msgid "Select top bar left menu."
+msgstr ""
+
+#: admin/class-theme-options.php:433 admin/class-theme-options.php:446
+#: admin/class-theme-options.php:775 admin/class-theme-options.php:817
+#: admin/class-theme-options.php:901 inc/class-shortcode.php:182
+#: inc/metaboxes/page-options.php:212 inc/metaboxes/page-options.php:256
+#: inc/metaboxes/page-options.php:334 inc/metaboxes/page-options.php:359
+#: inc/metaboxes/post-options.php:246 inc/metaboxes/post-options.php:290
+#: inc/metaboxes/post-options.php:367 inc/metaboxes/post-options.php:392
+#: inc/metaboxes/wyde_portfolio-options.php:288
+#: inc/metaboxes/wyde_portfolio-options.php:332
+#: inc/metaboxes/wyde_portfolio-options.php:409
+#: inc/metaboxes/wyde_portfolio-options.php:433
+#: inc/shortcodes/wyde-action-box.php:72 inc/shortcodes/wyde-icon-block.php:40
+#: inc/shortcodes/wyde-icon-block.php:49
+#: inc/shortcodes/wyde-image-gallery.php:88 inc/shortcodes/wyde-info-box.php:66
+#: inc/shortcodes/wyde-link-button.php:46 inc/shortcodes/wyde-separator.php:26
+msgid "None"
+msgstr ""
+
+#: admin/class-theme-options.php:443
+msgid "Right Side"
+msgstr ""
+
+#: admin/class-theme-options.php:444
+msgid "Select top bar right menu."
+msgstr ""
+
+#: admin/class-theme-options.php:455
+msgid "Sticky Header"
+msgstr ""
+
+#: admin/class-theme-options.php:456
+msgid "Enable sticky header."
+msgstr ""
+
+#: admin/class-theme-options.php:462 admin/class-theme-options.php:642
+#: admin/class-theme-options.php:1121 admin/class-theme-options.php:1133
+#: admin/class-theme-options.php:1429
+msgid "Full Width"
+msgstr ""
+
+#: admin/class-theme-options.php:463
+msgid "Turn on to use full width header or off to use fixed header width."
+msgstr ""
+
+#: admin/class-theme-options.php:469
+msgid "Header Background"
+msgstr ""
+
+#: admin/class-theme-options.php:470
+msgid "Select a header navigation background style."
+msgstr ""
+
+#: admin/class-theme-options.php:472 admin/class-theme-options.php:535
+#: admin/class-theme-options.php:992 admin/class-theme-options.php:1313
+#: admin/class-theme-options.php:1723 inc/metaboxes/page-options.php:87
+#: inc/metaboxes/page-options.php:145 inc/metaboxes/post-options.php:172
+#: inc/metaboxes/wyde_portfolio-options.php:213
+msgid "Light"
+msgstr ""
+
+#: admin/class-theme-options.php:473 admin/class-theme-options.php:534
+#: admin/class-theme-options.php:991 admin/class-theme-options.php:1312
+#: admin/class-theme-options.php:1722 inc/metaboxes/page-options.php:86
+#: inc/metaboxes/page-options.php:146 inc/metaboxes/post-options.php:173
+#: inc/metaboxes/wyde_portfolio-options.php:214
+msgid "Dark"
+msgstr ""
+
+#: admin/class-theme-options.php:480
+msgid "Dark Logo"
+msgstr ""
+
+#: admin/class-theme-options.php:482
+msgid "Dark color of logo for light header."
+msgstr ""
+
+#: admin/class-theme-options.php:483 admin/class-theme-options.php:505
+msgid "Recommended height: 88px or larger, and max width: 320px."
+msgstr ""
+
+#: admin/class-theme-options.php:491
+msgid "Dark Sticky Logo"
+msgstr ""
+
+#: admin/class-theme-options.php:493
+msgid "Dark color of sticky header logo for light header."
+msgstr ""
+
+#: admin/class-theme-options.php:494 admin/class-theme-options.php:516
+msgid "Recommended height: 70px or larger, and max width: 320px."
+msgstr ""
+
+#: admin/class-theme-options.php:502
+msgid "Light Logo"
+msgstr ""
+
+#: admin/class-theme-options.php:504
+msgid "Light color of logo for dark header."
+msgstr ""
+
+#: admin/class-theme-options.php:513
+msgid "Light Sticky Logo"
+msgstr ""
+
+#: admin/class-theme-options.php:515
+msgid "Light color of sticky logo for dark header."
+msgstr ""
+
+#: admin/class-theme-options.php:524
+msgid "Mobile Navigation"
+msgstr ""
+
+#: admin/class-theme-options.php:525
+msgid "Customize the mobile navigation."
+msgstr ""
+
+#: admin/class-theme-options.php:531
+msgid "Text Style"
+msgstr ""
+
+#: admin/class-theme-options.php:532
+msgid "Select navigation text style."
+msgstr ""
+
+#: admin/class-theme-options.php:536 admin/class-theme-options.php:1182
+#: inc/class-shortcode.php:295
+msgid "Custom"
+msgstr ""
+
+#: admin/class-theme-options.php:544 admin/class-theme-options.php:650
+#: admin/class-theme-options.php:792 inc/metaboxes/page-options.php:243
+#: inc/metaboxes/post-options.php:263
+#: inc/metaboxes/wyde_portfolio-options.php:305
+#: inc/shortcodes/wyde-action-box.php:91 inc/shortcodes/wyde-link-button.php:63
+msgid "Text Color"
+msgstr ""
+
+#: admin/class-theme-options.php:545
+msgid "Set navigation text color."
+msgstr ""
+
+#: admin/class-theme-options.php:553 admin/class-theme-options.php:660
+#: admin/class-theme-options.php:814 inc/metaboxes/page-options.php:251
+#: inc/metaboxes/page-options.php:348 inc/metaboxes/page-options.php:355
+#: inc/metaboxes/post-options.php:285 inc/metaboxes/post-options.php:381
+#: inc/metaboxes/post-options.php:388
+#: inc/metaboxes/wyde_portfolio-options.php:327
+#: inc/metaboxes/wyde_portfolio-options.php:422
+#: inc/metaboxes/wyde_portfolio-options.php:429
+msgid "Background"
+msgstr ""
+
+#: admin/class-theme-options.php:554
+msgid "Set a side nav background."
+msgstr ""
+
+#: admin/class-theme-options.php:567 admin/class-theme-options.php:864
+#: inc/metaboxes/page-options.php:301 inc/metaboxes/page-options.php:395
+#: inc/metaboxes/post-options.php:335 inc/metaboxes/post-options.php:428
+#: inc/metaboxes/wyde_portfolio-options.php:377
+#: inc/metaboxes/wyde_portfolio-options.php:469
+msgid "Background Overlay Color"
+msgstr ""
+
+#: admin/class-theme-options.php:568 admin/class-theme-options.php:865
+#: inc/metaboxes/page-options.php:302 inc/metaboxes/post-options.php:336
+#: inc/metaboxes/wyde_portfolio-options.php:378
+msgid "Select background overlay color."
+msgstr ""
+
+#: admin/class-theme-options.php:575 admin/class-theme-options.php:876
+#: inc/metaboxes/page-options.php:310 inc/metaboxes/page-options.php:403
+#: inc/metaboxes/post-options.php:343 inc/metaboxes/post-options.php:436
+#: inc/metaboxes/wyde_portfolio-options.php:385
+#: inc/metaboxes/wyde_portfolio-options.php:477
+msgid "Background Overlay Opacity"
+msgstr ""
+
+#: admin/class-theme-options.php:576 admin/class-theme-options.php:877
+#: inc/metaboxes/page-options.php:311 inc/metaboxes/page-options.php:404
+#: inc/metaboxes/post-options.php:344 inc/metaboxes/post-options.php:437
+#: inc/metaboxes/wyde_portfolio-options.php:386
+#: inc/metaboxes/wyde_portfolio-options.php:478
+msgid "Select background overlay opacity."
+msgstr ""
+
+#: admin/class-theme-options.php:599 inc/metaboxes/page-options.php:426
+#: inc/metaboxes/page-options.php:444 inc/metaboxes/post-options.php:504
+#: inc/metaboxes/post-options.php:522
+#: inc/metaboxes/wyde_portfolio-options.php:500
+#: inc/metaboxes/wyde_portfolio-options.php:518
+msgid "Footer"
+msgstr ""
+
+#: admin/class-theme-options.php:605 admin/class-theme-options.php:612
+#: inc/metaboxes/page-options.php:433 inc/metaboxes/post-options.php:511
+#: inc/metaboxes/wyde_portfolio-options.php:507
+msgid "Footer Content"
+msgstr ""
+
+#: admin/class-theme-options.php:606
+msgid "Customize the footer content."
+msgstr ""
+
+#: admin/class-theme-options.php:613
+msgid "Display footer content area."
+msgstr ""
+
+#: admin/class-theme-options.php:620 admin/class-theme-options.php:916
+#: inc/metaboxes/page-options.php:21
+msgid "Page"
+msgstr ""
+
+#: admin/class-theme-options.php:621
+msgid "Select a page to display in the footer content area."
+msgstr ""
+
+#: admin/class-theme-options.php:627 admin/class-theme-options.php:634
+msgid "Footer Bar"
+msgstr ""
+
+#: admin/class-theme-options.php:628
+msgid "Customize the footer bar."
+msgstr ""
+
+#: admin/class-theme-options.php:635
+msgid "Display a footer bar at the bottom of the page."
+msgstr ""
+
+#: admin/class-theme-options.php:643
+msgid "Display a footer bar as full width."
+msgstr ""
+
+#: admin/class-theme-options.php:651
+msgid "Set a footer bar text color."
+msgstr ""
+
+#: admin/class-theme-options.php:661
+msgid "Set a footer bar background."
+msgstr ""
+
+#: admin/class-theme-options.php:676
+msgid "Select footer bar layout."
+msgstr ""
+
+#: admin/class-theme-options.php:688
+msgid "Footer Logo"
+msgstr ""
+
+#: admin/class-theme-options.php:689
+msgid "Display footer logo."
+msgstr ""
+
+#: admin/class-theme-options.php:696
+msgid "Footer Logo Image"
+msgstr ""
+
+#: admin/class-theme-options.php:698
+msgid "Upload a footer logo image."
+msgstr ""
+
+#: admin/class-theme-options.php:707
+msgid "Footer Menu"
+msgstr ""
+
+#: admin/class-theme-options.php:708
+msgid "Display footer menu."
+msgstr ""
+
+#: admin/class-theme-options.php:715
+msgid "Social Icons"
+msgstr ""
+
+#: admin/class-theme-options.php:716
+msgid "Display social icons."
+msgstr ""
+
+#: admin/class-theme-options.php:723
+msgid "Footer Text"
+msgstr ""
+
+#: admin/class-theme-options.php:724
+msgid "Display footer text."
+msgstr ""
+
+#: admin/class-theme-options.php:746 admin/class-theme-options.php:752
+#: admin/class-theme-options.php:1277 admin/class-theme-options.php:1505
+#: inc/metaboxes/page-options.php:157 inc/metaboxes/post-options.php:184
+#: inc/metaboxes/post-options.php:191
+#: inc/metaboxes/wyde_portfolio-options.php:225
+#: inc/metaboxes/wyde_portfolio-options.php:232
+msgid "Title Area"
+msgstr ""
+
+#: admin/class-theme-options.php:753
+msgid "Default settings for title area."
+msgstr ""
+
+#: admin/class-theme-options.php:759 inc/metaboxes/page-options.php:192
+#: inc/metaboxes/post-options.php:226
+#: inc/metaboxes/wyde_portfolio-options.php:268
+#: inc/shortcodes/wyde-action-box.php:80 inc/shortcodes/wyde-link-button.php:53
+msgid "Size"
+msgstr ""
+
+#: admin/class-theme-options.php:760
+msgid "Select the title size."
+msgstr ""
+
+#: admin/class-theme-options.php:762 inc/metaboxes/page-options.php:197
+#: inc/metaboxes/post-options.php:231
+#: inc/metaboxes/wyde_portfolio-options.php:273
+#: inc/shortcodes/wyde-action-box.php:82 inc/shortcodes/wyde-icon-block.php:27
+#: inc/shortcodes/wyde-info-box.php:40 inc/shortcodes/wyde-link-button.php:55
+msgid "Small"
+msgstr ""
+
+#: admin/class-theme-options.php:763 inc/metaboxes/page-options.php:198
+#: inc/metaboxes/post-options.php:232
+#: inc/metaboxes/wyde_portfolio-options.php:274
+#: inc/shortcodes/wyde-icon-block.php:28 inc/shortcodes/wyde-info-box.php:41
+msgid "Medium"
+msgstr ""
+
+#: admin/class-theme-options.php:764 inc/metaboxes/page-options.php:199
+#: inc/metaboxes/post-options.php:233
+#: inc/metaboxes/wyde_portfolio-options.php:275
+#: inc/shortcodes/wyde-action-box.php:83 inc/shortcodes/wyde-icon-block.php:29
+#: inc/shortcodes/wyde-info-box.php:42 inc/shortcodes/wyde-link-button.php:56
+msgid "Large"
+msgstr ""
+
+#: admin/class-theme-options.php:765 inc/metaboxes/page-options.php:200
+#: inc/metaboxes/post-options.php:234
+#: inc/metaboxes/wyde_portfolio-options.php:276
+msgid "Full Screen"
+msgstr ""
+
+#: admin/class-theme-options.php:772 inc/metaboxes/page-options.php:207
+#: inc/metaboxes/post-options.php:241
+#: inc/metaboxes/wyde_portfolio-options.php:283
+msgid "Scrolling Effect"
+msgstr ""
+
+#: admin/class-theme-options.php:773 inc/metaboxes/page-options.php:208
+#: inc/metaboxes/post-options.php:242
+#: inc/metaboxes/wyde_portfolio-options.php:284
+msgid "Select a scrolling animation for title text and subtitle."
+msgstr ""
+
+#: admin/class-theme-options.php:776 inc/metaboxes/page-options.php:213
+#: inc/metaboxes/post-options.php:247
+#: inc/metaboxes/wyde_portfolio-options.php:289
+msgid "Split"
+msgstr ""
+
+#: admin/class-theme-options.php:777 admin/class-theme-options.php:902
+#: inc/metaboxes/page-options.php:214 inc/metaboxes/page-options.php:336
+#: inc/metaboxes/post-options.php:248 inc/metaboxes/post-options.php:369
+#: inc/metaboxes/wyde_portfolio-options.php:290
+#: inc/metaboxes/wyde_portfolio-options.php:411
+msgid "Fade Out"
+msgstr ""
+
+#: admin/class-theme-options.php:778 inc/metaboxes/page-options.php:215
+#: inc/metaboxes/post-options.php:249
+#: inc/metaboxes/wyde_portfolio-options.php:291
+msgid "Fade Out Up"
+msgstr ""
+
+#: admin/class-theme-options.php:779 inc/metaboxes/page-options.php:216
+#: inc/metaboxes/post-options.php:250
+#: inc/metaboxes/wyde_portfolio-options.php:292
+msgid "Fade Out Down"
+msgstr ""
+
+#: admin/class-theme-options.php:780 inc/metaboxes/page-options.php:217
+#: inc/metaboxes/post-options.php:251
+#: inc/metaboxes/wyde_portfolio-options.php:293
+#: inc/shortcodes/wyde-icon-block.php:50
+#: inc/shortcodes/wyde-image-gallery.php:89
+msgid "Zoom In"
+msgstr ""
+
+#: admin/class-theme-options.php:781 inc/metaboxes/page-options.php:218
+#: inc/metaboxes/post-options.php:252
+#: inc/metaboxes/wyde_portfolio-options.php:294
+msgid "Zoom In Up"
+msgstr ""
+
+#: admin/class-theme-options.php:782 inc/metaboxes/page-options.php:219
+#: inc/metaboxes/post-options.php:253
+#: inc/metaboxes/wyde_portfolio-options.php:295
+msgid "Zoom In Down"
+msgstr ""
+
+#: admin/class-theme-options.php:783 inc/metaboxes/page-options.php:220
+#: inc/metaboxes/post-options.php:254
+#: inc/metaboxes/wyde_portfolio-options.php:296
+#: inc/shortcodes/wyde-icon-block.php:51
+#: inc/shortcodes/wyde-image-gallery.php:90
+msgid "Zoom Out"
+msgstr ""
+
+#: admin/class-theme-options.php:784 inc/metaboxes/page-options.php:221
+#: inc/metaboxes/post-options.php:255
+#: inc/metaboxes/wyde_portfolio-options.php:297
+msgid "Zoom Out Up"
+msgstr ""
+
+#: admin/class-theme-options.php:785 inc/metaboxes/page-options.php:222
+#: inc/metaboxes/post-options.php:256
+#: inc/metaboxes/wyde_portfolio-options.php:298
+msgid "Zoom Out Down"
+msgstr ""
+
+#: admin/class-theme-options.php:793 inc/metaboxes/page-options.php:244
+#: inc/metaboxes/post-options.php:264
+#: inc/metaboxes/wyde_portfolio-options.php:306
+msgid "Select the title text color."
+msgstr ""
+
+#: admin/class-theme-options.php:801 inc/metaboxes/page-options.php:229
+#: inc/metaboxes/post-options.php:271
+#: inc/metaboxes/wyde_portfolio-options.php:313
+msgid "Alignment"
+msgstr ""
+
+#: admin/class-theme-options.php:802
+msgid "Select the title alignment."
+msgstr ""
+
+#: admin/class-theme-options.php:804
+msgid "Not Set"
+msgstr ""
+
+#: admin/class-theme-options.php:805 inc/metaboxes/page-options.php:234
+#: inc/metaboxes/post-options.php:276
+#: inc/metaboxes/wyde_portfolio-options.php:318
+#: inc/shortcodes/wyde-heading.php:70 inc/shortcodes/wyde-info-box.php:52
+#: inc/shortcodes/wyde-separator.php:53
+msgid "Left"
+msgstr ""
+
+#: admin/class-theme-options.php:807 inc/metaboxes/page-options.php:236
+#: inc/metaboxes/post-options.php:278
+#: inc/metaboxes/wyde_portfolio-options.php:320
+#: inc/shortcodes/wyde-heading.php:72 inc/shortcodes/wyde-info-box.php:53
+#: inc/shortcodes/wyde-separator.php:55
+msgid "Right"
+msgstr ""
+
+#: admin/class-theme-options.php:815
+msgid "Select background type."
+msgstr ""
+
+#: admin/class-theme-options.php:818 inc/class-shortcode.php:284
+#: inc/metaboxes/page-options.php:257 inc/metaboxes/page-options.php:360
+#: inc/metaboxes/post-options.php:291 inc/metaboxes/post-options.php:393
+#: inc/metaboxes/wyde_portfolio-options.php:333
+#: inc/metaboxes/wyde_portfolio-options.php:434
+#: inc/shortcodes/wyde-counter-box.php:52 inc/shortcodes/wyde-icon-block.php:67
+#: inc/shortcodes/wyde-info-box.php:78 inc/shortcodes/wyde-separator.php:110
+msgid "Color"
+msgstr ""
+
+#: admin/class-theme-options.php:819 inc/class-shortcode.php:117
+#: inc/metaboxes/page-options.php:258 inc/metaboxes/page-options.php:361
+#: inc/metaboxes/post-options.php:292 inc/metaboxes/post-options.php:394
+#: inc/metaboxes/wyde_portfolio-options.php:334
+#: inc/metaboxes/wyde_portfolio-options.php:435
+#: inc/shortcodes/wyde-banner.php:46 inc/shortcodes/wyde-pricing-box.php:31
+msgid "Image"
+msgstr ""
+
+#: admin/class-theme-options.php:820 inc/metaboxes/page-options.php:259
+#: inc/metaboxes/post-options.php:293
+#: inc/metaboxes/wyde_portfolio-options.php:335
+msgid "Video"
+msgstr ""
+
+#: admin/class-theme-options.php:831 inc/metaboxes/page-options.php:266
+#: inc/metaboxes/page-options.php:368 inc/metaboxes/post-options.php:300
+#: inc/metaboxes/post-options.php:401
+#: inc/metaboxes/wyde_portfolio-options.php:342
+#: inc/metaboxes/wyde_portfolio-options.php:442
+msgid "Background Image"
+msgstr ""
+
+#: admin/class-theme-options.php:836
+msgid "Customize background image."
+msgstr ""
+
+#: admin/class-theme-options.php:845 inc/metaboxes/page-options.php:274
+#: inc/metaboxes/post-options.php:308
+#: inc/metaboxes/wyde_portfolio-options.php:350
+msgid "Background Video"
+msgstr ""
+
+#: admin/class-theme-options.php:846
+msgid "Select an MP4 video to display as title background."
+msgstr ""
+
+#: admin/class-theme-options.php:853 inc/metaboxes/page-options.php:281
+#: inc/metaboxes/page-options.php:375 inc/metaboxes/post-options.php:315
+#: inc/metaboxes/post-options.php:408
+#: inc/metaboxes/wyde_portfolio-options.php:357
+#: inc/metaboxes/wyde_portfolio-options.php:449
+#: inc/shortcodes/wyde-action-box.php:37 inc/shortcodes/wyde-action-box.php:109
+#: inc/shortcodes/wyde-banner.php:84 inc/shortcodes/wyde-heading.php:84
+#: inc/shortcodes/wyde-icon-block.php:77 inc/shortcodes/wyde-link-button.php:79
+#: inc/shortcodes/wyde-section-separator.php:49
+msgid "Background Color"
+msgstr ""
+
+#: admin/class-theme-options.php:854
+msgid "Select a background color."
+msgstr ""
+
+#: admin/class-theme-options.php:898 inc/metaboxes/page-options.php:330
+#: inc/metaboxes/post-options.php:363
+#: inc/metaboxes/wyde_portfolio-options.php:405
+msgid "Background Effect"
+msgstr ""
+
+#: admin/class-theme-options.php:899 inc/metaboxes/page-options.php:331
+#: inc/metaboxes/post-options.php:364
+#: inc/metaboxes/wyde_portfolio-options.php:406
+msgid "Select background scrolling effect."
+msgstr ""
+
+#: admin/class-theme-options.php:903 inc/metaboxes/page-options.php:335
+#: inc/metaboxes/post-options.php:368
+#: inc/metaboxes/wyde_portfolio-options.php:410
+msgid "Gradient"
+msgstr ""
+
+#: admin/class-theme-options.php:904 inc/metaboxes/page-options.php:337
+#: inc/metaboxes/post-options.php:370
+#: inc/metaboxes/wyde_portfolio-options.php:412
+msgid "Parallax"
+msgstr ""
+
+#: admin/class-theme-options.php:922
+msgid "Page Options"
+msgstr ""
+
+#: admin/class-theme-options.php:923
+msgid "Choose default options for page."
+msgstr ""
+
+#: admin/class-theme-options.php:929
+msgid "One Page Website"
+msgstr ""
+
+#: admin/class-theme-options.php:930
+msgid ""
+"Create One Page website, your frontpage will retrieve page content from "
+"primary menu automatically."
+msgstr ""
+
+#: admin/class-theme-options.php:936 admin/class-theme-options.php:1197
+#: comments.php:11 templates/blog/single.php:125
+msgid "Comments"
+msgstr ""
+
+#: admin/class-theme-options.php:937
+msgid "Allow comments on Regular WordPress pages (Boxed Layout)."
+msgstr ""
+
+#: admin/class-theme-options.php:950 admin/class-theme-options.php:956
+msgid "Blog"
+msgstr ""
+
+#: admin/class-theme-options.php:957
+msgid "Customize Posts page that displays your latest posts."
+msgstr ""
+
+#: admin/class-theme-options.php:963 admin/class-theme-options.php:1284
+#: admin/class-theme-options.php:1512 admin/class-theme-options.php:1694
+msgid "Page Layout"
+msgstr ""
+
+#: admin/class-theme-options.php:964 admin/class-theme-options.php:1285
+#: admin/class-theme-options.php:1513 admin/class-theme-options.php:1695
+msgid ""
+"Select a page layout, choose 'Boxed' to create a Regular WordPress page, "
+"Wide for creating a Full Width page."
+msgstr ""
+
+#: admin/class-theme-options.php:966 admin/class-theme-options.php:1287
+#: admin/class-theme-options.php:1515 admin/class-theme-options.php:1697
+#: inc/metaboxes/page-options.php:41
+msgid "Boxed"
+msgstr ""
+
+#: admin/class-theme-options.php:967 admin/class-theme-options.php:1288
+#: admin/class-theme-options.php:1516 admin/class-theme-options.php:1698
+#: inc/metaboxes/page-options.php:42
+msgid "Wide"
+msgstr ""
+
+#: admin/class-theme-options.php:975 admin/class-theme-options.php:1104
+#: admin/class-theme-options.php:1296 admin/class-theme-options.php:1706
+#: inc/metaboxes/post-options.php:465 inc/metaboxes/post-options.php:472
+msgid "Sidebar"
+msgstr ""
+
+#: admin/class-theme-options.php:976 admin/class-theme-options.php:1105
+#: admin/class-theme-options.php:1297 admin/class-theme-options.php:1707
+#: inc/metaboxes/page-options.php:59 inc/metaboxes/post-options.php:480
+msgid "Select sidebar position."
+msgstr ""
+
+#: admin/class-theme-options.php:988 admin/class-theme-options.php:1309
+#: admin/class-theme-options.php:1719 inc/metaboxes/page-options.php:82
+msgid "Sidebar Style"
+msgstr ""
+
+#: admin/class-theme-options.php:989 admin/class-theme-options.php:1310
+#: admin/class-theme-options.php:1720 inc/metaboxes/page-options.php:83
+msgid "Select a sidebar background style."
+msgstr ""
+
+#: admin/class-theme-options.php:1001 admin/class-theme-options.php:1335
+msgid "Select blog posts view."
+msgstr ""
+
+#: admin/class-theme-options.php:1013 admin/class-theme-options.php:1347
+#: admin/class-theme-options.php:1553 inc/shortcodes/wyde-image-gallery.php:51
+#: inc/shortcodes/wyde-portfolio-grid.php:32
+msgid "Columns"
+msgstr ""
+
+#: admin/class-theme-options.php:1014 admin/class-theme-options.php:1348
+#: admin/class-theme-options.php:1554 inc/shortcodes/wyde-image-gallery.php:61
+#: inc/shortcodes/wyde-portfolio-grid.php:39
+msgid "Select the number of grid columns."
+msgstr ""
+
+#: admin/class-theme-options.php:1026 admin/class-theme-options.php:1030
+msgid "Excerpt"
+msgstr ""
+
+#: admin/class-theme-options.php:1027
+msgid "Choose to display an excerpt or full content on blog posts view."
+msgstr ""
+
+#: admin/class-theme-options.php:1029
+msgid "Full Content"
+msgstr ""
+
+#: admin/class-theme-options.php:1039
+msgid "Limit By"
+msgstr ""
+
+#: admin/class-theme-options.php:1040
+msgid "Limit the post excerpt length by using number of words or characters."
+msgstr ""
+
+#: admin/class-theme-options.php:1042
+msgid "Words"
+msgstr ""
+
+#: admin/class-theme-options.php:1043
+msgid "Characters"
+msgstr ""
+
+#: admin/class-theme-options.php:1052
+msgid "Excerpt Length"
+msgstr ""
+
+#: admin/class-theme-options.php:1053
+msgid "Enter the limit of post excerpt length."
+msgstr ""
+
+#: admin/class-theme-options.php:1060 templates/shortcodes/wyde_info_box.php:80
+msgid "Read More"
+msgstr ""
+
+#: admin/class-theme-options.php:1061
+msgid "Select read more style to display after the excerpt."
+msgstr ""
+
+#: admin/class-theme-options.php:1063
+msgid "[...]"
+msgstr ""
+
+#: admin/class-theme-options.php:1064
+msgid "Link to Full Post"
+msgstr ""
+
+#: admin/class-theme-options.php:1072 admin/class-theme-options.php:1360
+#: admin/class-theme-options.php:1566 admin/class-theme-options.php:1618
+#: admin/class-theme-options.php:1731 inc/shortcodes/wyde-portfolio-grid.php:92
+msgid "Pagination Type"
+msgstr ""
+
+#: admin/class-theme-options.php:1073 admin/class-theme-options.php:1361
+#: admin/class-theme-options.php:1732
+msgid "Select the pagination type for blog page."
+msgstr ""
+
+#: admin/class-theme-options.php:1075 admin/class-theme-options.php:1363
+#: admin/class-theme-options.php:1621 admin/class-theme-options.php:1734
+msgid "Numeric Pagination"
+msgstr ""
+
+#: admin/class-theme-options.php:1076 admin/class-theme-options.php:1364
+#: admin/class-theme-options.php:1569 admin/class-theme-options.php:1622
+#: admin/class-theme-options.php:1735 inc/shortcodes/wyde-portfolio-grid.php:94
+msgid "Infinite Scroll"
+msgstr ""
+
+#: admin/class-theme-options.php:1077 admin/class-theme-options.php:1365
+#: admin/class-theme-options.php:1623 admin/class-theme-options.php:1736
+msgid "Next and Previous"
+msgstr ""
+
+#: admin/class-theme-options.php:1084 admin/class-theme-options.php:1392
+msgid "Placeholder Image"
+msgstr ""
+
+#: admin/class-theme-options.php:1086 admin/class-theme-options.php:1393
+msgid "Select a cover image placeholder."
+msgstr ""
+
+#: admin/class-theme-options.php:1087
+msgid "Recommended size: 960x540 px or larger."
+msgstr ""
+
+#: admin/class-theme-options.php:1097
+msgid "Blog Single Post"
+msgstr ""
+
+#: admin/class-theme-options.php:1098
+msgid "Customize blog single post."
+msgstr ""
+
+#: admin/class-theme-options.php:1116
+msgid "Featured Image Size"
+msgstr ""
+
+#: admin/class-theme-options.php:1117
+msgid "Select blog single post featured image size."
+msgstr ""
+
+#: admin/class-theme-options.php:1119
+msgid "Hide Featured Image"
+msgstr ""
+
+#: admin/class-theme-options.php:1120 admin/class-theme-options.php:1132
+#: admin/class-theme-options.php:1428
+msgid "Large (960x540)"
+msgstr ""
+
+#: admin/class-theme-options.php:1122 admin/class-theme-options.php:1134
+#: admin/class-theme-options.php:1430 inc/class-shortcode.php:130
+#: inc/shortcodes/wyde-banner.php:58 inc/shortcodes/wyde-image-gallery.php:31
+msgid "Original"
+msgstr ""
+
+#: admin/class-theme-options.php:1129 admin/class-theme-options.php:1425
+msgid "Lightbox Image Size"
+msgstr ""
+
+#: admin/class-theme-options.php:1130
+msgid "Select lightbox image size."
+msgstr ""
+
+#: admin/class-theme-options.php:1141
+msgid "Post Tags"
+msgstr ""
+
+#: admin/class-theme-options.php:1142
+msgid "Display post tags."
+msgstr ""
+
+#: admin/class-theme-options.php:1148
+msgid "Author Box"
+msgstr ""
+
+#: admin/class-theme-options.php:1149 inc/metaboxes/post-options.php:100
+msgid "Display author description box."
+msgstr ""
+
+#: admin/class-theme-options.php:1155 admin/class-theme-options.php:1263
+#: admin/class-theme-options.php:1444
+msgid "Social Share Buttons"
+msgstr ""
+
+#: admin/class-theme-options.php:1156
+msgid "Display social media share buttons on the blog single post."
+msgstr ""
+
+#: admin/class-theme-options.php:1162 admin/class-theme-options.php:1451
+msgid "Post Navigation"
+msgstr ""
+
+#: admin/class-theme-options.php:1163 admin/class-theme-options.php:1452
+msgid "Display next and previous posts."
+msgstr ""
+
+#: admin/class-theme-options.php:1170 admin/class-theme-options.php:1459
+msgid "Home Button"
+msgstr ""
+
+#: admin/class-theme-options.php:1171
+msgid "Display a \"Home\" button on blog single post."
+msgstr ""
+
+#: admin/class-theme-options.php:1178
+msgid "Blog Home Page"
+msgstr ""
+
+#: admin/class-theme-options.php:1179
+msgid "Select a blog home page."
+msgstr ""
+
+#: admin/class-theme-options.php:1181
+msgid "Default - Assigned Posts Page"
+msgstr ""
+
+#: admin/class-theme-options.php:1190
+msgid "Blog Home Page URL"
+msgstr ""
+
+#: admin/class-theme-options.php:1191
+msgid "Home page URL for the \"Home\" button on blog single post."
+msgstr ""
+
+#: admin/class-theme-options.php:1198
+msgid "Display comments box."
+msgstr ""
+
+#: admin/class-theme-options.php:1204 admin/class-theme-options.php:1474
+#: inc/metaboxes/post-options.php:111
+#: inc/metaboxes/wyde_portfolio-options.php:40 templates/blog/related.php:32
+msgid "Related Posts"
+msgstr ""
+
+#: admin/class-theme-options.php:1205 admin/class-theme-options.php:1475
+#: inc/metaboxes/post-options.php:112
+#: inc/metaboxes/wyde_portfolio-options.php:41
+msgid "Display related posts."
+msgstr ""
+
+#: admin/class-theme-options.php:1212 admin/class-theme-options.php:1482
+msgid "Number of related posts"
+msgstr ""
+
+#: admin/class-theme-options.php:1213 admin/class-theme-options.php:1483
+msgid "Select the number of posts to show in related posts."
+msgstr ""
+
+#: admin/class-theme-options.php:1228
+msgid "Blog Meta"
+msgstr ""
+
+#: admin/class-theme-options.php:1229
+msgid "Customize blog meta data options."
+msgstr ""
+
+#: admin/class-theme-options.php:1235
+msgid "Post Date"
+msgstr ""
+
+#: admin/class-theme-options.php:1236
+msgid "Display blog post date."
+msgstr ""
+
+#: admin/class-theme-options.php:1242
+msgid "Author Name"
+msgstr ""
+
+#: admin/class-theme-options.php:1243
+msgid "Display blog author meta data."
+msgstr ""
+
+#: admin/class-theme-options.php:1249
+msgid "Category"
+msgstr ""
+
+#: admin/class-theme-options.php:1250
+msgid "Display blog meta category."
+msgstr ""
+
+#: admin/class-theme-options.php:1256 templates/blog/single.php:125
+msgid "Comment"
+msgstr ""
+
+#: admin/class-theme-options.php:1257
+msgid "Display blog meta comment."
+msgstr ""
+
+#: admin/class-theme-options.php:1264
+msgid "Display social media share buttons on the blog posts list."
+msgstr ""
+
+#: admin/class-theme-options.php:1270
+msgid "Blog Archive/Category"
+msgstr ""
+
+#: admin/class-theme-options.php:1271
+msgid "Customize blog archive/category page and author page."
+msgstr ""
+
+#: admin/class-theme-options.php:1278 admin/class-theme-options.php:1506
+msgid "Turn on to show the page title area on archive page."
+msgstr ""
+
+#: admin/class-theme-options.php:1321 admin/class-theme-options.php:1524
+msgid "Page Background"
+msgstr ""
+
+#: admin/class-theme-options.php:1322
+msgid "Set blog archive page background."
+msgstr ""
+
+#: admin/class-theme-options.php:1379
+#: inc/metaboxes/wyde_portfolio-options.php:11
+msgid "Portfolio"
+msgstr ""
+
+#: admin/class-theme-options.php:1385
+msgid "Portfolio Options"
+msgstr ""
+
+#: admin/class-theme-options.php:1386
+msgid "Customize the portfolio options."
+msgstr ""
+
+#: admin/class-theme-options.php:1394
+msgid "Recommended size: 640x640 px or larger."
+msgstr ""
+
+#: admin/class-theme-options.php:1404
+msgid "Portfolio Single Post"
+msgstr ""
+
+#: admin/class-theme-options.php:1405
+msgid "Customize the portfolio single post."
+msgstr ""
+
+#: admin/class-theme-options.php:1411
+msgid "Portfolio Slug"
+msgstr ""
+
+#: admin/class-theme-options.php:1412
+msgid ""
+"Change/Rewrite the permalink when you use the permalink type as %postname%."
+msgstr ""
+
+#: admin/class-theme-options.php:1418
+msgid "Display Featured Image"
+msgstr ""
+
+#: admin/class-theme-options.php:1419
+msgid "Turn on to display featured image on portfolio single post."
+msgstr ""
+
+#: admin/class-theme-options.php:1426
+msgid "Select portfolio lightbox image size."
+msgstr ""
+
+#: admin/class-theme-options.php:1437
+msgid "Publish Date"
+msgstr ""
+
+#: admin/class-theme-options.php:1438
+msgid "Display portfolio publish date."
+msgstr ""
+
+#: admin/class-theme-options.php:1445
+msgid "Display social media share buttons on the portfolio single post."
+msgstr ""
+
+#: admin/class-theme-options.php:1460
+msgid "Display a \"Home\" button on portfolio single post."
+msgstr ""
+
+#: admin/class-theme-options.php:1467
+msgid "Portfolio Home Page"
+msgstr ""
+
+#: admin/class-theme-options.php:1468
+msgid "Home page URL for the \"Home\" button on portfolio single post."
+msgstr ""
+
+#: admin/class-theme-options.php:1498
+msgid "Portfolio Archive"
+msgstr ""
+
+#: admin/class-theme-options.php:1499
+msgid "Customize the portfolio archive pages (Category, Skill and Tag)."
+msgstr ""
+
+#: admin/class-theme-options.php:1525
+msgid "Set portfolio archive page background."
+msgstr ""
+
+#: admin/class-theme-options.php:1536
+msgid "Select a portfolio layout for archive pages."
+msgstr ""
+
+#: admin/class-theme-options.php:1538 inc/shortcodes/wyde-image-gallery.php:41
+#: inc/shortcodes/wyde-portfolio-grid.php:21
+msgid "Grid (Without Space)"
+msgstr ""
+
+#: admin/class-theme-options.php:1539 inc/shortcodes/wyde-image-gallery.php:42
+#: inc/shortcodes/wyde-portfolio-grid.php:22
+msgid "Grid (With Space)"
+msgstr ""
+
+#: admin/class-theme-options.php:1540 inc/shortcodes/wyde-portfolio-grid.php:23
+msgid "Photoset"
+msgstr ""
+
+#: admin/class-theme-options.php:1541 inc/shortcodes/wyde-portfolio-grid.php:24
+msgid "Masonry 1"
+msgstr ""
+
+#: admin/class-theme-options.php:1542 inc/shortcodes/wyde-portfolio-grid.php:25
+msgid "Masonry 2"
+msgstr ""
+
+#: admin/class-theme-options.php:1556
+msgid "2 Columns"
+msgstr ""
+
+#: admin/class-theme-options.php:1557
+msgid "3 Columns"
+msgstr ""
+
+#: admin/class-theme-options.php:1558
+msgid "4 Columns"
+msgstr ""
+
+#: admin/class-theme-options.php:1567
+msgid "Select the pagination type for portfolio archive pages."
+msgstr ""
+
+#: admin/class-theme-options.php:1570 inc/shortcodes/wyde-portfolio-grid.php:95
+msgid "Show More Button"
+msgstr ""
+
+#: admin/class-theme-options.php:1571 inc/metaboxes/page-options.php:110
+#: inc/metaboxes/page-options.php:122 inc/metaboxes/page-options.php:169
+#: inc/metaboxes/page-options.php:438 inc/metaboxes/page-options.php:449
+#: inc/metaboxes/post-options.php:105 inc/metaboxes/post-options.php:117
+#: inc/metaboxes/post-options.php:138 inc/metaboxes/post-options.php:150
+#: inc/metaboxes/post-options.php:202 inc/metaboxes/post-options.php:516
+#: inc/metaboxes/post-options.php:527
+#: inc/metaboxes/wyde_portfolio-options.php:46
+#: inc/metaboxes/wyde_portfolio-options.php:178
+#: inc/metaboxes/wyde_portfolio-options.php:190
+#: inc/metaboxes/wyde_portfolio-options.php:244
+#: inc/metaboxes/wyde_portfolio-options.php:512
+#: inc/metaboxes/wyde_portfolio-options.php:523
+#: inc/shortcodes/wyde-portfolio-grid.php:96
+msgid "Hide"
+msgstr ""
+
+#: admin/class-theme-options.php:1583
+#: inc/shortcodes/wyde-wc-products-slider.php:13
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/class-theme-options.php:1589
+msgid "Shop Page"
+msgstr ""
+
+#: admin/class-theme-options.php:1590
+msgid "Customize shop page."
+msgstr ""
+
+#: admin/class-theme-options.php:1596
+msgid "Number of Products per Page"
+msgstr ""
+
+#: admin/class-theme-options.php:1597
+msgid "Enter the number of products per page."
+msgstr ""
+
+#: admin/class-theme-options.php:1605 admin/class-theme-options.php:1668
+msgid "Number of Columns"
+msgstr ""
+
+#: admin/class-theme-options.php:1606 admin/class-theme-options.php:1669
+msgid "Select the number of columns."
+msgstr ""
+
+#: admin/class-theme-options.php:1619
+msgid "Select the pagination type for shop page."
+msgstr ""
+
+#: admin/class-theme-options.php:1630
+msgid "Single Product"
+msgstr ""
+
+#: admin/class-theme-options.php:1631
+msgid "Customize shop single product."
+msgstr ""
+
+#: admin/class-theme-options.php:1637
+msgid "Shop Single Sidebar"
+msgstr ""
+
+#: admin/class-theme-options.php:1638
+msgid "Select shop single product sidebar position."
+msgstr ""
+
+#: admin/class-theme-options.php:1649
+msgid "Number of Related Products"
+msgstr ""
+
+#: admin/class-theme-options.php:1650
+msgid "Select the number of related products."
+msgstr ""
+
+#: admin/class-theme-options.php:1688 page-title.php:189
+#: templates/navigation/side-nav.php:33
+msgid "Search"
+msgstr ""
+
+#: admin/class-theme-options.php:1743
+msgid "Show Featured Image"
+msgstr ""
+
+#: admin/class-theme-options.php:1744
+msgid "Display featured images in search results."
+msgstr ""
+
+#: admin/class-theme-options.php:1750
+msgid "Show Post Date"
+msgstr ""
+
+#: admin/class-theme-options.php:1751
+msgid "Display post date in search results."
+msgstr ""
+
+#: admin/class-theme-options.php:1757
+msgid "Show Author"
+msgstr ""
+
+#: admin/class-theme-options.php:1758
+msgid "Display post author in search results."
+msgstr ""
+
+#: admin/class-theme-options.php:1764
+msgid "Ajax Search"
+msgstr ""
+
+#: admin/class-theme-options.php:1765
+msgid "Enable ajax auto suggest search."
+msgstr ""
+
+#: admin/class-theme-options.php:1777
+msgid "Post Types"
+msgstr ""
+
+#: admin/class-theme-options.php:1778
+msgid "Select post types for ajax auto suggest search."
+msgstr ""
+
+#: admin/class-theme-options.php:1790
+msgid "Number of Suggestion Items."
+msgstr ""
+
+#: admin/class-theme-options.php:1791
+msgid "Select number of search suggestion items per post type."
+msgstr ""
+
+#: admin/class-theme-options.php:1815
+msgid "AJAX Page"
+msgstr ""
+
+#: admin/class-theme-options.php:1821
+msgid "AJAX Options"
+msgstr ""
+
+#: admin/class-theme-options.php:1822
+msgid "Turn on or off the AJAX page features."
+msgstr ""
+
+#: admin/class-theme-options.php:1828
+msgid "Ajax Page"
+msgstr ""
+
+#: admin/class-theme-options.php:1829
+msgid "Enable ajax page transitions."
+msgstr ""
+
+#: admin/class-theme-options.php:1836
+msgid "Transitions"
+msgstr ""
+
+#: admin/class-theme-options.php:1837
+msgid "Select a page transition effect."
+msgstr ""
+
+#: admin/class-theme-options.php:1839 inc/shortcodes/wyde-image-gallery.php:105
+#: inc/shortcodes/wyde-wc-products-slider.php:50
+msgid "Fade"
+msgstr ""
+
+#: admin/class-theme-options.php:1840
+msgid "Slide Toggle"
+msgstr ""
+
+#: admin/class-theme-options.php:1841
+msgid "Slide to Left"
+msgstr ""
+
+#: admin/class-theme-options.php:1842
+msgid "Slide to Right"
+msgstr ""
+
+#: admin/class-theme-options.php:1843
+msgid "Slide Up"
+msgstr ""
+
+#: admin/class-theme-options.php:1844
+msgid "Slide Down"
+msgstr ""
+
+#: admin/class-theme-options.php:1852
+msgid "Exclude URLs"
+msgstr ""
+
+#: admin/class-theme-options.php:1853
+msgid ""
+"Excludes the specific links from AJAX Page Loader. E.g. /shop/, /cart/, /"
+"checkout/, etc."
+msgstr ""
+
+#: admin/class-theme-options.php:1854
+msgid "Add New"
+msgstr ""
+
+#: admin/class-theme-options.php:1884
+msgid "Social Media"
+msgstr ""
+
+#: admin/class-theme-options.php:1894
+msgid "Typography"
+msgstr ""
+
+#: admin/class-theme-options.php:1895
+msgid "Customize font options for your site."
+msgstr ""
+
+#: admin/class-theme-options.php:1900
+msgid "Body"
+msgstr ""
+
+#: admin/class-theme-options.php:1901
+msgid "Font options for main body text."
+msgstr ""
+
+#: admin/class-theme-options.php:1921
+msgid "Primary Menu"
+msgstr ""
+
+#: admin/class-theme-options.php:1922
+msgid "Font options for primary navigation."
+msgstr ""
+
+#: admin/class-theme-options.php:1945
+msgid "Buttons and Link Buttons"
+msgstr ""
+
+#: admin/class-theme-options.php:1946
+msgid "Font options for buttons and link buttons."
+msgstr ""
+
+#: admin/class-theme-options.php:1969
+msgid "H1"
+msgstr ""
+
+#: admin/class-theme-options.php:1970
+msgid "Font options for heading 1."
+msgstr ""
+
+#: admin/class-theme-options.php:1991
+msgid "H2"
+msgstr ""
+
+#: admin/class-theme-options.php:1992
+msgid "Font options for heading 2."
+msgstr ""
+
+#: admin/class-theme-options.php:2013
+msgid "H3"
+msgstr ""
+
+#: admin/class-theme-options.php:2014
+msgid "Font options for heading 3."
+msgstr ""
+
+#: admin/class-theme-options.php:2035
+msgid "H4"
+msgstr ""
+
+#: admin/class-theme-options.php:2036
+msgid "Font options for heading 4."
+msgstr ""
+
+#: admin/class-theme-options.php:2060
+msgid "H5"
+msgstr ""
+
+#: admin/class-theme-options.php:2061
+msgid "Font options for heading 5 and blockquote."
+msgstr ""
+
+#: admin/class-theme-options.php:2085
+msgid "Element headings"
+msgstr ""
+
+#: admin/class-theme-options.php:2086
+msgid ""
+"Font options for element headings, text separator, donut chart and related "
+"posts."
+msgstr ""
+
+#: admin/class-theme-options.php:2116
+msgid "Google Maps"
+msgstr ""
+
+#: admin/class-theme-options.php:2122
+msgid "Google Maps API Key"
+msgstr ""
+
+#: admin/class-theme-options.php:2123
+msgid ""
+"Enter your Google Maps API key, <a href=\"https://developers.google.com/maps/"
+"documentation/javascript/get-api-key#key\" target=\"_blank\">Get an API key</"
+"a>"
+msgstr ""
+
+#: admin/class-theme-options.php:2134
+msgid "Advanced"
+msgstr ""
+
+#: admin/class-theme-options.php:2140
+msgid "Head Content"
+msgstr ""
+
+#: admin/class-theme-options.php:2141
+msgid ""
+"Enter HTML/JavaScript/StyleSheet. The content will be added into the head "
+"tag. You can add Google Verification code and custom Meta HTTP Content here."
+msgstr ""
+
+#: admin/class-theme-options.php:2148
+msgid "Body Content"
+msgstr ""
+
+#: admin/class-theme-options.php:2149
+msgid ""
+"Enter HTML/JavaScript/StyleSheet. The content will be added into the footer "
+"of all pages. You can add Google Analytics code and custom JavaScript here."
+msgstr ""
+
+#: admin/class-theme-options.php:2160
+msgid "Settings"
+msgstr ""
+
+#: admin/class-theme-options.php:2167 admin/class-theme-options.php:2238
+#: admin/class-theme-options.php:2240
+msgid "Theme Options"
+msgstr ""
+
+#: admin/class-theme-options.php:2168
+msgid "Import and Export your Theme Options."
+msgstr ""
+
+#: admin/class-theme-options.php:2182
+msgid "Customize"
+msgstr ""
+
+#: admin/class-theme-options.php:2197 templates/blog/content-list.php:129
+#: templates/blog/content-masonry.php:136 templates/blog/content.php:134
+#: templates/blog/single.php:116
+msgid "By"
+msgstr ""
+
+#: admin/class-theme-options.php:2198 inc/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: admin/class-theme-options.php:2199
+msgid "Tags"
+msgstr ""
+
+#: admin/class-theme-options.php:2203
+msgid "This child theme requires its parent theme"
+msgstr ""
+
+#: admin/class-theme-options.php:2217
+msgid "Theme Information"
+msgstr ""
+
+#: admin/class-theme-options.php:2218
+msgid "For more information and features about this theme, please visit"
+msgstr ""
+
+#: comments.php:5
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:11
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:11
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:37
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:48 inc/metaboxes/wyde_portfolio-options.php:101
+msgid "Name"
+msgstr ""
+
+#: comments.php:48 comments.php:50 inc/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: comments.php:50 templates/shortcodes/wyde_team_slider.php:82
+msgid "Email"
+msgstr ""
+
+#: comments.php:52 inc/metaboxes/wyde_team_member-options.php:50
+#: inc/metaboxes/wyde_testimonial-options.php:32
+#: templates/shortcodes/wyde_team_slider.php:86
+msgid "Website"
+msgstr ""
+
+#: comments.php:59
+msgid "Post A Comment"
+msgstr ""
+
+#: comments.php:60
+msgid "Leave A Reply"
+msgstr ""
+
+#: comments.php:61
+#, php-format
+msgid "You must be %slogged in%s to post a comment."
+msgstr ""
+
+#: comments.php:62
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:62
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:62
+msgid "Log out"
+msgstr ""
+
+#: comments.php:65
+msgid "Comment..."
+msgstr ""
+
+#: comments.php:67
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:40
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:41
+msgid "Footer Navigation"
+msgstr ""
+
+#: functions.php:66
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:76
+msgid "Page Sidebar 1"
+msgstr ""
+
+#: functions.php:86
+msgid "Page Sidebar 2"
+msgstr ""
+
+#: functions.php:96
+msgid "Shop Sidebar"
+msgstr ""
+
+#: functions.php:527
+msgid "Install Bundled Plugins"
+msgstr ""
+
+#: inc/class-metabox.php:64
+msgid "GoGreen Options"
+msgstr ""
+
+#: inc/class-shortcode.php:66
+msgid "Wyde Core plugin is required!"
+msgstr ""
+
+#: inc/class-shortcode.php:67
+msgid ""
+"This theme requires Wyde Core plugin for rendering shortcodes and content."
+msgstr ""
+
+#: inc/class-shortcode.php:107
+msgid "Single Image"
+msgstr ""
+
+#: inc/class-shortcode.php:111 inc/class-shortcode.php:254
+#: inc/shortcodes/wyde-info-box.php:26
+msgid "Content"
+msgstr ""
+
+#: inc/class-shortcode.php:112
+msgid "Insert an image"
+msgstr ""
+
+#: inc/class-shortcode.php:118
+msgid "Select an image from media library."
+msgstr ""
+
+#: inc/class-shortcode.php:123 inc/shortcodes/wyde-banner.php:52
+#: inc/shortcodes/wyde-image-gallery.php:23
+msgid "Image Size"
+msgstr ""
+
+#: inc/class-shortcode.php:125 inc/shortcodes/wyde-image-gallery.php:26
+msgid "Thumbnail (150x150)"
+msgstr ""
+
+#: inc/class-shortcode.php:126 inc/shortcodes/wyde-banner.php:54
+#: inc/shortcodes/wyde-image-gallery.php:27
+msgid "Medium (340x340)"
+msgstr ""
+
+#: inc/class-shortcode.php:127 inc/shortcodes/wyde-banner.php:55
+#: inc/shortcodes/wyde-image-gallery.php:28
+msgid "Large (640x640)"
+msgstr ""
+
+#: inc/class-shortcode.php:128 inc/shortcodes/wyde-banner.php:56
+#: inc/shortcodes/wyde-image-gallery.php:29
+msgid "Extra Large (960x960)"
+msgstr ""
+
+#: inc/class-shortcode.php:129 inc/shortcodes/wyde-banner.php:57
+#: inc/shortcodes/wyde-image-gallery.php:30
+msgid "Full Width (min-width: 1280px)"
+msgstr ""
+
+#: inc/class-shortcode.php:133 inc/shortcodes/wyde-banner.php:60
+#: inc/shortcodes/wyde-image-gallery.php:33
+#: inc/shortcodes/wyde-image-gallery.php:46
+msgid "Select image size."
+msgstr ""
+
+#: inc/class-shortcode.php:138
+msgid "Image Style"
+msgstr ""
+
+#: inc/class-shortcode.php:141 inc/metaboxes/page-options.php:51
+#: inc/metaboxes/page-options.php:120 inc/metaboxes/page-options.php:144
+#: inc/metaboxes/page-options.php:196 inc/metaboxes/page-options.php:211
+#: inc/metaboxes/page-options.php:233 inc/metaboxes/page-options.php:255
+#: inc/metaboxes/page-options.php:314 inc/metaboxes/page-options.php:407
+#: inc/metaboxes/post-options.php:103 inc/metaboxes/post-options.php:115
+#: inc/metaboxes/post-options.php:148 inc/metaboxes/post-options.php:171
+#: inc/metaboxes/post-options.php:230 inc/metaboxes/post-options.php:245
+#: inc/metaboxes/post-options.php:275 inc/metaboxes/post-options.php:289
+#: inc/metaboxes/post-options.php:347 inc/metaboxes/post-options.php:440
+#: inc/metaboxes/post-options.php:458
+#: inc/metaboxes/wyde_portfolio-options.php:44
+#: inc/metaboxes/wyde_portfolio-options.php:188
+#: inc/metaboxes/wyde_portfolio-options.php:212
+#: inc/metaboxes/wyde_portfolio-options.php:272
+#: inc/metaboxes/wyde_portfolio-options.php:287
+#: inc/metaboxes/wyde_portfolio-options.php:317
+#: inc/metaboxes/wyde_portfolio-options.php:331
+#: inc/metaboxes/wyde_portfolio-options.php:389
+#: inc/metaboxes/wyde_portfolio-options.php:481
+#: inc/shortcodes/wyde-donut-chart.php:65
+#: inc/shortcodes/wyde-donut-chart.php:94
+#: inc/shortcodes/wyde-half-donut-chart.php:72
+#: inc/shortcodes/wyde-half-donut-chart.php:101
+msgid "Default"
+msgstr ""
+
+#: inc/class-shortcode.php:142
+msgid "Border"
+msgstr ""
+
+#: inc/class-shortcode.php:143 inc/class-shortcode.php:265
+#: inc/shortcodes/wyde-donut-chart.php:66
+#: inc/shortcodes/wyde-half-donut-chart.php:73
+msgid "Outline"
+msgstr ""
+
+#: inc/class-shortcode.php:144
+msgid "Shadow"
+msgstr ""
+
+#: inc/class-shortcode.php:145 inc/class-shortcode.php:278
+#: inc/shortcodes/wyde-action-box.php:67 inc/shortcodes/wyde-link-button.php:41
+msgid "Round"
+msgstr ""
+
+#: inc/class-shortcode.php:146
+msgid "Round Border"
+msgstr ""
+
+#: inc/class-shortcode.php:147 inc/shortcodes/wyde-action-box.php:70
+#: inc/shortcodes/wyde-link-button.php:44
+msgid "Round Outline"
+msgstr ""
+
+#: inc/class-shortcode.php:148
+msgid "Round Shadow"
+msgstr ""
+
+#: inc/class-shortcode.php:149 inc/shortcodes/wyde-icon-block.php:38
+#: inc/shortcodes/wyde-info-box.php:67
+msgid "Circle"
+msgstr ""
+
+#: inc/class-shortcode.php:150
+msgid "Circle Border"
+msgstr ""
+
+#: inc/class-shortcode.php:151
+msgid "Circle Outline"
+msgstr ""
+
+#: inc/class-shortcode.php:152
+msgid "Circle Shadow"
+msgstr ""
+
+#: inc/class-shortcode.php:154 inc/class-shortcode.php:175
+msgid "Select image alignment."
+msgstr ""
+
+#: inc/class-shortcode.php:159 inc/shortcodes/wyde-donut-chart.php:80
+#: inc/shortcodes/wyde-half-donut-chart.php:87
+msgid "Border Color"
+msgstr ""
+
+#: inc/class-shortcode.php:160
+msgid "Select image border color."
+msgstr ""
+
+#: inc/class-shortcode.php:169
+msgid "Image Alignment"
+msgstr ""
+
+#: inc/class-shortcode.php:171
+msgid "Align Left"
+msgstr ""
+
+#: inc/class-shortcode.php:172
+msgid "Align Center"
+msgstr ""
+
+#: inc/class-shortcode.php:173
+msgid "Align Right"
+msgstr ""
+
+#: inc/class-shortcode.php:180
+msgid "On Click Action"
+msgstr ""
+
+#: inc/class-shortcode.php:183
+msgid "Link to large image"
+msgstr ""
+
+#: inc/class-shortcode.php:184
+msgid "Open prettyPhoto"
+msgstr ""
+
+#: inc/class-shortcode.php:185
+msgid "Open custom link"
+msgstr ""
+
+#: inc/class-shortcode.php:187
+msgid "Select action for click action."
+msgstr ""
+
+#: inc/class-shortcode.php:193
+msgid "Image Link"
+msgstr ""
+
+#: inc/class-shortcode.php:194
+msgid "Set an image link."
+msgstr ""
+
+#: inc/class-shortcode.php:203
+msgid "Link Target"
+msgstr ""
+
+#: inc/class-shortcode.php:205
+msgid "Same window"
+msgstr ""
+
+#: inc/class-shortcode.php:206
+msgid "New window"
+msgstr ""
+
+#: inc/class-shortcode.php:216 inc/class-shortcode.php:327
+#: inc/shortcodes/wyde-action-box.php:120
+#: inc/shortcodes/wyde-counter-box.php:68
+#: inc/shortcodes/wyde-donut-chart.php:104
+#: inc/shortcodes/wyde-half-donut-chart.php:110
+#: inc/shortcodes/wyde-heading.php:94 inc/shortcodes/wyde-icon-block.php:93
+#: inc/shortcodes/wyde-info-box.php:91 inc/shortcodes/wyde-link-button.php:89
+#: inc/shortcodes/wyde-portfolio-grid.php:103
+#: inc/shortcodes/wyde-pricing-box.php:92
+#: inc/shortcodes/wyde-wc-products-slider.php:93
+msgid "Animation"
+msgstr ""
+
+#: inc/class-shortcode.php:217 inc/class-shortcode.php:328
+#: inc/shortcodes/wyde-action-box.php:121
+#: inc/shortcodes/wyde-counter-box.php:69
+#: inc/shortcodes/wyde-donut-chart.php:105
+#: inc/shortcodes/wyde-half-donut-chart.php:111
+#: inc/shortcodes/wyde-heading.php:95 inc/shortcodes/wyde-icon-block.php:94
+#: inc/shortcodes/wyde-info-box.php:92 inc/shortcodes/wyde-link-button.php:90
+#: inc/shortcodes/wyde-portfolio-grid.php:104
+#: inc/shortcodes/wyde-pricing-box.php:93
+#: inc/shortcodes/wyde-wc-products-slider.php:94
+msgid "Select a CSS3 Animation that applies to this element."
+msgstr ""
+
+#: inc/class-shortcode.php:222 inc/class-shortcode.php:333
+#: inc/shortcodes/wyde-action-box.php:126
+#: inc/shortcodes/wyde-counter-box.php:74
+#: inc/shortcodes/wyde-donut-chart.php:110
+#: inc/shortcodes/wyde-half-donut-chart.php:116
+#: inc/shortcodes/wyde-heading.php:100 inc/shortcodes/wyde-icon-block.php:99
+#: inc/shortcodes/wyde-info-box.php:97 inc/shortcodes/wyde-link-button.php:95
+#: inc/shortcodes/wyde-portfolio-grid.php:109
+#: inc/shortcodes/wyde-pricing-box.php:98
+#: inc/shortcodes/wyde-wc-products-slider.php:99
+msgid "Animation Delay"
+msgstr ""
+
+#: inc/class-shortcode.php:223 inc/class-shortcode.php:334
+#: inc/shortcodes/wyde-action-box.php:127
+#: inc/shortcodes/wyde-counter-box.php:75
+#: inc/shortcodes/wyde-donut-chart.php:111
+#: inc/shortcodes/wyde-half-donut-chart.php:117
+#: inc/shortcodes/wyde-heading.php:101 inc/shortcodes/wyde-icon-block.php:100
+#: inc/shortcodes/wyde-info-box.php:98 inc/shortcodes/wyde-link-button.php:96
+#: inc/shortcodes/wyde-portfolio-grid.php:110
+#: inc/shortcodes/wyde-pricing-box.php:99
+#: inc/shortcodes/wyde-wc-products-slider.php:100
+msgid ""
+"Defines when the animation will start (in seconds). Example: 0.5, 1, 2, ..."
+msgstr ""
+
+#: inc/class-shortcode.php:232 inc/class-shortcode.php:342
+#: inc/shortcodes/wyde-action-box.php:136 inc/shortcodes/wyde-banner.php:94
+#: inc/shortcodes/wyde-counter-box.php:84
+#: inc/shortcodes/wyde-donut-chart.php:120
+#: inc/shortcodes/wyde-half-donut-chart.php:126
+#: inc/shortcodes/wyde-heading.php:110 inc/shortcodes/wyde-icon-block.php:109
+#: inc/shortcodes/wyde-image-gallery.php:168
+#: inc/shortcodes/wyde-info-box.php:107 inc/shortcodes/wyde-link-button.php:105
+#: inc/shortcodes/wyde-portfolio-grid.php:119
+#: inc/shortcodes/wyde-pricing-box.php:108
+#: inc/shortcodes/wyde-section-separator.php:63
+#: inc/shortcodes/wyde-separator.php:116
+#: inc/shortcodes/wyde-wc-products-slider.php:109
+msgid "Extra CSS Class"
+msgstr ""
+
+#: inc/class-shortcode.php:233 inc/class-shortcode.php:344
+#: inc/shortcodes/wyde-action-box.php:137 inc/shortcodes/wyde-banner.php:95
+#: inc/shortcodes/wyde-counter-box.php:85
+#: inc/shortcodes/wyde-donut-chart.php:121
+#: inc/shortcodes/wyde-half-donut-chart.php:127
+#: inc/shortcodes/wyde-heading.php:111 inc/shortcodes/wyde-icon-block.php:110
+#: inc/shortcodes/wyde-image-gallery.php:169
+#: inc/shortcodes/wyde-info-box.php:108 inc/shortcodes/wyde-link-button.php:106
+#: inc/shortcodes/wyde-portfolio-grid.php:120
+#: inc/shortcodes/wyde-pricing-box.php:109
+#: inc/shortcodes/wyde-section-separator.php:64
+#: inc/shortcodes/wyde-separator.php:117
+#: inc/shortcodes/wyde-wc-products-slider.php:110
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: inc/class-shortcode.php:238
+msgid "Css"
+msgstr ""
+
+#: inc/class-shortcode.php:239 inc/class-shortcode.php:350
+#: inc/shortcodes/wyde-action-box.php:143 inc/shortcodes/wyde-banner.php:101
+#: inc/shortcodes/wyde-donut-chart.php:127
+#: inc/shortcodes/wyde-half-donut-chart.php:133
+#: inc/shortcodes/wyde-icon-block.php:116 inc/shortcodes/wyde-info-box.php:114
+#: inc/shortcodes/wyde-link-button.php:112
+#: inc/shortcodes/wyde-pricing-box.php:115
+#: inc/shortcodes/wyde-section-separator.php:70
+#: inc/shortcodes/wyde-separator.php:123
+msgid "Design Options"
+msgstr ""
+
+#: inc/class-shortcode.php:251
+msgid "Message Box"
+msgstr ""
+
+#: inc/class-shortcode.php:255
+msgid "Notification box"
+msgstr ""
+
+#: inc/class-shortcode.php:259 inc/shortcodes/wyde-action-box.php:64
+#: inc/shortcodes/wyde-counter-box.php:58
+#: inc/shortcodes/wyde-donut-chart.php:63
+#: inc/shortcodes/wyde-half-donut-chart.php:70
+#: inc/shortcodes/wyde-heading.php:17 inc/shortcodes/wyde-link-button.php:38
+#: inc/shortcodes/wyde-section-separator.php:17
+#: inc/shortcodes/wyde-separator.php:62
+msgid "Style"
+msgstr ""
+
+#: inc/class-shortcode.php:262
+msgid "Standard"
+msgstr ""
+
+#: inc/class-shortcode.php:263 inc/shortcodes/wyde-separator.php:64
+msgid "Solid"
+msgstr ""
+
+#: inc/class-shortcode.php:264
+msgid "Solid icon"
+msgstr ""
+
+#: inc/class-shortcode.php:266
+msgid "3D"
+msgstr ""
+
+#: inc/class-shortcode.php:268
+msgid "Select message box design style."
+msgstr ""
+
+#: inc/class-shortcode.php:272
+msgid "Shape"
+msgstr ""
+
+#: inc/class-shortcode.php:276 inc/shortcodes/wyde-action-box.php:66
+#: inc/shortcodes/wyde-icon-block.php:39 inc/shortcodes/wyde-link-button.php:40
+msgid "Square"
+msgstr ""
+
+#: inc/class-shortcode.php:277 inc/shortcodes/wyde-action-box.php:68
+#: inc/shortcodes/wyde-link-button.php:42
+msgid "Rounded"
+msgstr ""
+
+#: inc/class-shortcode.php:280
+msgid "Select message box shape."
+msgstr ""
+
+#: inc/class-shortcode.php:287
+msgid "Informational"
+msgstr ""
+
+#: inc/class-shortcode.php:288
+msgid "Warning"
+msgstr ""
+
+#: inc/class-shortcode.php:289
+msgid "Success"
+msgstr ""
+
+#: inc/class-shortcode.php:290
+msgid "Error"
+msgstr ""
+
+#: inc/class-shortcode.php:291
+msgid "Informational Classic"
+msgstr ""
+
+#: inc/class-shortcode.php:292
+msgid "Warning Classic"
+msgstr ""
+
+#: inc/class-shortcode.php:293
+msgid "Success Classic"
+msgstr ""
+
+#: inc/class-shortcode.php:294
+msgid "Error Classic"
+msgstr ""
+
+#: inc/class-shortcode.php:297 inc/class-shortcode.php:304
+msgid "Select message box color."
+msgstr ""
+
+#: inc/class-shortcode.php:302
+msgid "Custom Color"
+msgstr ""
+
+#: inc/class-shortcode.php:320
+msgid "Message text"
+msgstr ""
+
+#: inc/class-shortcode.php:322
+msgid "<p>I am message box. Click edit button to change this text.</p>"
+msgstr ""
+
+#: inc/class-shortcode.php:348 inc/shortcodes/wyde-action-box.php:142
+#: inc/shortcodes/wyde-banner.php:100 inc/shortcodes/wyde-donut-chart.php:126
+#: inc/shortcodes/wyde-half-donut-chart.php:132
+#: inc/shortcodes/wyde-icon-block.php:115 inc/shortcodes/wyde-info-box.php:113
+#: inc/shortcodes/wyde-link-button.php:111
+#: inc/shortcodes/wyde-pricing-box.php:114
+#: inc/shortcodes/wyde-section-separator.php:69
+#: inc/shortcodes/wyde-separator.php:122
+msgid "CSS"
+msgstr ""
+
+#: inc/class-shortcode.php:370
+msgid "Icon Set"
+msgstr ""
+
+#: inc/class-shortcode.php:379
+msgid "Select an icon set."
+msgstr ""
+
+#: inc/class-shortcode.php:383 inc/class-shortcode.php:398
+#: inc/class-shortcode.php:414 inc/class-shortcode.php:430
+#: inc/class-shortcode.php:446 inc/shortcodes/wyde-half-donut-chart.php:47
+#: inc/shortcodes/wyde-separator.php:28
+msgid "Icon"
+msgstr ""
+
+#: inc/class-shortcode.php:390 inc/class-shortcode.php:406
+#: inc/class-shortcode.php:422 inc/class-shortcode.php:438
+#: inc/class-shortcode.php:454
+msgid "Select an icon."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:393
+#: inc/class-tgm-plugin-activation.php:912
+#: inc/class-tgm-plugin-activation.php:2618
+#: inc/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#: inc/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1019
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#: inc/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-walker-nav.php:125 inc/class-walker-nav.php:183
+msgid "Back"
+msgstr ""
+
+#: inc/class-woocommerce-template.php:86
+msgid "Out of stock"
+msgstr ""
+
+#: inc/class-woocommerce-template.php:131
+msgid "Shop"
+msgstr ""
+
+#: inc/class-woocommerce-template.php:305
+msgid "Account"
+msgstr ""
+
+#: inc/class-woocommerce-template.php:307
+msgid "Sign out"
+msgstr ""
+
+#: inc/class-woocommerce-template.php:314
+msgid "Sign in"
+msgstr ""
+
+#: inc/class-woocommerce-template.php:364 woocommerce/cart/cart.php:104
+msgid "Remove this item"
+msgstr ""
+
+#: inc/class-woocommerce-template.php:386
+msgid "Your cart is empty."
+msgstr ""
+
+#: inc/class-woocommerce-template.php:408 woocommerce/cart/cart-totals.php:20
+msgid "Subtotal"
+msgstr ""
+
+#: inc/class-woocommerce-template.php:411
+msgid "View Cart"
+msgstr ""
+
+#: inc/class-woocommerce-template.php:413
+msgid "Checkout"
+msgstr ""
+
+#: inc/class-woocommerce-template.php:431
+msgid "My Cart"
+msgstr ""
+
+#: inc/custom-functions.php:819
+msgid "Read more"
+msgstr ""
+
+#: inc/custom-functions.php:971
+msgid "Edit"
+msgstr ""
+
+#: inc/custom-functions.php:971
+msgid "Reply"
+msgstr ""
+
+#: inc/custom-functions.php:975
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/custom-functions.php:1020
+msgid "Newer Entries"
+msgstr ""
+
+#: inc/custom-functions.php:1023
+msgid "Older Entries"
+msgstr ""
+
+#: inc/metaboxes/page-options.php:28
+msgid "Disabled"
+msgstr ""
+
+#: inc/metaboxes/page-options.php:29
+msgid ""
+"Page options are disabled on blog posts page, please use the settings in "
+"Theme Options -> Blog instead."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:38
+msgid ""
+"Select a page layout, choose 'Boxed' to create a Regular WordPress page with "
+"comments and sidebar, Wide for creating a Full Width page with Visual "
+"Composer Page Builder."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:58 inc/metaboxes/post-options.php:479
+msgid "Sidebar Position"
+msgstr ""
+
+#: inc/metaboxes/page-options.php:72 inc/metaboxes/post-options.php:492
+msgid "Sidebar Name"
+msgstr ""
+
+#: inc/metaboxes/page-options.php:73 inc/metaboxes/post-options.php:493
+msgid "Select a sidebar to display."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:98 inc/metaboxes/page-options.php:105
+#: inc/metaboxes/post-options.php:126 inc/metaboxes/post-options.php:133
+#: inc/metaboxes/wyde_portfolio-options.php:166
+#: inc/metaboxes/wyde_portfolio-options.php:173
+msgid "Header"
+msgstr ""
+
+#: inc/metaboxes/page-options.php:106 inc/metaboxes/post-options.php:134
+#: inc/metaboxes/wyde_portfolio-options.php:174
+msgid "Display the header."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:109 inc/metaboxes/page-options.php:121
+#: inc/metaboxes/page-options.php:168 inc/metaboxes/page-options.php:437
+#: inc/metaboxes/page-options.php:448 inc/metaboxes/post-options.php:104
+#: inc/metaboxes/post-options.php:116 inc/metaboxes/post-options.php:137
+#: inc/metaboxes/post-options.php:149 inc/metaboxes/post-options.php:203
+#: inc/metaboxes/post-options.php:515 inc/metaboxes/post-options.php:526
+#: inc/metaboxes/wyde_portfolio-options.php:45
+#: inc/metaboxes/wyde_portfolio-options.php:177
+#: inc/metaboxes/wyde_portfolio-options.php:189
+#: inc/metaboxes/wyde_portfolio-options.php:245
+#: inc/metaboxes/wyde_portfolio-options.php:511
+#: inc/metaboxes/wyde_portfolio-options.php:522
+msgid "Show"
+msgstr ""
+
+#: inc/metaboxes/page-options.php:116 inc/metaboxes/post-options.php:144
+#: inc/metaboxes/wyde_portfolio-options.php:184
+msgid "Top Bar"
+msgstr ""
+
+#: inc/metaboxes/page-options.php:117 inc/metaboxes/post-options.php:145
+#: inc/metaboxes/wyde_portfolio-options.php:185
+msgid "Display the header top bar."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:128 inc/metaboxes/post-options.php:156
+#: inc/metaboxes/wyde_portfolio-options.php:197
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/metaboxes/page-options.php:129 inc/metaboxes/post-options.php:157
+#: inc/metaboxes/wyde_portfolio-options.php:198
+msgid "Select a transparent header."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:132 inc/metaboxes/post-options.php:160
+#: inc/metaboxes/wyde_portfolio-options.php:201
+msgid "Disable"
+msgstr ""
+
+#: inc/metaboxes/page-options.php:133 inc/metaboxes/post-options.php:161
+#: inc/metaboxes/wyde_portfolio-options.php:202
+msgid "Enable"
+msgstr ""
+
+#: inc/metaboxes/page-options.php:140 inc/metaboxes/post-options.php:167
+#: inc/metaboxes/wyde_portfolio-options.php:208
+msgid "Foreground Style"
+msgstr ""
+
+#: inc/metaboxes/page-options.php:141 inc/metaboxes/post-options.php:168
+#: inc/metaboxes/wyde_portfolio-options.php:209
+msgid "Select a header navigation foreground style."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:164 inc/metaboxes/post-options.php:198
+#: inc/metaboxes/wyde_portfolio-options.php:240
+msgid "Display Title Area"
+msgstr ""
+
+#: inc/metaboxes/page-options.php:165 inc/metaboxes/post-options.php:199
+#: inc/metaboxes/wyde_portfolio-options.php:241
+msgid "Show or Hide the page title area."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:176 inc/metaboxes/post-options.php:210
+#: inc/metaboxes/wyde_portfolio-options.php:252
+msgid "Page Title"
+msgstr ""
+
+#: inc/metaboxes/page-options.php:177 inc/metaboxes/post-options.php:211
+#: inc/metaboxes/wyde_portfolio-options.php:253
+msgid "Custom text for the page title."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:184 inc/metaboxes/post-options.php:218
+#: inc/metaboxes/wyde_portfolio-options.php:260
+msgid "Subtitle"
+msgstr ""
+
+#: inc/metaboxes/page-options.php:185 inc/metaboxes/post-options.php:219
+#: inc/metaboxes/wyde_portfolio-options.php:261
+msgid "This text will display as subheading in the title area."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:193 inc/metaboxes/post-options.php:227
+#: inc/metaboxes/wyde_portfolio-options.php:269
+msgid "Select a title area size."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:230 inc/metaboxes/post-options.php:272
+#: inc/metaboxes/wyde_portfolio-options.php:314
+msgid "Select the title text alignment."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:252 inc/metaboxes/post-options.php:286
+#: inc/metaboxes/wyde_portfolio-options.php:328
+msgid "Select a background type for the title area."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:267 inc/metaboxes/post-options.php:301
+#: inc/metaboxes/wyde_portfolio-options.php:343
+msgid "Choose an image or insert a URL."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:275 inc/metaboxes/post-options.php:309
+#: inc/metaboxes/wyde_portfolio-options.php:351
+msgid "Choose an MP4 video or insert a URL."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:282 inc/metaboxes/page-options.php:376
+#: inc/metaboxes/post-options.php:316 inc/metaboxes/post-options.php:409
+#: inc/metaboxes/wyde_portfolio-options.php:358
+#: inc/metaboxes/wyde_portfolio-options.php:450
+msgid "Choose a background color."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:289 inc/metaboxes/page-options.php:383
+#: inc/metaboxes/post-options.php:323 inc/metaboxes/post-options.php:416
+#: inc/metaboxes/wyde_portfolio-options.php:365
+#: inc/metaboxes/wyde_portfolio-options.php:457
+msgid "Background Size"
+msgstr ""
+
+#: inc/metaboxes/page-options.php:290 inc/metaboxes/page-options.php:384
+#: inc/metaboxes/post-options.php:324 inc/metaboxes/post-options.php:417
+#: inc/metaboxes/wyde_portfolio-options.php:366
+#: inc/metaboxes/wyde_portfolio-options.php:458
+msgid ""
+"For full width or high-definition background image, choose Cover. Otherwise, "
+"choose Contain."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:293 inc/metaboxes/page-options.php:387
+#: inc/metaboxes/post-options.php:327 inc/metaboxes/post-options.php:420
+#: inc/metaboxes/wyde_portfolio-options.php:369
+#: inc/metaboxes/wyde_portfolio-options.php:461
+msgid "Cover"
+msgstr ""
+
+#: inc/metaboxes/page-options.php:294 inc/metaboxes/page-options.php:388
+#: inc/metaboxes/post-options.php:328 inc/metaboxes/post-options.php:421
+#: inc/metaboxes/wyde_portfolio-options.php:370
+#: inc/metaboxes/wyde_portfolio-options.php:462
+msgid "Contain"
+msgstr ""
+
+#: inc/metaboxes/page-options.php:356 inc/metaboxes/post-options.php:389
+#: inc/metaboxes/wyde_portfolio-options.php:430
+msgid "Select a background type for this page."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:369 inc/metaboxes/post-options.php:402
+#: inc/metaboxes/wyde_portfolio-options.php:443
+msgid "Upload an image or insert a URL."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:396 inc/metaboxes/post-options.php:429
+#: inc/metaboxes/wyde_portfolio-options.php:470
+msgid "Select background color overlay."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:434 inc/metaboxes/post-options.php:512
+#: inc/metaboxes/wyde_portfolio-options.php:508
+msgid "Show or hide the footer content area."
+msgstr ""
+
+#: inc/metaboxes/page-options.php:445 inc/metaboxes/post-options.php:523
+#: inc/metaboxes/wyde_portfolio-options.php:519
+msgid "Show or hide the footer bottom bar."
+msgstr ""
+
+#: inc/metaboxes/post-options.php:10
+msgid "Single Post"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:18
+#: inc/metaboxes/wyde_portfolio-options.php:53
+msgid "Media Options"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:19
+#: inc/metaboxes/wyde_portfolio-options.php:54
+msgid ""
+"You can insert media URL from any major video and audio hosting service "
+"(Youtube, Vimeo, etc.). Supports services listed at <a href=\"http://codex."
+"wordpress.org/Embeds#Okay.2C_So_What_Sites_Can_I_Embed_From.3F\" target="
+"\"_blank\">Codex page</a>"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:36
+#: inc/metaboxes/wyde_portfolio-options.php:71
+msgid "Media URL"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:37
+#: inc/metaboxes/wyde_portfolio-options.php:72
+msgid "Insert a media URL."
+msgstr ""
+
+#: inc/metaboxes/post-options.php:45
+#: inc/metaboxes/wyde_portfolio-options.php:79
+msgid "Gallery Options"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:51
+#: inc/metaboxes/wyde_portfolio-options.php:85
+#: inc/shortcodes/wyde-image-gallery.php:17
+msgid "Images"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:52
+msgid ""
+"Upload or select images from media library. Recommended size: 960x540px or "
+"larger."
+msgstr ""
+
+#: inc/metaboxes/post-options.php:61
+msgid "Link Options."
+msgstr ""
+
+#: inc/metaboxes/post-options.php:62
+msgid "Extra options for Post Format Link."
+msgstr ""
+
+#: inc/metaboxes/post-options.php:68
+msgid "Post URL"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:69
+msgid "Insert a post URL."
+msgstr ""
+
+#: inc/metaboxes/post-options.php:77
+msgid "Quote Options"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:78
+msgid "Extra options for Post Format Quote."
+msgstr ""
+
+#: inc/metaboxes/post-options.php:84
+msgid "Quote"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:85
+msgid "Insert quote here."
+msgstr ""
+
+#: inc/metaboxes/post-options.php:91
+msgid "Author"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:92
+msgid "Insert quote's author."
+msgstr ""
+
+#: inc/metaboxes/post-options.php:99
+msgid "Author Info"
+msgstr ""
+
+#: inc/metaboxes/post-options.php:192
+#: inc/metaboxes/wyde_portfolio-options.php:233
+msgid "Use custom title area for this post."
+msgstr ""
+
+#: inc/metaboxes/post-options.php:473
+msgid "Use custom sidebar for this post."
+msgstr ""
+
+#: inc/metaboxes/wyde_portfolio-options.php:19
+msgid "Select portfolio layout."
+msgstr ""
+
+#: inc/metaboxes/wyde_portfolio-options.php:33
+msgid "Project URL"
+msgstr ""
+
+#: inc/metaboxes/wyde_portfolio-options.php:34
+msgid "Insert a project URL."
+msgstr ""
+
+#: inc/metaboxes/wyde_portfolio-options.php:86
+msgid ""
+"Upload or select images from media library. Recommended size: 640x640px or "
+"larger."
+msgstr ""
+
+#: inc/metaboxes/wyde_portfolio-options.php:95
+msgid "Client Information"
+msgstr ""
+
+#: inc/metaboxes/wyde_portfolio-options.php:102
+msgid "Insert a client name."
+msgstr ""
+
+#: inc/metaboxes/wyde_portfolio-options.php:108
+#: inc/metaboxes/wyde_team_member-options.php:31
+#: inc/shortcodes/wyde-half-donut-chart.php:31
+msgid "Description"
+msgstr ""
+
+#: inc/metaboxes/wyde_portfolio-options.php:109
+msgid "Insert a short description about the client."
+msgstr ""
+
+#: inc/metaboxes/wyde_portfolio-options.php:122
+msgid "Insert a client website."
+msgstr ""
+
+#: inc/metaboxes/wyde_portfolio-options.php:129
+msgid "Custom Description"
+msgstr ""
+
+#: inc/metaboxes/wyde_portfolio-options.php:136
+msgid "Add new custom description fields."
+msgstr ""
+
+#: inc/metaboxes/wyde_portfolio-options.php:138
+msgid "Entry {#}"
+msgstr ""
+
+#: inc/metaboxes/wyde_portfolio-options.php:139
+msgid "Add Another Entry"
+msgstr ""
+
+#: inc/metaboxes/wyde_portfolio-options.php:140
+msgid "Remove Entry"
+msgstr ""
+
+#: inc/metaboxes/wyde_portfolio-options.php:147
+msgid "Insert a custom field title."
+msgstr ""
+
+#: inc/metaboxes/wyde_portfolio-options.php:153
+msgid "Insert a custom field description."
+msgstr ""
+
+#: inc/metaboxes/wyde_team_member-options.php:18
+msgid "Member Information"
+msgstr ""
+
+#: inc/metaboxes/wyde_team_member-options.php:24
+#: inc/metaboxes/wyde_testimonial-options.php:18
+msgid "Job Title"
+msgstr ""
+
+#: inc/metaboxes/wyde_team_member-options.php:25
+msgid "Insert a member's job title."
+msgstr ""
+
+#: inc/metaboxes/wyde_team_member-options.php:32
+msgid "Input a member description."
+msgstr ""
+
+#: inc/metaboxes/wyde_team_member-options.php:43
+#: inc/metaboxes/wyde_testimonial-options.php:39
+msgid "Email Address"
+msgstr ""
+
+#: inc/metaboxes/wyde_team_member-options.php:44
+msgid "Insert a member's contact email address."
+msgstr ""
+
+#: inc/metaboxes/wyde_team_member-options.php:51
+msgid "Insert a URL that applies to this member."
+msgstr ""
+
+#: inc/metaboxes/wyde_team_member-options.php:58
+#: inc/metaboxes/wyde_team_member-options.php:65
+msgid "Social Networks"
+msgstr ""
+
+#: inc/metaboxes/wyde_team_member-options.php:66
+msgid "Add member's social networking websites."
+msgstr ""
+
+#: inc/metaboxes/wyde_team_member-options.php:68
+msgid "Website {#}"
+msgstr ""
+
+#: inc/metaboxes/wyde_team_member-options.php:69
+msgid "Add Another Website"
+msgstr ""
+
+#: inc/metaboxes/wyde_team_member-options.php:70
+msgid "Remove Website"
+msgstr ""
+
+#: inc/metaboxes/wyde_team_member-options.php:77
+msgid "Select a social networking websites."
+msgstr ""
+
+#: inc/metaboxes/wyde_team_member-options.php:83
+msgid "Insert member's profile URL or personal page."
+msgstr ""
+
+#: inc/metaboxes/wyde_testimonial-options.php:12
+msgid "Customer Information"
+msgstr ""
+
+#: inc/metaboxes/wyde_testimonial-options.php:19
+msgid "Insert a customer's job title."
+msgstr ""
+
+#: inc/metaboxes/wyde_testimonial-options.php:25
+msgid "Company"
+msgstr ""
+
+#: inc/metaboxes/wyde_testimonial-options.php:26
+msgid "Insert a company name."
+msgstr ""
+
+#: inc/metaboxes/wyde_testimonial-options.php:33
+msgid "Insert a website URL for this customer or company."
+msgstr ""
+
+#: inc/metaboxes/wyde_testimonial-options.php:40
+msgid "Insert a customer's email address."
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:6 inc/shortcodes/wyde-action-box.php:7
+#: inc/shortcodes/wyde-action-box.php:8 inc/shortcodes/wyde-action-box.php:9
+#: inc/shortcodes/wyde-action-box.php:10 inc/shortcodes/wyde-action-box.php:11
+#: inc/shortcodes/wyde-action-box.php:46 inc/shortcodes/wyde-action-box.php:53
+#: inc/shortcodes/wyde-action-box.php:75 inc/shortcodes/wyde-action-box.php:86
+#: inc/shortcodes/wyde-action-box.php:93 inc/shortcodes/wyde-action-box.php:100
+#: inc/shortcodes/wyde-action-box.php:111
+msgid "Button"
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:15
+msgid "Action Box"
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:18 inc/shortcodes/wyde-banner.php:14
+#: inc/shortcodes/wyde-counter-box.php:14
+#: inc/shortcodes/wyde-donut-chart.php:18
+#: inc/shortcodes/wyde-half-donut-chart.php:19
+#: inc/shortcodes/wyde-heading.php:12 inc/shortcodes/wyde-icon-block.php:14
+#: inc/shortcodes/wyde-image-gallery.php:12 inc/shortcodes/wyde-info-box.php:14
+#: inc/shortcodes/wyde-link-button.php:14
+#: inc/shortcodes/wyde-portfolio-grid.php:13
+#: inc/shortcodes/wyde-pricing-box.php:13
+#: inc/shortcodes/wyde-section-separator.php:10
+#: inc/shortcodes/wyde-separator.php:18
+msgid "Wyde"
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:20
+msgid "Catch visitors attention with call to action box"
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:25
+msgid "Heading first line"
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:27
+msgid "Text for the first heading line."
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:32
+msgid ""
+"I am promo text. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:38
+msgid "Select background color for this element."
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:43 inc/shortcodes/wyde-counter-box.php:25
+#: inc/shortcodes/wyde-donut-chart.php:23
+#: inc/shortcodes/wyde-half-donut-chart.php:24
+#: inc/shortcodes/wyde-info-box.php:19 inc/shortcodes/wyde-link-button.php:19
+#: inc/shortcodes/wyde-pricing-box.php:18 inc/shortcodes/wyde-separator.php:35
+#: inc/shortcodes/wyde-tab.php:23
+msgid "Title"
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:45 inc/shortcodes/wyde-link-button.php:21
+msgid "Text on the button."
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:51 inc/shortcodes/wyde-banner.php:66
+#: inc/shortcodes/wyde-info-box.php:85 inc/shortcodes/wyde-link-button.php:26
+msgid "URL (Link)"
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:52 inc/shortcodes/wyde-link-button.php:27
+msgid "Set a button link."
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:69 inc/shortcodes/wyde-link-button.php:43
+msgid "Square Outline"
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:71 inc/shortcodes/wyde-link-button.php:45
+msgid "Rounded Outline"
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:74 inc/shortcodes/wyde-link-button.php:48
+msgid "Select button style."
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:85 inc/shortcodes/wyde-link-button.php:58
+msgid "Select button size."
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:92 inc/shortcodes/wyde-link-button.php:64
+msgid "Select button text color."
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:98 inc/shortcodes/wyde-link-button.php:69
+msgid "Hover Color"
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:99 inc/shortcodes/wyde-link-button.php:70
+msgid "Select button hover text color."
+msgstr ""
+
+#: inc/shortcodes/wyde-action-box.php:110
+#: inc/shortcodes/wyde-link-button.php:80
+#: inc/shortcodes/wyde-pricing-box.php:75
+msgid "Select button background color."
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:10
+msgid "Banner"
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:15
+msgid "Banner."
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:20 inc/shortcodes/wyde-heading.php:6
+#: inc/shortcodes/wyde-heading.php:34
+msgid "Heading"
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:22 inc/shortcodes/wyde-heading.php:36
+msgid "Enter heading text."
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:27 inc/shortcodes/wyde-heading.php:41
+#: inc/shortcodes/wyde-pricing-box.php:56
+msgid "Heading Color"
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:28 inc/shortcodes/wyde-heading.php:42
+msgid "Select heading text color."
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:33 inc/shortcodes/wyde-heading.php:47
+msgid "Subheading"
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:35 inc/shortcodes/wyde-heading.php:49
+msgid "Enter subheading text."
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:40 inc/shortcodes/wyde-heading.php:58
+msgid "Subheading Color"
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:41 inc/shortcodes/wyde-heading.php:59
+msgid "Select subheading text color."
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:47 inc/shortcodes/wyde-pricing-box.php:32
+msgid "Select image from media library."
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:67 inc/shortcodes/wyde-info-box.php:86
+msgid "Set a Read More link."
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:72
+msgid "Banner Style"
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:74
+#: inc/shortcodes/wyde-section-separator.php:19
+msgid "Style 1"
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:75
+#: inc/shortcodes/wyde-section-separator.php:20
+msgid "Style 2"
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:76
+#: inc/shortcodes/wyde-section-separator.php:21
+msgid "Style 3"
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:77
+#: inc/shortcodes/wyde-section-separator.php:22
+msgid "Style 4"
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:79
+msgid "Select banner style."
+msgstr ""
+
+#: inc/shortcodes/wyde-banner.php:85
+msgid "Select text background color."
+msgstr ""
+
+#: inc/shortcodes/wyde-counter-box.php:8
+msgid "Counter Box"
+msgstr ""
+
+#: inc/shortcodes/wyde-counter-box.php:9
+msgid "Animated numbers."
+msgstr ""
+
+#: inc/shortcodes/wyde-counter-box.php:27
+msgid "Set counter title."
+msgstr ""
+
+#: inc/shortcodes/wyde-counter-box.php:32
+msgid "Start From"
+msgstr ""
+
+#: inc/shortcodes/wyde-counter-box.php:34
+msgid "Set start value."
+msgstr ""
+
+#: inc/shortcodes/wyde-counter-box.php:39
+msgid "Value"
+msgstr ""
+
+#: inc/shortcodes/wyde-counter-box.php:41
+msgid "Set counter value."
+msgstr ""
+
+#: inc/shortcodes/wyde-counter-box.php:46
+msgid "Unit"
+msgstr ""
+
+#: inc/shortcodes/wyde-counter-box.php:47
+msgid "Set counter unit."
+msgstr ""
+
+#: inc/shortcodes/wyde-counter-box.php:53
+msgid "Select a color."
+msgstr ""
+
+#: inc/shortcodes/wyde-counter-box.php:60
+msgid "Top icon"
+msgstr ""
+
+#: inc/shortcodes/wyde-counter-box.php:61
+msgid "Left icon"
+msgstr ""
+
+#: inc/shortcodes/wyde-counter-box.php:63
+msgid "Select counter box style."
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:12
+msgid "Donut Chart"
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:13
+msgid "Animated donut chart."
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:25
+#: inc/shortcodes/wyde-half-donut-chart.php:26
+msgid "Set chart title."
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:30
+#: inc/shortcodes/wyde-half-donut-chart.php:37
+msgid "Chart Value"
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:32
+msgid "Input chart value here. can be 1 to 100."
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:37
+#: inc/shortcodes/wyde-half-donut-chart.php:44
+#: inc/shortcodes/wyde-separator.php:24
+msgid "Label Style"
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:42
+#: inc/shortcodes/wyde-half-donut-chart.php:49
+#: inc/shortcodes/wyde-separator.php:30
+msgid "Select a label style."
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:47
+#: inc/shortcodes/wyde-half-donut-chart.php:54
+msgid "Label"
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:48
+#: inc/shortcodes/wyde-half-donut-chart.php:55
+msgid "Set chart label."
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:67
+#: inc/shortcodes/wyde-half-donut-chart.php:74
+msgid "Inline"
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:69
+#: inc/shortcodes/wyde-half-donut-chart.php:76
+msgid "Select style."
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:74
+#: inc/shortcodes/wyde-half-donut-chart.php:81
+msgid "Bar Color"
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:75
+#: inc/shortcodes/wyde-half-donut-chart.php:82
+msgid "Select bar color."
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:81
+#: inc/shortcodes/wyde-half-donut-chart.php:88
+msgid "Select border color."
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:86
+#: inc/shortcodes/wyde-half-donut-chart.php:93
+msgid "Fill Color"
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:87
+#: inc/shortcodes/wyde-half-donut-chart.php:94
+msgid "Select background color of the whole circle."
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:92
+#: inc/shortcodes/wyde-half-donut-chart.php:99
+msgid "Start"
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:95
+#: inc/shortcodes/wyde-half-donut-chart.php:103
+msgid "90 degree"
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:96
+msgid "180 degree"
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:97
+msgid "270 degree"
+msgstr ""
+
+#: inc/shortcodes/wyde-donut-chart.php:99
+#: inc/shortcodes/wyde-half-donut-chart.php:105
+msgid "Select the degree to start animate."
+msgstr ""
+
+#: inc/shortcodes/wyde-half-donut-chart.php:13
+msgid "Half Donut Chart"
+msgstr ""
+
+#: inc/shortcodes/wyde-half-donut-chart.php:14
+msgid "Animated half donut chart."
+msgstr ""
+
+#: inc/shortcodes/wyde-half-donut-chart.php:32
+#: inc/shortcodes/wyde-info-box.php:27
+msgid "Enter your content."
+msgstr ""
+
+#: inc/shortcodes/wyde-half-donut-chart.php:39
+msgid "Input chart value here. Choose range between 0 and 100."
+msgstr ""
+
+#: inc/shortcodes/wyde-half-donut-chart.php:46
+#: inc/shortcodes/wyde-separator.php:27
+msgid "Text"
+msgstr ""
+
+#: inc/shortcodes/wyde-half-donut-chart.php:102
+msgid "45 degree"
+msgstr ""
+
+#: inc/shortcodes/wyde-heading.php:7
+msgid "Heading text."
+msgstr ""
+
+#: inc/shortcodes/wyde-heading.php:19
+msgid "Top Subtitle"
+msgstr ""
+
+#: inc/shortcodes/wyde-heading.php:20
+msgid "Bottom Subtitle "
+msgstr ""
+
+#: inc/shortcodes/wyde-heading.php:21
+msgid "With Background"
+msgstr ""
+
+#: inc/shortcodes/wyde-heading.php:22
+msgid "Simple"
+msgstr ""
+
+#: inc/shortcodes/wyde-heading.php:23
+msgid "Vertical Line"
+msgstr ""
+
+#: inc/shortcodes/wyde-heading.php:24
+msgid "Vertical Line - Right"
+msgstr ""
+
+#: inc/shortcodes/wyde-heading.php:25
+msgid "Minimal"
+msgstr ""
+
+#: inc/shortcodes/wyde-heading.php:26
+msgid "Headline"
+msgstr ""
+
+#: inc/shortcodes/wyde-heading.php:27 inc/shortcodes/wyde-separator.php:13
+msgid "Separator"
+msgstr ""
+
+#: inc/shortcodes/wyde-heading.php:29
+msgid "Select a heading style."
+msgstr ""
+
+#: inc/shortcodes/wyde-heading.php:68 inc/shortcodes/wyde-separator.php:51
+msgid "Text Alignment"
+msgstr ""
+
+#: inc/shortcodes/wyde-heading.php:74 inc/shortcodes/wyde-separator.php:57
+msgid "Select text alignment."
+msgstr ""
+
+#: inc/shortcodes/wyde-heading.php:85
+#: inc/shortcodes/wyde-section-separator.php:50
+msgid "Select background color."
+msgstr ""
+
+#: inc/shortcodes/wyde-icon-block.php:8
+msgid "Icon Block"
+msgstr ""
+
+#: inc/shortcodes/wyde-icon-block.php:9
+msgid "Add icon block."
+msgstr ""
+
+#: inc/shortcodes/wyde-icon-block.php:25 inc/shortcodes/wyde-info-box.php:38
+msgid "Icon Size"
+msgstr ""
+
+#: inc/shortcodes/wyde-icon-block.php:31 inc/shortcodes/wyde-info-box.php:44
+msgid "Select icon size."
+msgstr ""
+
+#: inc/shortcodes/wyde-icon-block.php:36
+msgid "Icon Style"
+msgstr ""
+
+#: inc/shortcodes/wyde-icon-block.php:42
+msgid "Select icon style."
+msgstr ""
+
+#: inc/shortcodes/wyde-icon-block.php:47
+#: inc/shortcodes/wyde-image-gallery.php:86
+#: inc/shortcodes/wyde-portfolio-grid.php:48
+msgid "Hover Effect"
+msgstr ""
+
+#: inc/shortcodes/wyde-icon-block.php:52
+msgid "Pulse"
+msgstr ""
+
+#: inc/shortcodes/wyde-icon-block.php:53
+msgid "Left to Right"
+msgstr ""
+
+#: inc/shortcodes/wyde-icon-block.php:54
+msgid "Right to Left"
+msgstr ""
+
+#: inc/shortcodes/wyde-icon-block.php:55
+msgid "Bottom to Top"
+msgstr ""
+
+#: inc/shortcodes/wyde-icon-block.php:56
+msgid "Top to Bottom"
+msgstr ""
+
+#: inc/shortcodes/wyde-icon-block.php:58
+msgid "Select icon hover effect."
+msgstr ""
+
+#: inc/shortcodes/wyde-icon-block.php:68
+msgid "Select icon text color."
+msgstr ""
+
+#: inc/shortcodes/wyde-icon-block.php:78
+msgid "Select icon background color."
+msgstr ""
+
+#: inc/shortcodes/wyde-icon-block.php:87
+msgid "URL"
+msgstr ""
+
+#: inc/shortcodes/wyde-icon-block.php:88
+msgid "Icon link."
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:6
+msgid "Image Gallery"
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:7
+msgid "Create beautiful responsive image gallery."
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:18
+msgid "Upload or select images from media library."
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:38
+msgid "Gallery Type"
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:43
+msgid "Masonry"
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:44
+msgid "Slider"
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:70
+msgid "Masonry Layout"
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:72
+msgid "GoGreen 1"
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:73
+msgid "GoGreen 2"
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:74
+msgid "Basic 1"
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:75
+msgid "Basic 2"
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:77
+msgid "Select masonry layout."
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:91
+#: inc/shortcodes/wyde-portfolio-grid.php:53
+msgid "Rotate Zoom In"
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:93
+msgid "Select the hover effect for image."
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:102
+#: inc/shortcodes/wyde-wc-products-slider.php:47
+msgid "Transition"
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:104
+#: inc/shortcodes/wyde-wc-products-slider.php:49
+msgid "Slide"
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:107
+#: inc/shortcodes/wyde-image-gallery.php:119
+#: inc/shortcodes/wyde-wc-products-slider.php:42
+msgid "The maximum amount of items displayed at a time."
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:116
+#: inc/shortcodes/wyde-wc-products-slider.php:39
+msgid "Visible Items"
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:128
+#: inc/shortcodes/wyde-wc-products-slider.php:61
+msgid "Show Navigation"
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:129
+#: inc/shortcodes/wyde-wc-products-slider.php:62
+msgid "Display \"next\" and \"prev\" buttons."
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:138
+#: inc/shortcodes/wyde-wc-products-slider.php:67
+msgid "Show Pagination"
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:139
+#: inc/shortcodes/wyde-wc-products-slider.php:68
+msgid "Show pagination."
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:148
+#: inc/shortcodes/wyde-wc-products-slider.php:83
+msgid "Auto Play"
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:149
+#: inc/shortcodes/wyde-wc-products-slider.php:84
+msgid "Auto play slide."
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:158
+#: inc/shortcodes/wyde-wc-products-slider.php:73
+msgid "Loop"
+msgstr ""
+
+#: inc/shortcodes/wyde-image-gallery.php:159
+#: inc/shortcodes/wyde-wc-products-slider.php:74
+msgid "Inifnity loop. Duplicate last and first items to get loop illusion."
+msgstr ""
+
+#: inc/shortcodes/wyde-info-box.php:8
+msgid "Info Box"
+msgstr ""
+
+#: inc/shortcodes/wyde-info-box.php:9
+msgid "Content box with icon."
+msgstr ""
+
+#: inc/shortcodes/wyde-info-box.php:21
+msgid "Set info box title."
+msgstr ""
+
+#: inc/shortcodes/wyde-info-box.php:49
+msgid "Icon Position"
+msgstr ""
+
+#: inc/shortcodes/wyde-info-box.php:51
+#: inc/shortcodes/wyde-section-separator.php:41
+msgid "Top"
+msgstr ""
+
+#: inc/shortcodes/wyde-info-box.php:55
+msgid "Select icon position."
+msgstr ""
+
+#: inc/shortcodes/wyde-info-box.php:64
+msgid "Border Style"
+msgstr ""
+
+#: inc/shortcodes/wyde-info-box.php:69
+msgid "Select icon border style."
+msgstr ""
+
+#: inc/shortcodes/wyde-info-box.php:80
+msgid "Select an icon color."
+msgstr ""
+
+#: inc/shortcodes/wyde-link-button.php:8
+msgid "Link Button"
+msgstr ""
+
+#: inc/shortcodes/wyde-link-button.php:9
+msgid "Add link button with icon."
+msgstr ""
+
+#: inc/shortcodes/wyde-portfolio-grid.php:7
+msgid "Portfolio Grid"
+msgstr ""
+
+#: inc/shortcodes/wyde-portfolio-grid.php:8
+msgid "Displays Portfolio list."
+msgstr ""
+
+#: inc/shortcodes/wyde-portfolio-grid.php:18
+msgid "View"
+msgstr ""
+
+#: inc/shortcodes/wyde-portfolio-grid.php:27
+msgid "Select portfolio layout style."
+msgstr ""
+
+#: inc/shortcodes/wyde-portfolio-grid.php:51
+msgid "Apollo"
+msgstr ""
+
+#: inc/shortcodes/wyde-portfolio-grid.php:52
+msgid "Duke"
+msgstr ""
+
+#: inc/shortcodes/wyde-portfolio-grid.php:54
+msgid "GoGreen"
+msgstr ""
+
+#: inc/shortcodes/wyde-portfolio-grid.php:56
+msgid "Select the hover effect for portfolio items."
+msgstr ""
+
+#: inc/shortcodes/wyde-portfolio-grid.php:65
+#: inc/shortcodes/wyde-wc-products-slider.php:18
+msgid "Custom Posts"
+msgstr ""
+
+#: inc/shortcodes/wyde-portfolio-grid.php:74
+#: inc/shortcodes/wyde-wc-products-slider.php:27
+msgid "Create WordPress loop, to populate content from your site."
+msgstr ""
+
+#: inc/shortcodes/wyde-portfolio-grid.php:79
+#: inc/shortcodes/wyde-wc-products-slider.php:32
+msgid "Post Count"
+msgstr ""
+
+#: inc/shortcodes/wyde-portfolio-grid.php:81
+#: inc/shortcodes/wyde-wc-products-slider.php:34
+msgid "Number of posts to show."
+msgstr ""
+
+#: inc/shortcodes/wyde-portfolio-grid.php:86
+msgid "Hide Filter"
+msgstr ""
+
+#: inc/shortcodes/wyde-portfolio-grid.php:87
+msgid "Display animated category filter to your grid."
+msgstr ""
+
+#: inc/shortcodes/wyde-portfolio-grid.php:98
+msgid "Select the pagination type."
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:7
+msgid "Pricing Box"
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:8
+msgid "Create pricing box."
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:20
+msgid "Enter the heading or package name."
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:25
+msgid "Sub Heading"
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:26
+msgid "Enter a short description."
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:37 woocommerce/cart/cart.php:27
+msgid "Price"
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:39
+msgid "Enter a price. E.g. 100, 150, etc."
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:44
+msgid "Price Unit"
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:45
+msgid "Enter a price unit. E.g. $, €, etc."
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:50
+msgid "Price Term"
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:51
+msgid "Enter a price term. E.g. per month, per year, etc."
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:57
+msgid "Select heading color."
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:62
+msgid "Features"
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:63
+msgid "Enter the features list or table description."
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:68
+msgid "Button Text"
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:69
+msgid "Enter a button text."
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:74
+msgid "Button Color"
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:80
+msgid "Button Link"
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:81
+msgid "Select or enter the link for button."
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:86
+msgid "Featured Box"
+msgstr ""
+
+#: inc/shortcodes/wyde-pricing-box.php:87
+msgid "Make this box as featured"
+msgstr ""
+
+#: inc/shortcodes/wyde-section-separator.php:7
+msgid "Section Separator"
+msgstr ""
+
+#: inc/shortcodes/wyde-section-separator.php:12
+msgid "Section separator."
+msgstr ""
+
+#: inc/shortcodes/wyde-section-separator.php:23
+msgid "Style 5"
+msgstr ""
+
+#: inc/shortcodes/wyde-section-separator.php:25
+msgid "Select separator style."
+msgstr ""
+
+#: inc/shortcodes/wyde-section-separator.php:30
+msgid "Reflect"
+msgstr ""
+
+#: inc/shortcodes/wyde-section-separator.php:32
+msgid "Horizontal"
+msgstr ""
+
+#: inc/shortcodes/wyde-section-separator.php:34
+msgid "Select to horizontal flip the separator shape."
+msgstr ""
+
+#: inc/shortcodes/wyde-section-separator.php:39
+msgid "Overlap"
+msgstr ""
+
+#: inc/shortcodes/wyde-section-separator.php:42
+msgid "Bottom"
+msgstr ""
+
+#: inc/shortcodes/wyde-section-separator.php:44
+msgid "Select the direction of another object that will be overlapped."
+msgstr ""
+
+#: inc/shortcodes/wyde-section-separator.php:56
+msgid "Shape Color"
+msgstr ""
+
+#: inc/shortcodes/wyde-section-separator.php:57
+msgid "Select shape color."
+msgstr ""
+
+#: inc/shortcodes/wyde-separator.php:19
+msgid "Horizontal separator line"
+msgstr ""
+
+#: inc/shortcodes/wyde-separator.php:36
+msgid "Input a title text separator."
+msgstr ""
+
+#: inc/shortcodes/wyde-separator.php:65
+msgid "Dashed"
+msgstr ""
+
+#: inc/shortcodes/wyde-separator.php:66
+msgid "Dotted"
+msgstr ""
+
+#: inc/shortcodes/wyde-separator.php:67
+msgid "Double"
+msgstr ""
+
+#: inc/shortcodes/wyde-separator.php:69
+msgid "Separator style"
+msgstr ""
+
+#: inc/shortcodes/wyde-separator.php:74
+msgid "Border Thickness"
+msgstr ""
+
+#: inc/shortcodes/wyde-separator.php:87
+msgid "Select border thickness."
+msgstr ""
+
+#: inc/shortcodes/wyde-separator.php:92
+msgid "Width"
+msgstr ""
+
+#: inc/shortcodes/wyde-separator.php:105
+msgid "Separator element width in percents."
+msgstr ""
+
+#: inc/shortcodes/wyde-separator.php:111
+msgid "Select separator border and text color."
+msgstr ""
+
+#: inc/shortcodes/wyde-tab.php:8
+msgid "Tab"
+msgstr ""
+
+#: inc/shortcodes/wyde-tab.php:24
+msgid "Tab title."
+msgstr ""
+
+#: inc/shortcodes/wyde-tab.php:29
+msgid "Tab ID"
+msgstr ""
+
+#: inc/shortcodes/wyde-wc-products-slider.php:8
+msgid "Products Slider"
+msgstr ""
+
+#: inc/shortcodes/wyde-wc-products-slider.php:9
+msgid "Displays products in slider."
+msgstr ""
+
+#: inc/shortcodes/wyde-wc-products-slider.php:52
+msgid "Select animation type."
+msgstr ""
+
+#: page-title.php:190
+msgid "Search Results for"
+msgstr ""
+
+#: page-title.php:194
+msgid "Error 404"
+msgstr ""
+
+#: page-title.php:201
+msgid "Daily Archives"
+msgstr ""
+
+#: page-title.php:204
+msgid "Monthly Archives"
+msgstr ""
+
+#: page-title.php:207
+msgid "Yearly Archives"
+msgstr ""
+
+#: page-title.php:218
+#, php-format
+msgid "%s has created %s entries"
+msgstr ""
+
+#: page-title.php:222
+msgid "Currently browsing:"
+msgstr ""
+
+#: search.php:27
+#, php-format
+msgid "About %s results"
+msgstr ""
+
+#: search.php:68
+msgid "No result found."
+msgstr ""
+
+#: templates/blog/author.php:9
+#, php-format
+msgid "%s has created %s post(s)."
+msgstr ""
+
+#: templates/blog/author.php:17
+msgid "About"
+msgstr ""
+
+#: templates/blog/author.php:19
+msgid "Edit Profile"
+msgstr ""
+
+#: templates/blog/content-list.php:71 templates/blog/content-list.php:134
+#: templates/blog/content.php:77 templates/blog/content.php:139
+#: templates/blog/related.php:56 templates/blog/single.php:121
+msgid "In"
+msgstr ""
+
+#: templates/blog/content.php:163
+msgid "Continue reading"
+msgstr ""
+
+#: templates/blog/single.php:125
+msgid "Add Comment"
+msgstr ""
+
+#: templates/navigation/live-search.php:22
+msgid "Start Typing..."
+msgstr ""
+
+#: templates/portfolio/related.php:31
+msgid "Related Projects"
+msgstr ""
+
+#: templates/portfolio/widget-categories.php:8
+msgid "Categories"
+msgstr ""
+
+#: templates/portfolio/widget-clients.php:10
+msgid "Client"
+msgstr ""
+
+#: templates/portfolio/widget-meta.php:21
+msgid "Visit Site"
+msgstr ""
+
+#: templates/portfolio/widget-meta.php:24
+msgid "Published"
+msgstr ""
+
+#: templates/portfolio/widget-skills.php:8
+msgid "Skills"
+msgstr ""
+
+#: templates/shortcodes/wyde_portfolio_grid.php:82
+msgid "All"
+msgstr ""
+
+#: templates/shortcodes/wyde_wc_shop.php:25
+msgid "Default sorting"
+msgstr ""
+
+#: templates/shortcodes/wyde_wc_shop.php:26
+msgid "Sort by popularity"
+msgstr ""
+
+#: templates/shortcodes/wyde_wc_shop.php:27
+msgid "Sort by average rating"
+msgstr ""
+
+#: templates/shortcodes/wyde_wc_shop.php:28
+msgid "Sort by newness"
+msgstr ""
+
+#: templates/shortcodes/wyde_wc_shop.php:29
+msgid "Sort by price: low to high"
+msgstr ""
+
+#: templates/shortcodes/wyde_wc_shop.php:30
+msgid "Sort by price: high to low"
+msgstr ""
+
+#: templates/shortcodes/wyde_wc_shop.php:99
+msgid "Showing the single result"
+msgstr ""
+
+#: templates/shortcodes/wyde_wc_shop.php:101
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:17
+msgid "Cart Totals"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:35
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:64 woocommerce/cart/cart.php:29
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:75
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:78
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: woocommerce/cart/cart.php:26
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:68
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:125
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:125
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:125
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:132
+msgid "Continue Shopping"
+msgstr ""
+
+#: woocommerce/cart/cart.php:133
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:43
+msgid "Your order"
+msgstr ""

@@ -1,0 +1,1 @@
+<?php //Trick me no more

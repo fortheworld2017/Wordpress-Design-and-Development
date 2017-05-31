@@ -1,0 +1,4137 @@
+# Wyde Core Plugin
+msgid ""
+msgstr ""
+"Project-Id-Version: Wyde\n"
+"POT-Creation-Date: 2016-09-01 16:32+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.7\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:43
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:67
+#: shortcodes/class-wyde-shortcode.php:409
+#: shortcodes/class-wyde-shortcode.php:567
+#: shortcodes/class-wyde-shortcode.php:617
+#: shortcodes/class-wyde-shortcode.php:657
+#: shortcodes/class-wyde-shortcode.php:815
+#: shortcodes/class-wyde-shortcode.php:884
+#: shortcodes/class-wyde-shortcode.php:1056
+#: shortcodes/class-wyde-shortcode.php:1160
+#: shortcodes/class-wyde-shortcode.php:1331
+#: shortcodes/class-wyde-shortcode.php:1617
+#: shortcodes/class-wyde-shortcode.php:1940
+#: shortcodes/classes/wyde-action-box.php:74
+#: shortcodes/classes/wyde-icon-block.php:43
+#: shortcodes/classes/wyde-icon-block.php:52
+#: shortcodes/classes/wyde-image-gallery.php:91
+#: shortcodes/classes/wyde-info-box.php:70
+#: shortcodes/classes/wyde-link-button.php:49
+#: shortcodes/classes/wyde-separator.php:29 shortcodes/css_editor.php:110
+msgid "None"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:46
+#: shortcodes/class-wyde-shortcode.php:3332
+#: shortcodes/class-wyde-shortcode.php:3346
+#: shortcodes/class-wyde-shortcode.php:3361
+#: shortcodes/class-wyde-shortcode.php:3376
+#: shortcodes/class-wyde-shortcode.php:3391
+#: shortcodes/classes/wyde-gmaps.php:58
+#: shortcodes/classes/wyde-half-donut-chart.php:51
+#: shortcodes/classes/wyde-separator.php:31
+msgid "Icon"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:90
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:94
+#: shortcodes/class-wyde-shortcode.php:1698
+#: shortcodes/class-wyde-shortcode.php:1735
+#: shortcodes/classes/wyde-tabs.php:109
+msgid "Disable"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:95
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:96
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:97
+#: shortcodes/class-wyde-shortcode.php:3084
+#: shortcodes/class-wyde-shortcode.php:3104
+#: shortcodes/class-wyde-shortcode.php:3124
+#: shortcodes/class-wyde-shortcode.php:3145
+#: shortcodes/class-wyde-shortcode.php:3166
+#: shortcodes/class-wyde-shortcode.php:3187
+#: shortcodes/class-wyde-shortcode.php:3207
+#: shortcodes/class-wyde-shortcode.php:3227
+#: shortcodes/class-wyde-shortcode.php:3247
+#: shortcodes/class-wyde-shortcode.php:3268
+#: shortcodes/classes/wyde-blog-posts.php:36
+#: shortcodes/classes/wyde-flickr.php:50
+#: shortcodes/classes/wyde-image-gallery.php:54
+#: shortcodes/classes/wyde-portfolio-grid.php:49
+#: shortcodes/classes/wyde-team-slider.php:62
+#: shortcodes/classes/wyde-wc-shop.php:18
+#: widgets/classes/class-wyde-flickr-widget.php:98
+msgid "Columns"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:163
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:167
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:180
+msgid "sub item"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:212
+msgid "Edit"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:221
+#: shortcodes/classes/wyde-icon-block.php:90
+msgid "URL"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:233
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:239
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:246
+msgid "Open link in a new tab"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:256
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:262
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:268
+#: shortcodes/classes/wyde-half-donut-chart.php:35
+msgid "Description"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:270
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:276
+msgid "Move"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:277
+msgid "Up one"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:278
+msgid "Down one"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:281
+msgid "To the top"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:288
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:301
+msgid "Remove"
+msgstr ""
+
+#: inc/megamenu/class-wyde-walker-mega-menu-edit.php:302
+msgid "Cancel"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:383
+#: shortcodes/class-wyde-shortcode.php:643
+msgid "Row"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:389
+#: shortcodes/class-wyde-shortcode.php:1425
+#: shortcodes/class-wyde-shortcode.php:1475
+#: shortcodes/class-wyde-shortcode.php:1548
+#: shortcodes/class-wyde-shortcode.php:1691
+#: shortcodes/class-wyde-shortcode.php:1727
+#: shortcodes/class-wyde-shortcode.php:1789
+#: shortcodes/class-wyde-shortcode.php:1870
+#: shortcodes/class-wyde-shortcode.php:1986
+#: shortcodes/class-wyde-shortcode.php:2029
+#: shortcodes/class-wyde-shortcode.php:2182
+#: shortcodes/class-wyde-shortcode.php:2319
+#: shortcodes/class-wyde-shortcode.php:2988
+#: shortcodes/class-wyde-shortcode.php:3052
+#: shortcodes/classes/wyde-info-box.php:30
+msgid "Content"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:390
+msgid "Place content elements inside row"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:395
+msgid "Content Width"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:397
+#: shortcodes/class-wyde-shortcode.php:478
+#: shortcodes/class-wyde-shortcode.php:523
+#: shortcodes/class-wyde-shortcode.php:594
+#: shortcodes/class-wyde-shortcode.php:726
+#: shortcodes/class-wyde-shortcode.php:771
+#: shortcodes/class-wyde-shortcode.php:842
+#: shortcodes/class-wyde-shortcode.php:958
+#: shortcodes/class-wyde-shortcode.php:1012
+#: shortcodes/class-wyde-shortcode.php:1083
+#: shortcodes/class-wyde-shortcode.php:1234
+#: shortcodes/class-wyde-shortcode.php:1287
+#: shortcodes/class-wyde-shortcode.php:1358
+#: shortcodes/class-wyde-shortcode.php:1576
+#: shortcodes/class-wyde-shortcode.php:1939
+#: shortcodes/classes/wyde-blog-posts.php:27
+#: shortcodes/classes/wyde-donut-chart.php:68
+#: shortcodes/classes/wyde-donut-chart.php:97
+#: shortcodes/classes/wyde-half-donut-chart.php:76
+#: shortcodes/classes/wyde-half-donut-chart.php:105
+#: shortcodes/classes/wyde-image-gallery.php:75
+msgid "Default"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:398
+msgid "Full Width"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:399
+msgid "Full Height"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:400
+msgid "Full Screen"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:402
+msgid "Select row style."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:407
+#: shortcodes/class-wyde-shortcode.php:655
+#: shortcodes/class-wyde-shortcode.php:882
+#: shortcodes/class-wyde-shortcode.php:1158
+#: shortcodes/classes/wyde-section-separator.php:30
+msgid "Overlap"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:410
+#: shortcodes/class-wyde-shortcode.php:658
+#: shortcodes/class-wyde-shortcode.php:885
+#: shortcodes/class-wyde-shortcode.php:947
+#: shortcodes/class-wyde-shortcode.php:1161
+#: shortcodes/class-wyde-shortcode.php:1223
+#: shortcodes/classes/wyde-heading.php:62
+#: shortcodes/classes/wyde-info-box.php:56
+#: shortcodes/classes/wyde-separator.php:56
+#: widgets/classes/class-wyde-social-widget.php:64
+msgid "Left"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:411
+#: shortcodes/class-wyde-shortcode.php:659
+#: shortcodes/class-wyde-shortcode.php:886
+#: shortcodes/class-wyde-shortcode.php:949
+#: shortcodes/class-wyde-shortcode.php:1162
+#: shortcodes/class-wyde-shortcode.php:1225
+#: shortcodes/classes/wyde-heading.php:64
+#: shortcodes/classes/wyde-info-box.php:57
+#: shortcodes/classes/wyde-separator.php:58
+#: widgets/classes/class-wyde-social-widget.php:66
+msgid "Right"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:412
+#: shortcodes/class-wyde-shortcode.php:467
+#: shortcodes/class-wyde-shortcode.php:660
+#: shortcodes/class-wyde-shortcode.php:715
+#: shortcodes/class-wyde-shortcode.php:887
+#: shortcodes/class-wyde-shortcode.php:1163
+#: shortcodes/classes/wyde-info-box.php:55
+#: shortcodes/classes/wyde-section-separator.php:32
+msgid "Top"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:413
+#: shortcodes/class-wyde-shortcode.php:469
+#: shortcodes/class-wyde-shortcode.php:661
+#: shortcodes/class-wyde-shortcode.php:717
+#: shortcodes/class-wyde-shortcode.php:888
+#: shortcodes/class-wyde-shortcode.php:1164
+#: shortcodes/classes/wyde-section-separator.php:33
+msgid "Bottom"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:415
+#: shortcodes/class-wyde-shortcode.php:663
+#: shortcodes/classes/wyde-section-separator.php:35
+msgid "Select the direction of another object that will be overlapped."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:419
+#: shortcodes/class-wyde-shortcode.php:668
+#: shortcodes/class-wyde-shortcode.php:895
+#: shortcodes/class-wyde-shortcode.php:1171
+msgid "Overlap Distance"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:422
+#: shortcodes/class-wyde-shortcode.php:670
+#: shortcodes/class-wyde-shortcode.php:897
+#: shortcodes/class-wyde-shortcode.php:1173
+msgid ""
+"Set the distance you want an object to be offset from the current position."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:431
+#: shortcodes/class-wyde-shortcode.php:679
+#: shortcodes/class-wyde-shortcode.php:906
+#: shortcodes/class-wyde-shortcode.php:1182
+msgid "Stack Order"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:444
+#: shortcodes/class-wyde-shortcode.php:692
+#: shortcodes/class-wyde-shortcode.php:919
+#: shortcodes/class-wyde-shortcode.php:1195
+msgid ""
+"Defines a z-index property that specifies the stack order of an element."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:449
+#: shortcodes/class-wyde-shortcode.php:697
+#: shortcodes/class-wyde-shortcode.php:924
+#: shortcodes/class-wyde-shortcode.php:1200
+msgid "Text Style"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:451
+#: shortcodes/class-wyde-shortcode.php:699
+#: shortcodes/class-wyde-shortcode.php:926
+#: shortcodes/class-wyde-shortcode.php:1202
+msgid "Dark"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:452
+#: shortcodes/class-wyde-shortcode.php:700
+#: shortcodes/class-wyde-shortcode.php:927
+#: shortcodes/class-wyde-shortcode.php:1203
+msgid "Light"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:454
+#: shortcodes/class-wyde-shortcode.php:702
+#: shortcodes/class-wyde-shortcode.php:930
+#: shortcodes/class-wyde-shortcode.php:1206
+msgid "Apply text style."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:459
+#: shortcodes/class-wyde-shortcode.php:707
+msgid "Columns in this row will be set to equal height."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:460
+#: shortcodes/class-wyde-shortcode.php:708
+msgid "Equal Height"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:465
+#: shortcodes/class-wyde-shortcode.php:712
+msgid "Content Vertical Alignment"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:468
+#: shortcodes/class-wyde-shortcode.php:716
+msgid "Middle"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:471
+#: shortcodes/class-wyde-shortcode.php:719
+msgid "Select content vertical alignment."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:476
+#: shortcodes/class-wyde-shortcode.php:724
+msgid "Vertical Padding Size"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:479
+#: shortcodes/class-wyde-shortcode.php:727
+#: shortcodes/class-wyde-shortcode.php:962
+#: shortcodes/class-wyde-shortcode.php:1237
+msgid "No Padding"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:480
+#: shortcodes/class-wyde-shortcode.php:728
+#: shortcodes/class-wyde-shortcode.php:959
+#: shortcodes/class-wyde-shortcode.php:1235
+#: shortcodes/classes/wyde-action-box.php:84
+#: shortcodes/classes/wyde-button.php:49
+#: shortcodes/classes/wyde-icon-block.php:30
+#: shortcodes/classes/wyde-info-box.php:44
+#: shortcodes/classes/wyde-link-button.php:58
+msgid "Small"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:481
+#: shortcodes/class-wyde-shortcode.php:729
+#: shortcodes/class-wyde-shortcode.php:960
+#: shortcodes/class-wyde-shortcode.php:1563
+#: shortcodes/classes/wyde-clients-carousel.php:28
+#: shortcodes/classes/wyde-icon-block.php:31
+#: shortcodes/classes/wyde-image-gallery.php:33
+#: shortcodes/classes/wyde-info-box.php:45
+#: shortcodes/classes/wyde-slide.php:130
+msgid "Medium"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:482
+#: shortcodes/class-wyde-shortcode.php:730
+#: shortcodes/class-wyde-shortcode.php:961
+#: shortcodes/class-wyde-shortcode.php:1236
+#: shortcodes/class-wyde-shortcode.php:1564
+#: shortcodes/classes/wyde-action-box.php:85
+#: shortcodes/classes/wyde-button.php:50
+#: shortcodes/classes/wyde-clients-carousel.php:29
+#: shortcodes/classes/wyde-icon-block.php:32
+#: shortcodes/classes/wyde-image-gallery.php:34
+#: shortcodes/classes/wyde-info-box.php:46
+#: shortcodes/classes/wyde-link-button.php:59
+#: shortcodes/classes/wyde-slide.php:131
+msgid "Large"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:483
+#: shortcodes/class-wyde-shortcode.php:731
+msgid "Extra Large"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:485
+#: shortcodes/class-wyde-shortcode.php:733
+msgid "Select vertical padding size."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:490
+#: shortcodes/class-wyde-shortcode.php:738
+msgid "Row ID"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:491
+msgid "Enter row ID (Note: make sure it is unique and valid)."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:496
+#: shortcodes/class-wyde-shortcode.php:744
+#: shortcodes/class-wyde-shortcode.php:985
+#: shortcodes/class-wyde-shortcode.php:1260
+#: shortcodes/class-wyde-shortcode.php:1454
+#: shortcodes/class-wyde-shortcode.php:1489
+#: shortcodes/class-wyde-shortcode.php:1667
+#: shortcodes/class-wyde-shortcode.php:1705
+#: shortcodes/class-wyde-shortcode.php:1742
+#: shortcodes/class-wyde-shortcode.php:1813
+#: shortcodes/class-wyde-shortcode.php:1853
+#: shortcodes/class-wyde-shortcode.php:1966
+#: shortcodes/class-wyde-shortcode.php:2010
+#: shortcodes/class-wyde-shortcode.php:2163
+#: shortcodes/class-wyde-shortcode.php:2299
+#: shortcodes/class-wyde-shortcode.php:2407
+#: shortcodes/class-wyde-shortcode.php:2440
+#: shortcodes/class-wyde-shortcode.php:2466
+#: shortcodes/class-wyde-shortcode.php:2490
+#: shortcodes/class-wyde-shortcode.php:2521
+#: shortcodes/class-wyde-shortcode.php:2545
+#: shortcodes/class-wyde-shortcode.php:2588
+#: shortcodes/class-wyde-shortcode.php:2631
+#: shortcodes/class-wyde-shortcode.php:2672
+#: shortcodes/class-wyde-shortcode.php:2708
+#: shortcodes/class-wyde-shortcode.php:2746
+#: shortcodes/class-wyde-shortcode.php:2808
+#: shortcodes/class-wyde-shortcode.php:2843
+#: shortcodes/class-wyde-shortcode.php:2877
+#: shortcodes/class-wyde-shortcode.php:2949
+#: shortcodes/class-wyde-shortcode.php:3019
+#: shortcodes/classes/wyde-action-box.php:138
+#: shortcodes/classes/wyde-blog-posts.php:128
+#: shortcodes/classes/wyde-button.php:89
+#: shortcodes/classes/wyde-clients-carousel.php:97
+#: shortcodes/classes/wyde-counter-box.php:81
+#: shortcodes/classes/wyde-donut-chart.php:123
+#: shortcodes/classes/wyde-facebook-like.php:62
+#: shortcodes/classes/wyde-flickr.php:58 shortcodes/classes/wyde-gmaps.php:64
+#: shortcodes/classes/wyde-half-donut-chart.php:130
+#: shortcodes/classes/wyde-heading.php:88
+#: shortcodes/classes/wyde-icon-block.php:112
+#: shortcodes/classes/wyde-image-gallery.php:183
+#: shortcodes/classes/wyde-info-box.php:111
+#: shortcodes/classes/wyde-link-button.php:108
+#: shortcodes/classes/wyde-popular-posts.php:31
+#: shortcodes/classes/wyde-portfolio-grid.php:142
+#: shortcodes/classes/wyde-pricing-box.php:109
+#: shortcodes/classes/wyde-progress-bar.php:52
+#: shortcodes/classes/wyde-recent-posts.php:31
+#: shortcodes/classes/wyde-section-separator.php:47
+#: shortcodes/classes/wyde-separator.php:119
+#: shortcodes/classes/wyde-slide.php:144 shortcodes/classes/wyde-slider.php:168
+#: shortcodes/classes/wyde-tabs.php:116
+#: shortcodes/classes/wyde-team-slider.php:168
+#: shortcodes/classes/wyde-testimonials-slider.php:96
+#: shortcodes/classes/wyde-toggle.php:69 shortcodes/classes/wyde-wc-shop.php:83
+msgid "Extra CSS Class"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:497
+#: shortcodes/class-wyde-shortcode.php:745
+#: shortcodes/class-wyde-shortcode.php:986
+#: shortcodes/class-wyde-shortcode.php:1261
+#: shortcodes/class-wyde-shortcode.php:1455
+#: shortcodes/class-wyde-shortcode.php:1490
+#: shortcodes/class-wyde-shortcode.php:1668
+#: shortcodes/class-wyde-shortcode.php:1706
+#: shortcodes/class-wyde-shortcode.php:1743
+#: shortcodes/class-wyde-shortcode.php:1814
+#: shortcodes/class-wyde-shortcode.php:1854
+#: shortcodes/class-wyde-shortcode.php:1967
+#: shortcodes/class-wyde-shortcode.php:2011
+#: shortcodes/class-wyde-shortcode.php:2164
+#: shortcodes/class-wyde-shortcode.php:2301
+#: shortcodes/class-wyde-shortcode.php:2409
+#: shortcodes/class-wyde-shortcode.php:2442
+#: shortcodes/class-wyde-shortcode.php:2468
+#: shortcodes/class-wyde-shortcode.php:2492
+#: shortcodes/class-wyde-shortcode.php:2523
+#: shortcodes/class-wyde-shortcode.php:2547
+#: shortcodes/class-wyde-shortcode.php:2590
+#: shortcodes/class-wyde-shortcode.php:2633
+#: shortcodes/class-wyde-shortcode.php:2674
+#: shortcodes/class-wyde-shortcode.php:2710
+#: shortcodes/class-wyde-shortcode.php:2748
+#: shortcodes/class-wyde-shortcode.php:2810
+#: shortcodes/class-wyde-shortcode.php:2845
+#: shortcodes/class-wyde-shortcode.php:2879
+#: shortcodes/class-wyde-shortcode.php:2951
+#: shortcodes/class-wyde-shortcode.php:3021
+#: shortcodes/classes/wyde-action-box.php:139
+#: shortcodes/classes/wyde-blog-posts.php:129
+#: shortcodes/classes/wyde-button.php:90
+#: shortcodes/classes/wyde-clients-carousel.php:98
+#: shortcodes/classes/wyde-counter-box.php:82
+#: shortcodes/classes/wyde-donut-chart.php:124
+#: shortcodes/classes/wyde-facebook-like.php:63
+#: shortcodes/classes/wyde-flickr.php:59 shortcodes/classes/wyde-gmaps.php:65
+#: shortcodes/classes/wyde-half-donut-chart.php:131
+#: shortcodes/classes/wyde-heading.php:89
+#: shortcodes/classes/wyde-icon-block.php:113
+#: shortcodes/classes/wyde-image-gallery.php:184
+#: shortcodes/classes/wyde-info-box.php:112
+#: shortcodes/classes/wyde-link-button.php:109
+#: shortcodes/classes/wyde-popular-posts.php:32
+#: shortcodes/classes/wyde-portfolio-grid.php:143
+#: shortcodes/classes/wyde-pricing-box.php:110
+#: shortcodes/classes/wyde-progress-bar.php:53
+#: shortcodes/classes/wyde-recent-posts.php:32
+#: shortcodes/classes/wyde-section-separator.php:48
+#: shortcodes/classes/wyde-separator.php:120
+#: shortcodes/classes/wyde-slide.php:145 shortcodes/classes/wyde-slider.php:169
+#: shortcodes/classes/wyde-tabs.php:117
+#: shortcodes/classes/wyde-team-slider.php:169
+#: shortcodes/classes/wyde-testimonials-slider.php:97
+#: shortcodes/classes/wyde-toggle.php:70 shortcodes/classes/wyde-wc-shop.php:84
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:502
+#: shortcodes/class-wyde-shortcode.php:750
+#: shortcodes/class-wyde-shortcode.php:991
+#: shortcodes/class-wyde-shortcode.php:1266
+#: shortcodes/classes/wyde-action-box.php:39
+#: shortcodes/classes/wyde-action-box.php:111
+#: shortcodes/classes/wyde-button.php:67
+#: shortcodes/classes/wyde-icon-block.php:80
+#: shortcodes/classes/wyde-link-button.php:82
+#: shortcodes/classes/wyde-section-separator.php:40
+msgid "Background Color"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:503
+#: shortcodes/class-wyde-shortcode.php:751
+#: shortcodes/class-wyde-shortcode.php:992
+#: shortcodes/class-wyde-shortcode.php:1267
+#: shortcodes/classes/wyde-section-separator.php:41
+msgid "Select background color."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:504
+#: shortcodes/class-wyde-shortcode.php:511
+#: shortcodes/class-wyde-shortcode.php:516
+#: shortcodes/class-wyde-shortcode.php:535
+#: shortcodes/class-wyde-shortcode.php:559
+#: shortcodes/class-wyde-shortcode.php:575
+#: shortcodes/class-wyde-shortcode.php:587
+#: shortcodes/class-wyde-shortcode.php:610
+#: shortcodes/class-wyde-shortcode.php:626
+#: shortcodes/class-wyde-shortcode.php:752
+#: shortcodes/class-wyde-shortcode.php:759
+#: shortcodes/class-wyde-shortcode.php:764
+#: shortcodes/class-wyde-shortcode.php:783
+#: shortcodes/class-wyde-shortcode.php:807
+#: shortcodes/class-wyde-shortcode.php:823
+#: shortcodes/class-wyde-shortcode.php:835
+#: shortcodes/class-wyde-shortcode.php:858
+#: shortcodes/class-wyde-shortcode.php:993
+#: shortcodes/class-wyde-shortcode.php:1000
+#: shortcodes/class-wyde-shortcode.php:1005
+#: shortcodes/class-wyde-shortcode.php:1024
+#: shortcodes/class-wyde-shortcode.php:1048
+#: shortcodes/class-wyde-shortcode.php:1064
+#: shortcodes/class-wyde-shortcode.php:1076
+#: shortcodes/class-wyde-shortcode.php:1099
+#: shortcodes/class-wyde-shortcode.php:1268
+#: shortcodes/class-wyde-shortcode.php:1275
+#: shortcodes/class-wyde-shortcode.php:1280
+#: shortcodes/class-wyde-shortcode.php:1299
+#: shortcodes/class-wyde-shortcode.php:1323
+#: shortcodes/class-wyde-shortcode.php:1339
+#: shortcodes/class-wyde-shortcode.php:1351
+#: shortcodes/class-wyde-shortcode.php:1374
+#: shortcodes/classes/wyde-heading.php:49
+msgid "Background"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:509
+#: shortcodes/class-wyde-shortcode.php:757
+#: shortcodes/class-wyde-shortcode.php:998
+#: shortcodes/class-wyde-shortcode.php:1273
+msgid "Background Image"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:510
+#: shortcodes/class-wyde-shortcode.php:758
+#: shortcodes/class-wyde-shortcode.php:999
+#: shortcodes/class-wyde-shortcode.php:1274
+msgid "Select background image."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:521
+#: shortcodes/class-wyde-shortcode.php:769
+#: shortcodes/class-wyde-shortcode.php:1010
+#: shortcodes/class-wyde-shortcode.php:1285
+msgid "Background Style"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:524
+#: shortcodes/class-wyde-shortcode.php:772
+#: shortcodes/class-wyde-shortcode.php:1013
+#: shortcodes/class-wyde-shortcode.php:1288
+msgid "Cover"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:525
+#: shortcodes/class-wyde-shortcode.php:773
+#: shortcodes/class-wyde-shortcode.php:1014
+#: shortcodes/class-wyde-shortcode.php:1289
+msgid "Contain"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:526
+#: shortcodes/class-wyde-shortcode.php:774
+#: shortcodes/class-wyde-shortcode.php:1015
+#: shortcodes/class-wyde-shortcode.php:1290
+msgid "No Repeat"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:527
+#: shortcodes/class-wyde-shortcode.php:775
+#: shortcodes/class-wyde-shortcode.php:1016
+#: shortcodes/class-wyde-shortcode.php:1291
+msgid "Repeat"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:529
+#: shortcodes/class-wyde-shortcode.php:777
+#: shortcodes/class-wyde-shortcode.php:1018
+#: shortcodes/class-wyde-shortcode.php:1293
+msgid "Select background style."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:541
+#: shortcodes/class-wyde-shortcode.php:789
+#: shortcodes/class-wyde-shortcode.php:1030
+#: shortcodes/class-wyde-shortcode.php:1305
+msgid "Background Position"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:543
+#: shortcodes/class-wyde-shortcode.php:791
+#: shortcodes/class-wyde-shortcode.php:1032
+#: shortcodes/class-wyde-shortcode.php:1307
+msgid "Center Top"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:544
+#: shortcodes/class-wyde-shortcode.php:792
+#: shortcodes/class-wyde-shortcode.php:1033
+#: shortcodes/class-wyde-shortcode.php:1308
+msgid "Center Center"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:545
+#: shortcodes/class-wyde-shortcode.php:793
+#: shortcodes/class-wyde-shortcode.php:1034
+#: shortcodes/class-wyde-shortcode.php:1309
+msgid "Center Bottom"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:546
+#: shortcodes/class-wyde-shortcode.php:794
+#: shortcodes/class-wyde-shortcode.php:1035
+#: shortcodes/class-wyde-shortcode.php:1310
+msgid "Left Top"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:547
+#: shortcodes/class-wyde-shortcode.php:795
+#: shortcodes/class-wyde-shortcode.php:1036
+#: shortcodes/class-wyde-shortcode.php:1311
+msgid "Left Center"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:548
+#: shortcodes/class-wyde-shortcode.php:796
+#: shortcodes/class-wyde-shortcode.php:1037
+#: shortcodes/class-wyde-shortcode.php:1312
+msgid "Left Bottom"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:549
+#: shortcodes/class-wyde-shortcode.php:797
+#: shortcodes/class-wyde-shortcode.php:1038
+#: shortcodes/class-wyde-shortcode.php:1313
+msgid "Right Top"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:550
+#: shortcodes/class-wyde-shortcode.php:798
+#: shortcodes/class-wyde-shortcode.php:1039
+#: shortcodes/class-wyde-shortcode.php:1314
+msgid "Right Center"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:551
+#: shortcodes/class-wyde-shortcode.php:799
+#: shortcodes/class-wyde-shortcode.php:1040
+#: shortcodes/class-wyde-shortcode.php:1315
+msgid "Right Bottom"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:554
+msgid "Set the starting position of a background image."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:565
+#: shortcodes/class-wyde-shortcode.php:813
+#: shortcodes/class-wyde-shortcode.php:1054
+#: shortcodes/class-wyde-shortcode.php:1329
+msgid "Background Overlay"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:568
+#: shortcodes/class-wyde-shortcode.php:816
+#: shortcodes/class-wyde-shortcode.php:1057
+#: shortcodes/class-wyde-shortcode.php:1332
+msgid "Color Overlay"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:570
+#: shortcodes/class-wyde-shortcode.php:818
+#: shortcodes/class-wyde-shortcode.php:1059
+#: shortcodes/class-wyde-shortcode.php:1334
+msgid "Apply an overlay to the background."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:580
+#: shortcodes/class-wyde-shortcode.php:828
+#: shortcodes/class-wyde-shortcode.php:1069
+#: shortcodes/class-wyde-shortcode.php:1344
+msgid "Background Overlay Color"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:581
+#: shortcodes/class-wyde-shortcode.php:829
+#: shortcodes/class-wyde-shortcode.php:1070
+#: shortcodes/class-wyde-shortcode.php:1345
+msgid "Select background overlay color."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:592
+#: shortcodes/class-wyde-shortcode.php:840
+#: shortcodes/class-wyde-shortcode.php:1081
+#: shortcodes/class-wyde-shortcode.php:1356
+msgid "Background Overlay Opacity"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:605
+#: shortcodes/class-wyde-shortcode.php:853
+#: shortcodes/class-wyde-shortcode.php:1094
+#: shortcodes/class-wyde-shortcode.php:1369
+msgid "Select background overlay opacity."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:615
+msgid "Parallax"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:618
+msgid "Simple Parallax"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:619
+msgid "Reverse Parallax"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:621
+msgid "Select parallax background type."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:632
+#: shortcodes/class-wyde-shortcode.php:863
+#: shortcodes/class-wyde-shortcode.php:1104
+#: shortcodes/class-wyde-shortcode.php:1379
+#: shortcodes/class-wyde-shortcode.php:1460
+#: shortcodes/class-wyde-shortcode.php:2169
+#: shortcodes/class-wyde-shortcode.php:2305
+#: shortcodes/class-wyde-shortcode.php:2413
+#: shortcodes/classes/wyde-action-box.php:144
+#: shortcodes/classes/wyde-button.php:95
+#: shortcodes/classes/wyde-donut-chart.php:129
+#: shortcodes/classes/wyde-half-donut-chart.php:136
+#: shortcodes/classes/wyde-icon-block.php:118
+#: shortcodes/classes/wyde-info-box.php:117
+#: shortcodes/classes/wyde-link-button.php:114
+#: shortcodes/classes/wyde-pricing-box.php:115
+#: shortcodes/classes/wyde-section-separator.php:53
+#: shortcodes/classes/wyde-separator.php:125
+#: shortcodes/classes/wyde-slide.php:150
+msgid "CSS"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:633
+#: shortcodes/class-wyde-shortcode.php:864
+#: shortcodes/class-wyde-shortcode.php:1105
+#: shortcodes/class-wyde-shortcode.php:1380
+#: shortcodes/class-wyde-shortcode.php:1461
+#: shortcodes/class-wyde-shortcode.php:1674
+#: shortcodes/class-wyde-shortcode.php:1973
+#: shortcodes/class-wyde-shortcode.php:2017
+#: shortcodes/class-wyde-shortcode.php:2170
+#: shortcodes/class-wyde-shortcode.php:2307
+#: shortcodes/class-wyde-shortcode.php:2415
+#: shortcodes/classes/wyde-action-box.php:145
+#: shortcodes/classes/wyde-button.php:96
+#: shortcodes/classes/wyde-donut-chart.php:130
+#: shortcodes/classes/wyde-half-donut-chart.php:137
+#: shortcodes/classes/wyde-icon-block.php:119
+#: shortcodes/classes/wyde-info-box.php:118
+#: shortcodes/classes/wyde-link-button.php:115
+#: shortcodes/classes/wyde-pricing-box.php:116
+#: shortcodes/classes/wyde-section-separator.php:54
+#: shortcodes/classes/wyde-separator.php:126
+#: shortcodes/classes/wyde-slide.php:151
+msgid "Design Options"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:650
+msgid "Place content elements inside the row"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:739
+#, php-format
+msgid ""
+"Enter row ID (Note: make sure it is unique and valid according to <a href="
+"\"%s\" target=\"_blank\">W3C specification</a>)."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:802
+#: shortcodes/class-wyde-shortcode.php:1043
+#: shortcodes/class-wyde-shortcode.php:1318
+msgid "Select the starting position of a background image."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:874
+#: shortcodes/class-wyde-shortcode.php:1145
+msgid "Column"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:890
+#: shortcodes/class-wyde-shortcode.php:1166
+msgid "Select the direction of the overlapped object."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:928
+#: shortcodes/class-wyde-shortcode.php:1204
+#: shortcodes/class-wyde-shortcode.php:2360
+msgid "Custom"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:935
+#: shortcodes/class-wyde-shortcode.php:1211
+#: shortcodes/classes/wyde-action-box.php:93
+#: shortcodes/classes/wyde-button.php:57
+#: shortcodes/classes/wyde-link-button.php:66
+msgid "Text Color"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:936
+#: shortcodes/class-wyde-shortcode.php:1212
+msgid "Choose column text color."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:945
+#: shortcodes/class-wyde-shortcode.php:1221
+#: shortcodes/classes/wyde-heading.php:60
+#: shortcodes/classes/wyde-separator.php:54
+msgid "Text Alignment"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:948
+#: shortcodes/class-wyde-shortcode.php:1224
+#: shortcodes/classes/wyde-heading.php:63
+#: shortcodes/classes/wyde-separator.php:57
+#: widgets/classes/class-wyde-social-widget.php:65
+msgid "Center"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:951
+#: shortcodes/class-wyde-shortcode.php:1227
+#: shortcodes/class-wyde-shortcode.php:1899
+#: shortcodes/classes/wyde-heading.php:66
+#: shortcodes/classes/wyde-separator.php:60
+msgid "Select text alignment."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:956
+#: shortcodes/class-wyde-shortcode.php:1232
+msgid "Padding Size"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:964
+#: shortcodes/class-wyde-shortcode.php:1239
+msgid "Select padding size."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:969
+#: shortcodes/class-wyde-shortcode.php:1244
+#: shortcodes/class-wyde-shortcode.php:1438
+#: shortcodes/class-wyde-shortcode.php:1651
+#: shortcodes/class-wyde-shortcode.php:1950
+#: shortcodes/class-wyde-shortcode.php:2392
+#: shortcodes/classes/wyde-action-box.php:122
+#: shortcodes/classes/wyde-blog-posts.php:112
+#: shortcodes/classes/wyde-button.php:73
+#: shortcodes/classes/wyde-clients-carousel.php:81
+#: shortcodes/classes/wyde-counter-box.php:65
+#: shortcodes/classes/wyde-donut-chart.php:107
+#: shortcodes/classes/wyde-half-donut-chart.php:114
+#: shortcodes/classes/wyde-heading.php:72
+#: shortcodes/classes/wyde-icon-block.php:96
+#: shortcodes/classes/wyde-info-box.php:95
+#: shortcodes/classes/wyde-link-button.php:92
+#: shortcodes/classes/wyde-portfolio-grid.php:126
+#: shortcodes/classes/wyde-pricing-box.php:93
+#: shortcodes/classes/wyde-team-slider.php:152
+#: shortcodes/classes/wyde-testimonials-slider.php:80
+#: shortcodes/classes/wyde-toggle.php:53
+msgid "Animation"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:970
+#: shortcodes/class-wyde-shortcode.php:1245
+#: shortcodes/class-wyde-shortcode.php:1439
+#: shortcodes/class-wyde-shortcode.php:1652
+#: shortcodes/class-wyde-shortcode.php:1951
+#: shortcodes/class-wyde-shortcode.php:2393
+#: shortcodes/classes/wyde-action-box.php:123
+#: shortcodes/classes/wyde-blog-posts.php:113
+#: shortcodes/classes/wyde-button.php:74
+#: shortcodes/classes/wyde-clients-carousel.php:82
+#: shortcodes/classes/wyde-counter-box.php:66
+#: shortcodes/classes/wyde-donut-chart.php:108
+#: shortcodes/classes/wyde-half-donut-chart.php:115
+#: shortcodes/classes/wyde-heading.php:73
+#: shortcodes/classes/wyde-icon-block.php:97
+#: shortcodes/classes/wyde-info-box.php:96
+#: shortcodes/classes/wyde-link-button.php:93
+#: shortcodes/classes/wyde-portfolio-grid.php:127
+#: shortcodes/classes/wyde-pricing-box.php:94
+#: shortcodes/classes/wyde-team-slider.php:153
+#: shortcodes/classes/wyde-testimonials-slider.php:81
+#: shortcodes/classes/wyde-toggle.php:54
+msgid "Select a CSS3 Animation that applies to this element."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:975
+#: shortcodes/class-wyde-shortcode.php:1250
+#: shortcodes/class-wyde-shortcode.php:1444
+#: shortcodes/class-wyde-shortcode.php:1657
+#: shortcodes/class-wyde-shortcode.php:1956
+#: shortcodes/class-wyde-shortcode.php:2398
+#: shortcodes/classes/wyde-action-box.php:128
+#: shortcodes/classes/wyde-blog-posts.php:118
+#: shortcodes/classes/wyde-button.php:79
+#: shortcodes/classes/wyde-clients-carousel.php:87
+#: shortcodes/classes/wyde-counter-box.php:71
+#: shortcodes/classes/wyde-donut-chart.php:113
+#: shortcodes/classes/wyde-half-donut-chart.php:120
+#: shortcodes/classes/wyde-heading.php:78
+#: shortcodes/classes/wyde-icon-block.php:102
+#: shortcodes/classes/wyde-info-box.php:101
+#: shortcodes/classes/wyde-link-button.php:98
+#: shortcodes/classes/wyde-portfolio-grid.php:132
+#: shortcodes/classes/wyde-pricing-box.php:99
+#: shortcodes/classes/wyde-team-slider.php:158
+#: shortcodes/classes/wyde-testimonials-slider.php:86
+#: shortcodes/classes/wyde-toggle.php:59
+msgid "Animation Delay"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:976
+#: shortcodes/class-wyde-shortcode.php:1251
+#: shortcodes/class-wyde-shortcode.php:1445
+#: shortcodes/class-wyde-shortcode.php:1658
+#: shortcodes/class-wyde-shortcode.php:1957
+#: shortcodes/class-wyde-shortcode.php:2399
+#: shortcodes/classes/wyde-action-box.php:129
+#: shortcodes/classes/wyde-blog-posts.php:119
+#: shortcodes/classes/wyde-button.php:80
+#: shortcodes/classes/wyde-clients-carousel.php:88
+#: shortcodes/classes/wyde-counter-box.php:72
+#: shortcodes/classes/wyde-donut-chart.php:114
+#: shortcodes/classes/wyde-half-donut-chart.php:121
+#: shortcodes/classes/wyde-heading.php:79
+#: shortcodes/classes/wyde-icon-block.php:103
+#: shortcodes/classes/wyde-info-box.php:102
+#: shortcodes/classes/wyde-link-button.php:99
+#: shortcodes/classes/wyde-portfolio-grid.php:133
+#: shortcodes/classes/wyde-pricing-box.php:100
+#: shortcodes/classes/wyde-team-slider.php:159
+#: shortcodes/classes/wyde-testimonials-slider.php:87
+#: shortcodes/classes/wyde-toggle.php:60
+msgid ""
+"Defines when the animation will start (in seconds). Example: 0.5, 1, 2, ..."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1110
+#: shortcodes/class-wyde-shortcode.php:1385
+#: shortcodes/classes/wyde-facebook-like.php:25
+#: shortcodes/classes/wyde-separator.php:95
+#: widgets/classes/class-wyde-facebook-like-widget.php:94
+msgid "Width"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1112
+#: shortcodes/class-wyde-shortcode.php:1387
+msgid "1 column - 1/12"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1113
+#: shortcodes/class-wyde-shortcode.php:1388
+msgid "2 columns - 1/6"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1114
+#: shortcodes/class-wyde-shortcode.php:1389
+msgid "3 columns - 1/4"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1115
+#: shortcodes/class-wyde-shortcode.php:1390
+msgid "4 columns - 1/3"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1116
+#: shortcodes/class-wyde-shortcode.php:1391
+msgid "5 columns - 5/12"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1117
+#: shortcodes/class-wyde-shortcode.php:1392
+msgid "6 columns - 1/2"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1118
+#: shortcodes/class-wyde-shortcode.php:1393
+msgid "7 columns - 7/12"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1119
+#: shortcodes/class-wyde-shortcode.php:1394
+msgid "8 columns - 2/3"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1120
+#: shortcodes/class-wyde-shortcode.php:1395
+msgid "9 columns - 3/4"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1121
+#: shortcodes/class-wyde-shortcode.php:1396
+msgid "10 columns - 5/6"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1122
+#: shortcodes/class-wyde-shortcode.php:1397
+msgid "11 columns - 11/12"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1123
+#: shortcodes/class-wyde-shortcode.php:1398
+msgid "12 columns - 1/1"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1125
+#: shortcodes/class-wyde-shortcode.php:1133
+#: shortcodes/class-wyde-shortcode.php:1400
+#: shortcodes/class-wyde-shortcode.php:1408
+msgid "Responsive Options"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1126
+#: shortcodes/class-wyde-shortcode.php:1401
+msgid "Select column width."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1132
+#: shortcodes/class-wyde-shortcode.php:1407
+msgid "Responsiveness"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1134
+#: shortcodes/class-wyde-shortcode.php:1409
+msgid ""
+"Adjust column for different screen sizes. Control width, offset and "
+"visibility settings."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1420
+msgid "Text Block"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1426
+msgid "A block of text with WYSIWYG editor"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1432
+#: shortcodes/class-wyde-shortcode.php:1876
+#: shortcodes/class-wyde-shortcode.php:2680
+#: shortcodes/class-wyde-shortcode.php:2697
+#: shortcodes/classes/wyde-half-donut-chart.php:50
+#: shortcodes/classes/wyde-separator.php:30
+msgid "Text"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1433
+msgid "<p>I am text block. Click edit button to change this text.</p>"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1470
+msgid "Empty Space"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1476
+msgid "Blank space with custom height"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1481
+#: shortcodes/classes/wyde-facebook-like.php:32
+#: widgets/classes/class-wyde-facebook-like-widget.php:99
+msgid "Height"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1484
+msgid "Enter empty space height (Note: CSS measurement units allowed)."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1500
+#: shortcodes/class-wyde-shortcode.php:1511
+msgid "Raw HTML"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1503
+#: shortcodes/class-wyde-shortcode.php:1525
+#: shortcodes/class-wyde-shortcode.php:2429
+msgid "Structure"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1505
+msgid "Output raw HTML code on your page"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1512
+msgid "Enter your HTML content."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1522
+msgid "Raw JS"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1527
+msgid "Output raw JavaScript code on your page"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1533
+msgid "JavaScript Code"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1534
+msgid "Enter your JavaScript code."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1544
+msgid "Single Image"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1549
+msgid "Insert an image"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1554
+#: shortcodes/classes/wyde-pricing-box.php:32
+#: shortcodes/classes/wyde-slide.php:121
+msgid "Image"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1555
+msgid "Select an image from media library."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1560
+#: shortcodes/classes/wyde-clients-carousel.php:25
+#: shortcodes/classes/wyde-image-gallery.php:30
+#: shortcodes/classes/wyde-slide.php:127
+msgid "Image Size"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1562
+#: shortcodes/classes/wyde-clients-carousel.php:27
+#: shortcodes/classes/wyde-image-gallery.php:32
+msgid "Thumbnail"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1565
+#: shortcodes/classes/wyde-clients-carousel.php:30
+#: shortcodes/classes/wyde-image-gallery.php:35
+#: shortcodes/classes/wyde-slide.php:132
+msgid "Original"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1568
+#: shortcodes/classes/wyde-clients-carousel.php:32
+#: shortcodes/classes/wyde-image-gallery.php:37
+#: shortcodes/classes/wyde-image-gallery.php:49
+#: shortcodes/classes/wyde-slide.php:134
+msgid "Select image size."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1573
+msgid "Image Style"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1577 shortcodes/css_editor.php:91
+msgid "Border"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1578
+#: shortcodes/class-wyde-shortcode.php:2330
+#: shortcodes/classes/wyde-donut-chart.php:69
+#: shortcodes/classes/wyde-half-donut-chart.php:77
+msgid "Outline"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1579
+msgid "Shadow"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1580
+#: shortcodes/class-wyde-shortcode.php:2343
+#: shortcodes/classes/wyde-action-box.php:69
+#: shortcodes/classes/wyde-button.php:36
+#: shortcodes/classes/wyde-link-button.php:44
+msgid "Round"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1581
+msgid "Round Border"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1582
+#: shortcodes/classes/wyde-action-box.php:72
+#: shortcodes/classes/wyde-button.php:39
+#: shortcodes/classes/wyde-link-button.php:47
+msgid "Round Outline"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1583
+msgid "Round Shadow"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1584
+#: shortcodes/classes/wyde-icon-block.php:41
+#: shortcodes/classes/wyde-info-box.php:71
+msgid "Circle"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1585
+msgid "Circle Border"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1586
+msgid "Circle Outline"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1587
+msgid "Circle Shadow"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1589
+#: shortcodes/class-wyde-shortcode.php:1610
+msgid "Select image alignment."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1594
+#: shortcodes/classes/wyde-donut-chart.php:83
+#: shortcodes/classes/wyde-half-donut-chart.php:91
+msgid "Border Color"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1595
+msgid "Select image border color."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1604
+msgid "Image Alignment"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1606
+msgid "Align Left"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1607
+msgid "Align Center"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1608
+msgid "Align Right"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1615
+msgid "On Click Action"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1618
+msgid "Link to large image"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1619
+msgid "Open prettyPhoto"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1620
+msgid "Open custom link"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1622
+msgid "Select action for click action."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1628
+msgid "Image Link"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1629
+msgid "Set an image link."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1638
+msgid "Link Target"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1640
+msgid "Same window"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1641
+msgid "New window"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1673
+#: shortcodes/class-wyde-shortcode.php:1972
+#: shortcodes/class-wyde-shortcode.php:2016
+msgid "Css"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1686
+#: shortcodes/classes/wyde-facebook-like.php:51
+#: widgets/classes/class-wyde-facebook-like-widget.php:114
+msgid "Tabs"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1692
+msgid "Tabbed content"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1697
+#: shortcodes/classes/wyde-tabs.php:108
+msgid "Auto rotate tabs"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1700
+#: shortcodes/classes/wyde-tabs.php:111
+msgid "Auto rotate tabs each X seconds."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1710
+#: shortcodes/class-wyde-shortcode.php:1747
+#: shortcodes/classes/wyde-tabs.php:121
+msgid "Tab 1"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1710
+#: shortcodes/class-wyde-shortcode.php:1747
+#: shortcodes/classes/wyde-tabs.php:121
+msgid "Tab 2"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1721
+msgid "Tour"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1729
+msgid "Vertical tabbed content"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1734
+msgid "Auto rotate slides"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1737
+msgid "Auto rotate slides each X seconds."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1756 shortcodes/classes/wyde-tab.php:41
+msgid "Tab"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1765
+#: shortcodes/class-wyde-shortcode.php:1847
+#: shortcodes/class-wyde-shortcode.php:2122
+#: shortcodes/class-wyde-shortcode.php:2258
+#: shortcodes/classes/wyde-action-box.php:45
+#: shortcodes/classes/wyde-button.php:19
+#: shortcodes/classes/wyde-counter-box.php:28
+#: shortcodes/classes/wyde-donut-chart.php:26
+#: shortcodes/classes/wyde-flickr.php:18
+#: shortcodes/classes/wyde-half-donut-chart.php:28
+#: shortcodes/classes/wyde-info-box.php:23
+#: shortcodes/classes/wyde-link-button.php:22
+#: shortcodes/classes/wyde-portfolio-grid.php:24
+#: shortcodes/classes/wyde-pricing-box.php:19
+#: shortcodes/classes/wyde-progress-bar.php:19
+#: shortcodes/classes/wyde-separator.php:38
+#: shortcodes/classes/wyde-slide.php:109 shortcodes/classes/wyde-tab.php:56
+#: shortcodes/classes/wyde-wc-shop.php:39
+#: widgets/classes/class-wyde-facebook-like-widget.php:84
+#: widgets/classes/class-wyde-flickr-widget.php:67
+#: widgets/classes/class-wyde-popular-posts-widget.php:64
+#: widgets/classes/class-wyde-recent-posts-widget.php:62
+#: widgets/classes/class-wyde-social-widget.php:56
+msgid "Title"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1766
+#: shortcodes/class-wyde-shortcode.php:1848 shortcodes/classes/wyde-tab.php:57
+msgid "Tab title."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1771 shortcodes/classes/wyde-tab.php:62
+msgid "Tab ID"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1782
+msgid "Accordion"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1790
+msgid "Collapsible content panels"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1795
+msgid "Active section"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1796
+msgid ""
+"Enter section number to be active on load or enter \"false\" to collapse all "
+"sections."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1801
+msgid "Collapse all"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1802
+msgid "Allow collapse all sections"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1807
+#: shortcodes/class-wyde-shortcode.php:2135
+#: shortcodes/class-wyde-shortcode.php:2271
+#: shortcodes/class-wyde-shortcode.php:2349
+#: shortcodes/classes/wyde-counter-box.php:49
+#: shortcodes/classes/wyde-icon-block.php:70
+#: shortcodes/classes/wyde-info-box.php:82
+#: shortcodes/classes/wyde-progress-bar.php:38
+#: shortcodes/classes/wyde-separator.php:113
+#: shortcodes/classes/wyde-toggle.php:37
+msgid "Color"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1808
+msgid "Choose color."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1819
+msgid "Add section"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1821
+msgid "Section 1"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1822
+msgid "Section 2"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1831
+msgid "Section"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1865
+msgid "Custom Heading"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1871
+msgid "Text with Google fonts"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1878
+msgid "This is custom heading element with Google Fonts"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1879
+msgid ""
+"Note: If you are using non-latin characters be sure to activate them under "
+"Settings/Visual Composer/General Settings."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1884
+#: shortcodes/classes/wyde-action-box.php:53
+#: shortcodes/classes/wyde-button.php:27
+#: shortcodes/classes/wyde-info-box.php:89
+#: shortcodes/classes/wyde-link-button.php:29
+msgid "URL (Link)"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1885
+msgid "Add link to custom heading."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1898
+msgid "Select element tag."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1900
+msgid "Enter font size."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1901
+msgid "Enter line height."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1902
+msgid "Select heading color."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1908
+msgid "Use theme default font family?"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1910
+#: shortcodes/class-wyde-shortcode.php:2091
+#: shortcodes/class-wyde-shortcode.php:2099
+#: shortcodes/class-wyde-shortcode.php:2221
+#: shortcodes/class-wyde-shortcode.php:2229
+#: shortcodes/class-wyde-shortcode.php:2741
+msgid "Yes"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1911
+msgid "Use font family from the theme."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1919
+msgid "Select font family."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1920
+msgid "Select font styling."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1930
+msgid "Letter Spacing"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1932
+msgid "Input a Letter Spacing (e.g. 1px, 2px, etc.)."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1937
+msgid "Text Transform"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1941
+msgid "Capitalize"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1942
+msgid "Lowercase"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1943
+msgid "Uppercase"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1945
+msgid "Apply text case and capitalization."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1983
+msgid "Video Player"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1987
+msgid "Embed YouTube/Vimeo player"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1992
+msgid "Video URL"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:1994
+msgid ""
+"Enter video URL, you can insert self-hosted MP4 video and URL from any major "
+"video/audio sites (Youtube, Vimeo, etc.). Supports services listed at <a "
+"href=\"http://codex.wordpress.org/"
+"Embeds#Okay.2C_So_What_Sites_Can_I_Embed_From.3F\" target=\"_blank\">Codex "
+"page</a>."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2026
+msgid "Round Chart"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2030
+msgid "Pie and Doughnat charts"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2035
+#: shortcodes/class-wyde-shortcode.php:2187
+#: shortcodes/class-wyde-shortcode.php:2460
+#: shortcodes/class-wyde-shortcode.php:2484
+#: shortcodes/class-wyde-shortcode.php:2508
+#: shortcodes/class-wyde-shortcode.php:2539
+#: shortcodes/class-wyde-shortcode.php:2563
+#: shortcodes/class-wyde-shortcode.php:2617
+#: shortcodes/class-wyde-shortcode.php:2658
+#: shortcodes/class-wyde-shortcode.php:2690
+#: shortcodes/class-wyde-shortcode.php:2726
+#: shortcodes/class-wyde-shortcode.php:2826
+#: shortcodes/class-wyde-shortcode.php:2861
+#: shortcodes/class-wyde-shortcode.php:2895
+msgid "Widget title"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2036
+#: shortcodes/class-wyde-shortcode.php:2189
+msgid "Enter text used as widget title (Note: located above content element)."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2042
+#: shortcodes/class-wyde-shortcode.php:2194
+msgid "Design"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2044
+msgid "Pie"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2045
+msgid "Doughnut"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2047
+#: shortcodes/class-wyde-shortcode.php:2201
+msgid "Select type of chart."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2052
+#: shortcodes/class-wyde-shortcode.php:2205
+#: shortcodes/class-wyde-shortcode.php:2324
+#: shortcodes/classes/wyde-action-box.php:66
+#: shortcodes/classes/wyde-button.php:33
+#: shortcodes/classes/wyde-counter-box.php:55
+#: shortcodes/classes/wyde-donut-chart.php:66
+#: shortcodes/classes/wyde-half-donut-chart.php:74
+#: shortcodes/classes/wyde-heading.php:45
+#: shortcodes/classes/wyde-link-button.php:41
+#: shortcodes/classes/wyde-section-separator.php:18
+#: shortcodes/classes/wyde-separator.php:65
+msgid "Style"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2053
+#: shortcodes/class-wyde-shortcode.php:2206
+msgid "Select chart color style."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2055
+#: shortcodes/class-wyde-shortcode.php:2209
+msgid "Flat"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2056
+#: shortcodes/class-wyde-shortcode.php:2210
+msgid "Modern"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2065
+msgid "Gap"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2072
+msgid "Select gap size."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2078
+msgid "Outline color"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2079
+msgid "Select outline color."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2089
+#: shortcodes/class-wyde-shortcode.php:2218
+msgid "Show legend?"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2090
+#: shortcodes/class-wyde-shortcode.php:2220
+msgid "If checked, chart will have legend."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2097
+#: shortcodes/class-wyde-shortcode.php:2226
+msgid "Show hover values?"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2098
+#: shortcodes/class-wyde-shortcode.php:2228
+msgid "If checked, chart will show values on hover."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2105
+#: shortcodes/class-wyde-shortcode.php:2241
+msgid "Values"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2108
+#: shortcodes/class-wyde-shortcode.php:2245
+msgid "One"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2113
+#: shortcodes/class-wyde-shortcode.php:2250
+msgid "Two"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2123
+msgid "Enter title for chart area."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2129
+#: shortcodes/classes/wyde-counter-box.php:42
+#: shortcodes/classes/wyde-progress-bar.php:26
+msgid "Value"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2130
+msgid "Enter value for area."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2136
+msgid "Select area color."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2146
+#: shortcodes/class-wyde-shortcode.php:2282
+msgid "Chart Animation"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2147
+#: shortcodes/class-wyde-shortcode.php:2283
+msgid "Select chart animation style."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2179
+msgid "Line Chart"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2183
+msgid "Line and Bar charts"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2197
+msgid "Line"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2198
+msgid "Bar"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2234
+msgid "X-axis values"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2236
+#: shortcodes/class-wyde-shortcode.php:2267
+msgid "Enter values for axis (Note: separate values with \";\")."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2260
+msgid "Enter title for chart dataset."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2265
+msgid "Y-axis values"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2273
+msgid "Select chart color."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2316
+msgid "Message Box"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2320
+msgid "Notification box"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2327
+msgid "Standard"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2328
+#: shortcodes/classes/wyde-separator.php:67
+msgid "Solid"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2329
+msgid "Solid icon"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2331
+msgid "3D"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2333
+msgid "Select message box design style."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2337
+msgid "Shape"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2341
+#: shortcodes/classes/wyde-action-box.php:68
+#: shortcodes/classes/wyde-button.php:35
+#: shortcodes/classes/wyde-icon-block.php:42
+#: shortcodes/classes/wyde-link-button.php:43
+msgid "Square"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2342
+#: shortcodes/classes/wyde-action-box.php:70
+#: shortcodes/classes/wyde-button.php:37
+#: shortcodes/classes/wyde-link-button.php:45
+msgid "Rounded"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2345
+msgid "Select message box shape."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2352
+msgid "Informational"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2353
+msgid "Warning"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2354
+msgid "Success"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2355
+msgid "Error"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2356
+msgid "Informational Classic"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2357
+msgid "Warning Classic"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2358
+msgid "Success Classic"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2359
+msgid "Error Classic"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2362
+#: shortcodes/class-wyde-shortcode.php:2369
+msgid "Select message box color."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2367
+msgid "Custom Color"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2385
+msgid "Message text"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2387
+msgid "<p>I am message box. Click edit button to change this text.</p>"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2425
+msgid "Widgetised Sidebar"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2430
+msgid "WordPress widgetised sidebar"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2434
+msgid "Sidebar"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2436
+msgid "Select widget area to display."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2450
+msgid "Search"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2453
+#: shortcodes/class-wyde-shortcode.php:2477
+#: shortcodes/class-wyde-shortcode.php:2501
+#: shortcodes/class-wyde-shortcode.php:2532
+#: shortcodes/class-wyde-shortcode.php:2556
+#: shortcodes/class-wyde-shortcode.php:2610
+#: shortcodes/class-wyde-shortcode.php:2651
+#: shortcodes/class-wyde-shortcode.php:2683
+#: shortcodes/class-wyde-shortcode.php:2719
+#: shortcodes/class-wyde-shortcode.php:2766
+#: shortcodes/class-wyde-shortcode.php:2819
+#: shortcodes/class-wyde-shortcode.php:2854
+#: shortcodes/class-wyde-shortcode.php:2888
+msgid "WordPress Widgets"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2456
+msgid "A search form for your site"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2462
+#: shortcodes/class-wyde-shortcode.php:2486
+#: shortcodes/class-wyde-shortcode.php:2510
+#: shortcodes/class-wyde-shortcode.php:2541
+#: shortcodes/class-wyde-shortcode.php:2565
+#: shortcodes/class-wyde-shortcode.php:2619
+#: shortcodes/class-wyde-shortcode.php:2660
+#: shortcodes/class-wyde-shortcode.php:2692
+#: shortcodes/class-wyde-shortcode.php:2728
+#: shortcodes/class-wyde-shortcode.php:2828
+#: shortcodes/class-wyde-shortcode.php:2863
+#: shortcodes/class-wyde-shortcode.php:2897
+msgid ""
+"What text use as a widget title. Leave blank to use default widget title."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2474
+msgid "Meta"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2480
+msgid "Log in/out, admin, feed and WordPress links"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2498
+msgid "Recent Comments"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2504
+msgid "The most recent comments"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2514
+msgid "Number of comments"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2515
+msgid "Enter number of comments to display."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2529
+msgid "Calendar"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2535
+msgid "A calendar of your sites posts"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2553
+msgid "Pages"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2559
+msgid "Your sites WordPress Pages"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2569
+#: shortcodes/class-wyde-shortcode.php:2781
+#: shortcodes/classes/wyde-wc-shop.php:33
+msgid "Order by"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2572
+msgid "Page title"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2573
+msgid "Page order"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2574
+msgid "Page ID"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2576
+msgid "Select how to sort pages."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2581
+msgid "Exclude"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2583
+msgid "Enter page IDs to be excluded (Note: separate values by commas (,))."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2607
+msgid "Tag Cloud"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2613
+msgid "Your most used tags in cloud format"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2623
+msgid "Taxonomy"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2626
+msgid "Select source for tag cloud."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2648
+msgid "Custom Menu"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2654
+msgid "Use this widget to add one of your custom menus as a widget"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2664
+msgid "Menu"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2667
+msgid ""
+"Custom menus not found. Please visit <b>Appearance > Menus</b> page to "
+"create new menu."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2667
+msgid "Select menu to display."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2686
+msgid "Arbitrary text or HTML"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2716
+#: shortcodes/classes/wyde-recent-posts.php:8
+#: widgets/classes/class-wyde-recent-posts-widget.php:53
+msgid "Recent Posts"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2722
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2732
+msgid "Number of posts"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2733
+msgid "Enter number of posts to display."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2739
+msgid "Display post date?"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2742
+msgid "If checked, date will be displayed."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2753
+msgid "All Links"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2763
+msgid "Links"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2770
+msgid "Your blogroll"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2774
+msgid "Link Category"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2784
+msgid "Link title"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2785
+msgid "Link rating"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2786
+msgid "Link ID"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2787
+#: shortcodes/classes/wyde-wc-shop.php:41
+msgid "Random"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2792
+#: shortcodes/class-wyde-shortcode.php:2938
+#: shortcodes/classes/wyde-progress-bar.php:44
+msgid "Options"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2795
+msgid "Show Link Image"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2796
+msgid "Show Link Name"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2797
+msgid "Show Link Description"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2798
+msgid "Show Link Rating"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2803
+msgid "Number of links to show"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2816
+msgid "Categories"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2822
+msgid "A list or dropdown of categories"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2832
+#: shortcodes/class-wyde-shortcode.php:2867
+msgid "Display Options"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2835
+#: shortcodes/class-wyde-shortcode.php:2870
+msgid "Dropdown"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2836
+#: shortcodes/class-wyde-shortcode.php:2871
+msgid "Show post counts"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2837
+msgid "Show hierarchy"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2839
+msgid "Select display options for categories."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2851
+msgid "Archives"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2857
+msgid "A monthly archive of your sites posts"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2873
+msgid "Select display options for archives."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2885
+msgid "RSS"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2891
+msgid "Entries from any RSS or Atom feed"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2901
+msgid "RSS feed URL"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2903
+msgid "Enter the RSS feed URL."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2908
+msgid "Items"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2911
+msgid "10 - Default"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2933
+msgid "Select how many items to display."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2941
+msgid "Item content"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2942
+msgid "Display item author if available?"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2943
+msgid "Display item date?"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2945
+msgid "Select display options for RSS feeds."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2980
+msgid "No sliders found"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2986
+#: shortcodes/class-wyde-shortcode.php:2994
+msgid "Revolution Slider"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2990
+msgid "Place Revolution slider"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:2998
+msgid "Select your Revolution Slider."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:3002
+msgid "Scroll Button"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:3005
+#: shortcodes/classes/wyde-blog-posts.php:105
+#: shortcodes/classes/wyde-portfolio-grid.php:119
+#: shortcodes/classes/wyde-wc-shop.php:76
+msgid "Hide"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:3006
+msgid "Mouse Wheel"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:3007
+msgid "Arrow Down"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:3009
+msgid "Select a scroll button at the bottom of slider."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:3013
+#: shortcodes/classes/wyde-pricing-box.php:75
+msgid "Button Color"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:3015
+msgid "Select a button color."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:3045
+msgid "No contact forms found"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:3050
+msgid "Contact Form 7"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:3053
+msgid "Place Contact Form7"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:3057
+msgid "Contact Form"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:3062
+msgid "Select contact form from the drop down list."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:3096
+#: shortcodes/class-wyde-shortcode.php:3116
+#: shortcodes/class-wyde-shortcode.php:3136
+#: shortcodes/class-wyde-shortcode.php:3157
+#: shortcodes/class-wyde-shortcode.php:3178
+#: shortcodes/class-wyde-shortcode.php:3199
+#: shortcodes/class-wyde-shortcode.php:3219
+#: shortcodes/class-wyde-shortcode.php:3239
+#: shortcodes/class-wyde-shortcode.php:3259
+#: shortcodes/class-wyde-shortcode.php:3280
+#: shortcodes/classes/wyde-wc-shop.php:28
+msgid "Select the number of columns."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:3319
+msgid "Icon Set"
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:3327
+msgid "Select an icon set."
+msgstr ""
+
+#: shortcodes/class-wyde-shortcode.php:3337
+#: shortcodes/class-wyde-shortcode.php:3352
+#: shortcodes/class-wyde-shortcode.php:3367
+#: shortcodes/class-wyde-shortcode.php:3382
+#: shortcodes/class-wyde-shortcode.php:3397
+msgid "Select an icon."
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:9
+#: shortcodes/classes/wyde-action-box.php:10
+#: shortcodes/classes/wyde-action-box.php:11
+#: shortcodes/classes/wyde-action-box.php:12
+#: shortcodes/classes/wyde-action-box.php:13
+#: shortcodes/classes/wyde-action-box.php:14
+#: shortcodes/classes/wyde-action-box.php:48
+#: shortcodes/classes/wyde-action-box.php:55
+#: shortcodes/classes/wyde-action-box.php:77
+#: shortcodes/classes/wyde-action-box.php:88
+#: shortcodes/classes/wyde-action-box.php:95
+#: shortcodes/classes/wyde-action-box.php:102
+#: shortcodes/classes/wyde-action-box.php:113
+#: shortcodes/classes/wyde-button.php:8
+msgid "Button"
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:17
+msgid "Action Box"
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:20
+#: shortcodes/classes/wyde-blog-posts.php:19
+#: shortcodes/classes/wyde-button.php:14
+#: shortcodes/classes/wyde-clients-carousel.php:14
+#: shortcodes/classes/wyde-counter-box.php:17
+#: shortcodes/classes/wyde-donut-chart.php:21
+#: shortcodes/classes/wyde-facebook-like.php:12
+#: shortcodes/classes/wyde-flickr.php:12 shortcodes/classes/wyde-gmaps.php:15
+#: shortcodes/classes/wyde-half-donut-chart.php:23
+#: shortcodes/classes/wyde-heading.php:14
+#: shortcodes/classes/wyde-icon-block.php:17
+#: shortcodes/classes/wyde-image-gallery.php:19
+#: shortcodes/classes/wyde-info-box.php:18
+#: shortcodes/classes/wyde-link-button.php:17
+#: shortcodes/classes/wyde-popular-posts.php:12
+#: shortcodes/classes/wyde-portfolio-grid.php:19
+#: shortcodes/classes/wyde-pricing-box.php:14
+#: shortcodes/classes/wyde-progress-bar.php:13
+#: shortcodes/classes/wyde-recent-posts.php:12
+#: shortcodes/classes/wyde-section-separator.php:11
+#: shortcodes/classes/wyde-separator.php:21
+#: shortcodes/classes/wyde-slider.php:104 shortcodes/classes/wyde-tabs.php:102
+#: shortcodes/classes/wyde-team-slider.php:14
+#: shortcodes/classes/wyde-testimonials-slider.php:14
+#: shortcodes/classes/wyde-toggle.php:13
+msgid "Wyde"
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:22
+msgid "Catch visitors attention with call to action box"
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:27
+msgid "Heading first line"
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:29
+msgid "Text for the first heading line."
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:34
+msgid ""
+"I am promo text. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:40
+msgid "Select background color for this element."
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:47
+#: shortcodes/classes/wyde-button.php:22
+#: shortcodes/classes/wyde-link-button.php:24
+msgid "Text on the button."
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:54
+#: shortcodes/classes/wyde-button.php:28
+#: shortcodes/classes/wyde-link-button.php:30
+msgid "Set a button link."
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:71
+#: shortcodes/classes/wyde-button.php:38
+#: shortcodes/classes/wyde-link-button.php:46
+msgid "Square Outline"
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:73
+#: shortcodes/classes/wyde-button.php:40
+#: shortcodes/classes/wyde-link-button.php:48
+msgid "Rounded Outline"
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:76
+#: shortcodes/classes/wyde-button.php:42
+#: shortcodes/classes/wyde-link-button.php:51
+msgid "Select button style."
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:82
+#: shortcodes/classes/wyde-button.php:47
+#: shortcodes/classes/wyde-link-button.php:56
+msgid "Size"
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:87
+#: shortcodes/classes/wyde-button.php:52
+#: shortcodes/classes/wyde-link-button.php:61
+msgid "Select button size."
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:94
+#: shortcodes/classes/wyde-button.php:58
+#: shortcodes/classes/wyde-link-button.php:67
+msgid "Select button text color."
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:100
+#: shortcodes/classes/wyde-link-button.php:72
+msgid "Hover Color"
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:101
+#: shortcodes/classes/wyde-link-button.php:73
+msgid "Select button hover text color."
+msgstr ""
+
+#: shortcodes/classes/wyde-action-box.php:112
+#: shortcodes/classes/wyde-button.php:68
+#: shortcodes/classes/wyde-link-button.php:83
+#: shortcodes/classes/wyde-pricing-box.php:76
+msgid "Select button background color."
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:13
+msgid "Blog Posts"
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:14
+msgid "Displays Blog Posts list."
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:24
+#: shortcodes/classes/wyde-team-slider.php:52
+msgid "Layout"
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:28
+msgid "List"
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:29
+#: shortcodes/classes/wyde-image-gallery.php:46
+#: shortcodes/classes/wyde-portfolio-grid.php:42
+msgid "Masonry"
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:31
+msgid "Select blog posts view."
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:43
+#: shortcodes/classes/wyde-image-gallery.php:64
+#: shortcodes/classes/wyde-portfolio-grid.php:56
+msgid "Select the number of grid columns."
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:52
+#: shortcodes/classes/wyde-portfolio-grid.php:84
+#: shortcodes/classes/wyde-team-slider.php:31
+#: shortcodes/classes/wyde-testimonials-slider.php:19
+msgid "Custom Posts"
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:59
+#: shortcodes/classes/wyde-portfolio-grid.php:93
+#: shortcodes/classes/wyde-testimonials-slider.php:28
+msgid "Create WordPress loop, to populate content from your site."
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:64
+msgid "Number of Posts per Page"
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:66
+msgid "Enter the number of posts per page."
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:71
+msgid "Excerpt Limit"
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:73
+msgid "Words"
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:74
+msgid "Characters"
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:76
+msgid "Limit the post excerpt length by using number of words or characters."
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:82
+msgid "Excerpt Length"
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:84
+msgid "Enter the limit of post excerpt length."
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:90
+msgid "Read More"
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:92
+msgid "[...]"
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:93
+msgid "Link to Full Post"
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:95
+msgid "Select read more style to display after the excerpt."
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:100
+#: shortcodes/classes/wyde-portfolio-grid.php:115
+#: shortcodes/classes/wyde-wc-shop.php:71
+msgid "Pagination Type"
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:102
+#: shortcodes/classes/wyde-wc-shop.php:73
+msgid "Numeric Pagination"
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:103
+#: shortcodes/classes/wyde-portfolio-grid.php:117
+#: shortcodes/classes/wyde-wc-shop.php:74
+msgid "Infinite Scroll"
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:104
+#: shortcodes/classes/wyde-wc-shop.php:75
+msgid "Next and Previous"
+msgstr ""
+
+#: shortcodes/classes/wyde-blog-posts.php:107
+#: shortcodes/classes/wyde-portfolio-grid.php:121
+#: shortcodes/classes/wyde-wc-shop.php:78
+msgid "Select the pagination type."
+msgstr ""
+
+#: shortcodes/classes/wyde-button.php:9
+msgid "Add button."
+msgstr ""
+
+#: shortcodes/classes/wyde-clients-carousel.php:8
+msgid "Clients Carousel"
+msgstr ""
+
+#: shortcodes/classes/wyde-clients-carousel.php:9
+msgid "Create beautiful responsive carousel slider."
+msgstr ""
+
+#: shortcodes/classes/wyde-clients-carousel.php:19
+#: shortcodes/classes/wyde-image-gallery.php:24
+msgid "Images"
+msgstr ""
+
+#: shortcodes/classes/wyde-clients-carousel.php:20
+#: shortcodes/classes/wyde-image-gallery.php:25
+msgid "Upload or select images from media library."
+msgstr ""
+
+#: shortcodes/classes/wyde-clients-carousel.php:37
+#: shortcodes/classes/wyde-image-gallery.php:119
+#: shortcodes/classes/wyde-slider.php:110
+#: shortcodes/classes/wyde-team-slider.php:74
+msgid "Visible Items"
+msgstr ""
+
+#: shortcodes/classes/wyde-clients-carousel.php:40
+#: shortcodes/classes/wyde-image-gallery.php:110
+#: shortcodes/classes/wyde-image-gallery.php:122
+#: shortcodes/classes/wyde-slider.php:113
+#: shortcodes/classes/wyde-team-slider.php:77
+msgid "The maximum amount of items displayed at a time."
+msgstr ""
+
+#: shortcodes/classes/wyde-clients-carousel.php:45
+#: shortcodes/classes/wyde-image-gallery.php:131
+#: shortcodes/classes/wyde-slider.php:132
+#: shortcodes/classes/wyde-team-slider.php:100
+#: shortcodes/classes/wyde-testimonials-slider.php:50
+msgid "Show Navigation"
+msgstr ""
+
+#: shortcodes/classes/wyde-clients-carousel.php:46
+#: shortcodes/classes/wyde-image-gallery.php:132
+#: shortcodes/classes/wyde-slider.php:133
+#: shortcodes/classes/wyde-team-slider.php:101
+#: shortcodes/classes/wyde-testimonials-slider.php:51
+msgid "Display \"next\" and \"prev\" buttons."
+msgstr ""
+
+#: shortcodes/classes/wyde-clients-carousel.php:51
+#: shortcodes/classes/wyde-image-gallery.php:141
+#: shortcodes/classes/wyde-slider.php:138
+#: shortcodes/classes/wyde-team-slider.php:110
+#: shortcodes/classes/wyde-testimonials-slider.php:56
+msgid "Show Pagination"
+msgstr ""
+
+#: shortcodes/classes/wyde-clients-carousel.php:52
+#: shortcodes/classes/wyde-image-gallery.php:142
+#: shortcodes/classes/wyde-slider.php:139
+#: shortcodes/classes/wyde-team-slider.php:111
+#: shortcodes/classes/wyde-testimonials-slider.php:57
+msgid "Show pagination."
+msgstr ""
+
+#: shortcodes/classes/wyde-clients-carousel.php:57
+#: shortcodes/classes/wyde-image-gallery.php:151
+#: shortcodes/classes/wyde-slider.php:150
+#: shortcodes/classes/wyde-team-slider.php:130
+#: shortcodes/classes/wyde-testimonials-slider.php:62
+msgid "Auto Play"
+msgstr ""
+
+#: shortcodes/classes/wyde-clients-carousel.php:58
+#: shortcodes/classes/wyde-image-gallery.php:152
+#: shortcodes/classes/wyde-slider.php:151
+#: shortcodes/classes/wyde-team-slider.php:131
+#: shortcodes/classes/wyde-testimonials-slider.php:63
+msgid "Auto play slide."
+msgstr ""
+
+#: shortcodes/classes/wyde-clients-carousel.php:63
+#: shortcodes/classes/wyde-image-gallery.php:161
+#: shortcodes/classes/wyde-slider.php:156
+#: shortcodes/classes/wyde-team-slider.php:140
+#: shortcodes/classes/wyde-testimonials-slider.php:68
+msgid "Speed"
+msgstr ""
+
+#: shortcodes/classes/wyde-clients-carousel.php:66
+#: shortcodes/classes/wyde-image-gallery.php:164
+#: shortcodes/classes/wyde-slider.php:159
+#: shortcodes/classes/wyde-team-slider.php:143
+#: shortcodes/classes/wyde-testimonials-slider.php:71
+msgid "The amount of time between each slideshow interval (in seconds)."
+msgstr ""
+
+#: shortcodes/classes/wyde-clients-carousel.php:75
+#: shortcodes/classes/wyde-image-gallery.php:173
+#: shortcodes/classes/wyde-slider.php:144
+#: shortcodes/classes/wyde-team-slider.php:120
+msgid "Loop"
+msgstr ""
+
+#: shortcodes/classes/wyde-clients-carousel.php:76
+#: shortcodes/classes/wyde-image-gallery.php:174
+#: shortcodes/classes/wyde-slider.php:145
+#: shortcodes/classes/wyde-team-slider.php:121
+msgid "Inifnity loop. Duplicate last and first items to get loop illusion."
+msgstr ""
+
+#: shortcodes/classes/wyde-counter-box.php:11
+msgid "Counter Box"
+msgstr ""
+
+#: shortcodes/classes/wyde-counter-box.php:12
+msgid "Animated numbers."
+msgstr ""
+
+#: shortcodes/classes/wyde-counter-box.php:30
+msgid "Set counter title."
+msgstr ""
+
+#: shortcodes/classes/wyde-counter-box.php:35
+msgid "Start From"
+msgstr ""
+
+#: shortcodes/classes/wyde-counter-box.php:37
+msgid "Set start value."
+msgstr ""
+
+#: shortcodes/classes/wyde-counter-box.php:44
+msgid "Set counter value."
+msgstr ""
+
+#: shortcodes/classes/wyde-counter-box.php:50
+msgid "Select a color."
+msgstr ""
+
+#: shortcodes/classes/wyde-counter-box.php:57
+msgid "Classic"
+msgstr ""
+
+#: shortcodes/classes/wyde-counter-box.php:58
+#: shortcodes/classes/wyde-heading.php:52
+msgid "Theme Default"
+msgstr ""
+
+#: shortcodes/classes/wyde-counter-box.php:60
+msgid "Select counter box style."
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:15
+msgid "Donut Chart"
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:16
+msgid "Animated donut chart."
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:28
+#: shortcodes/classes/wyde-half-donut-chart.php:30
+msgid "Set chart title."
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:33
+#: shortcodes/classes/wyde-half-donut-chart.php:41
+msgid "Chart Value"
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:35
+msgid "Input chart value here. can be 1 to 100."
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:40
+#: shortcodes/classes/wyde-half-donut-chart.php:48
+#: shortcodes/classes/wyde-separator.php:27
+msgid "Label Style"
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:45
+#: shortcodes/classes/wyde-half-donut-chart.php:53
+#: shortcodes/classes/wyde-separator.php:33
+msgid "Select a label style."
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:50
+#: shortcodes/classes/wyde-half-donut-chart.php:58
+msgid "Label"
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:51
+#: shortcodes/classes/wyde-half-donut-chart.php:59
+msgid "Set chart label."
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:70
+#: shortcodes/classes/wyde-half-donut-chart.php:78
+msgid "Inline"
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:72
+#: shortcodes/classes/wyde-half-donut-chart.php:80
+msgid "Select style."
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:77
+#: shortcodes/classes/wyde-half-donut-chart.php:85
+msgid "Bar Color"
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:78
+#: shortcodes/classes/wyde-half-donut-chart.php:86
+#: shortcodes/classes/wyde-progress-bar.php:39
+msgid "Select bar color."
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:84
+#: shortcodes/classes/wyde-half-donut-chart.php:92
+msgid "Select border color."
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:89
+#: shortcodes/classes/wyde-half-donut-chart.php:97
+msgid "Fill Color"
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:90
+#: shortcodes/classes/wyde-half-donut-chart.php:98
+msgid "Select background color of the whole circle."
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:95
+#: shortcodes/classes/wyde-half-donut-chart.php:103
+msgid "Start"
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:98
+#: shortcodes/classes/wyde-half-donut-chart.php:107
+msgid "90 degree"
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:99
+msgid "180 degree"
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:100
+msgid "270 degree"
+msgstr ""
+
+#: shortcodes/classes/wyde-donut-chart.php:102
+#: shortcodes/classes/wyde-half-donut-chart.php:109
+msgid "Select the degree to start animate."
+msgstr ""
+
+#: shortcodes/classes/wyde-facebook-like.php:8
+msgid "Facebook Like Box"
+msgstr ""
+
+#: shortcodes/classes/wyde-facebook-like.php:13
+msgid "Facebook Like box."
+msgstr ""
+
+#: shortcodes/classes/wyde-facebook-like.php:18
+#: widgets/classes/class-wyde-facebook-like-widget.php:89
+msgid "Facebook Page URL"
+msgstr ""
+
+#: shortcodes/classes/wyde-facebook-like.php:20
+msgid "The URL of the Facebook Page."
+msgstr ""
+
+#: shortcodes/classes/wyde-facebook-like.php:27
+msgid "The pixel width of the plugin. Min. is 180 & Max. is 500."
+msgstr ""
+
+#: shortcodes/classes/wyde-facebook-like.php:34
+msgid "The pixel height of the plugin. Min. is 70."
+msgstr ""
+
+#: shortcodes/classes/wyde-facebook-like.php:39
+#: widgets/classes/class-wyde-facebook-like-widget.php:105
+msgid "Show Friend's Faces"
+msgstr ""
+
+#: shortcodes/classes/wyde-facebook-like.php:40
+msgid "Show profile photos when friends like this."
+msgstr ""
+
+#: shortcodes/classes/wyde-facebook-like.php:45
+#: widgets/classes/class-wyde-facebook-like-widget.php:110
+msgid "Small Header"
+msgstr ""
+
+#: shortcodes/classes/wyde-facebook-like.php:46
+msgid "Use the small header instead."
+msgstr ""
+
+#: shortcodes/classes/wyde-facebook-like.php:53
+#: widgets/classes/class-wyde-facebook-like-widget.php:117
+msgid "Timeline"
+msgstr ""
+
+#: shortcodes/classes/wyde-facebook-like.php:54
+#: widgets/classes/class-wyde-facebook-like-widget.php:120
+msgid "Events"
+msgstr ""
+
+#: shortcodes/classes/wyde-facebook-like.php:55
+#: widgets/classes/class-wyde-facebook-like-widget.php:123
+msgid "Messages"
+msgstr ""
+
+#: shortcodes/classes/wyde-facebook-like.php:57
+msgid "Displays timeline, events and messages tabs."
+msgstr ""
+
+#: shortcodes/classes/wyde-flickr.php:8
+#: widgets/classes/class-wyde-flickr-widget.php:54
+msgid "Flickr Stream"
+msgstr ""
+
+#: shortcodes/classes/wyde-flickr.php:13
+msgid "Image feed from Flickr account."
+msgstr ""
+
+#: shortcodes/classes/wyde-flickr.php:20
+msgid "Enter title text."
+msgstr ""
+
+#: shortcodes/classes/wyde-flickr.php:25
+#: widgets/classes/class-wyde-flickr-widget.php:72
+msgid "Type"
+msgstr ""
+
+#: shortcodes/classes/wyde-flickr.php:28
+#: widgets/classes/class-wyde-flickr-widget.php:76
+msgid "User"
+msgstr ""
+
+#: shortcodes/classes/wyde-flickr.php:29
+#: widgets/classes/class-wyde-flickr-widget.php:77
+msgid "Group"
+msgstr ""
+
+#: shortcodes/classes/wyde-flickr.php:31
+msgid "Select photo stream type."
+msgstr ""
+
+#: shortcodes/classes/wyde-flickr.php:36
+#: widgets/classes/class-wyde-flickr-widget.php:87
+msgid "Flickr ID"
+msgstr ""
+
+#: shortcodes/classes/wyde-flickr.php:38
+#: widgets/classes/class-wyde-flickr-widget.php:89
+#, php-format
+msgid "To find your flickID visit %s."
+msgstr ""
+
+#: shortcodes/classes/wyde-flickr.php:43
+msgid "Number of photos"
+msgstr ""
+
+#: shortcodes/classes/wyde-flickr.php:45
+msgid "Select number of photos to display."
+msgstr ""
+
+#: shortcodes/classes/wyde-flickr.php:53
+msgid "Select number of grid columns to display."
+msgstr ""
+
+#: shortcodes/classes/wyde-gmaps.php:9
+msgid "Google Maps"
+msgstr ""
+
+#: shortcodes/classes/wyde-gmaps.php:10
+msgid "Google Maps block."
+msgstr ""
+
+#: shortcodes/classes/wyde-gmaps.php:20
+msgid "Addresses"
+msgstr ""
+
+#: shortcodes/classes/wyde-gmaps.php:21
+msgid "Enter addresses for map."
+msgstr ""
+
+#: shortcodes/classes/wyde-gmaps.php:25
+msgid "Address"
+msgstr ""
+
+#: shortcodes/classes/wyde-gmaps.php:27
+msgid "Enter text to display in the Info Window."
+msgstr ""
+
+#: shortcodes/classes/wyde-gmaps.php:39
+msgid ""
+"Drag & drop markers to set your locations, map type and zoom level settings "
+"will also be used."
+msgstr ""
+
+#: shortcodes/classes/wyde-gmaps.php:44
+msgid "Map Height"
+msgstr ""
+
+#: shortcodes/classes/wyde-gmaps.php:47
+msgid "Enter map height in pixels. Example: 300."
+msgstr ""
+
+#: shortcodes/classes/wyde-gmaps.php:52
+msgid "Map Color"
+msgstr ""
+
+#: shortcodes/classes/wyde-gmaps.php:53
+msgid "Select map background color."
+msgstr ""
+
+#: shortcodes/classes/wyde-gmaps.php:59
+msgid ""
+"To custom your own marker icon, upload or select images from media library."
+msgstr ""
+
+#: shortcodes/classes/wyde-half-donut-chart.php:17
+msgid "Half Donut Chart"
+msgstr ""
+
+#: shortcodes/classes/wyde-half-donut-chart.php:18
+msgid "Animated half donut chart."
+msgstr ""
+
+#: shortcodes/classes/wyde-half-donut-chart.php:36
+#: shortcodes/classes/wyde-info-box.php:31
+msgid "Enter your content."
+msgstr ""
+
+#: shortcodes/classes/wyde-half-donut-chart.php:43
+msgid "Input chart value here. Choose range between 0 and 100."
+msgstr ""
+
+#: shortcodes/classes/wyde-half-donut-chart.php:106
+msgid "45 degree"
+msgstr ""
+
+#: shortcodes/classes/wyde-heading.php:8 shortcodes/classes/wyde-heading.php:19
+msgid "Heading"
+msgstr ""
+
+#: shortcodes/classes/wyde-heading.php:9
+msgid "Heading text."
+msgstr ""
+
+#: shortcodes/classes/wyde-heading.php:21
+msgid "Enter heading text."
+msgstr ""
+
+#: shortcodes/classes/wyde-heading.php:26
+msgid "Heading Color"
+msgstr ""
+
+#: shortcodes/classes/wyde-heading.php:27
+msgid "Select heading text color."
+msgstr ""
+
+#: shortcodes/classes/wyde-heading.php:32
+msgid "Subheading"
+msgstr ""
+
+#: shortcodes/classes/wyde-heading.php:34
+msgid "Enter subheading text."
+msgstr ""
+
+#: shortcodes/classes/wyde-heading.php:39
+msgid "Subheading Color"
+msgstr ""
+
+#: shortcodes/classes/wyde-heading.php:40
+msgid "Select subheading text color."
+msgstr ""
+
+#: shortcodes/classes/wyde-heading.php:47
+msgid "Top Subtitle"
+msgstr ""
+
+#: shortcodes/classes/wyde-heading.php:48
+msgid "Bottom Subtitle "
+msgstr ""
+
+#: shortcodes/classes/wyde-heading.php:50
+msgid "Top Line"
+msgstr ""
+
+#: shortcodes/classes/wyde-heading.php:51
+msgid "Bottom Line"
+msgstr ""
+
+#: shortcodes/classes/wyde-heading.php:53
+msgid "Simple"
+msgstr ""
+
+#: shortcodes/classes/wyde-heading.php:55
+msgid "Select a heading style."
+msgstr ""
+
+#: shortcodes/classes/wyde-icon-block.php:11
+msgid "Icon Block"
+msgstr ""
+
+#: shortcodes/classes/wyde-icon-block.php:12
+msgid "Add icon block."
+msgstr ""
+
+#: shortcodes/classes/wyde-icon-block.php:28
+#: shortcodes/classes/wyde-info-box.php:42
+msgid "Icon Size"
+msgstr ""
+
+#: shortcodes/classes/wyde-icon-block.php:34
+#: shortcodes/classes/wyde-info-box.php:48
+msgid "Select icon size."
+msgstr ""
+
+#: shortcodes/classes/wyde-icon-block.php:39
+msgid "Icon Style"
+msgstr ""
+
+#: shortcodes/classes/wyde-icon-block.php:45
+msgid "Select icon style."
+msgstr ""
+
+#: shortcodes/classes/wyde-icon-block.php:50
+#: shortcodes/classes/wyde-image-gallery.php:88
+#: shortcodes/classes/wyde-portfolio-grid.php:65
+msgid "Hover Effect"
+msgstr ""
+
+#: shortcodes/classes/wyde-icon-block.php:53
+#: shortcodes/classes/wyde-image-gallery.php:92
+msgid "Zoom In"
+msgstr ""
+
+#: shortcodes/classes/wyde-icon-block.php:54
+#: shortcodes/classes/wyde-image-gallery.php:93
+msgid "Zoom Out"
+msgstr ""
+
+#: shortcodes/classes/wyde-icon-block.php:55
+msgid "Pulse"
+msgstr ""
+
+#: shortcodes/classes/wyde-icon-block.php:56
+msgid "Left to Right"
+msgstr ""
+
+#: shortcodes/classes/wyde-icon-block.php:57
+msgid "Right to Left"
+msgstr ""
+
+#: shortcodes/classes/wyde-icon-block.php:58
+msgid "Bottom to Top"
+msgstr ""
+
+#: shortcodes/classes/wyde-icon-block.php:59
+msgid "Top to Bottom"
+msgstr ""
+
+#: shortcodes/classes/wyde-icon-block.php:61
+msgid "Select icon hover effect."
+msgstr ""
+
+#: shortcodes/classes/wyde-icon-block.php:71
+msgid "Select icon text color."
+msgstr ""
+
+#: shortcodes/classes/wyde-icon-block.php:81
+msgid "Select icon background color."
+msgstr ""
+
+#: shortcodes/classes/wyde-icon-block.php:91
+msgid "Icon link."
+msgstr ""
+
+#: shortcodes/classes/wyde-image-gallery.php:13
+msgid "Image Gallery"
+msgstr ""
+
+#: shortcodes/classes/wyde-image-gallery.php:14
+msgid "Create beautiful responsive image gallery."
+msgstr ""
+
+#: shortcodes/classes/wyde-image-gallery.php:42
+msgid "Gallery Type"
+msgstr ""
+
+#: shortcodes/classes/wyde-image-gallery.php:44
+#: shortcodes/classes/wyde-portfolio-grid.php:39
+msgid "Grid (Without Space)"
+msgstr ""
+
+#: shortcodes/classes/wyde-image-gallery.php:45
+#: shortcodes/classes/wyde-portfolio-grid.php:40
+msgid "Grid (With Space)"
+msgstr ""
+
+#: shortcodes/classes/wyde-image-gallery.php:47
+#: shortcodes/classes/wyde-slider.php:97
+#: shortcodes/classes/wyde-team-slider.php:54
+msgid "Slider"
+msgstr ""
+
+#: shortcodes/classes/wyde-image-gallery.php:73
+msgid "Masonry Layout"
+msgstr ""
+
+#: shortcodes/classes/wyde-image-gallery.php:76
+msgid "Basic 1"
+msgstr ""
+
+#: shortcodes/classes/wyde-image-gallery.php:77
+msgid "Basic 2"
+msgstr ""
+
+#: shortcodes/classes/wyde-image-gallery.php:79
+msgid "Select masonry layout."
+msgstr ""
+
+#: shortcodes/classes/wyde-image-gallery.php:94
+#: shortcodes/classes/wyde-portfolio-grid.php:73
+msgid "Rotate Zoom In"
+msgstr ""
+
+#: shortcodes/classes/wyde-image-gallery.php:96
+msgid "Select the hover effect for image."
+msgstr ""
+
+#: shortcodes/classes/wyde-image-gallery.php:105
+#: shortcodes/classes/wyde-slider.php:118
+#: shortcodes/classes/wyde-team-slider.php:86
+#: shortcodes/classes/wyde-testimonials-slider.php:40
+msgid "Transition"
+msgstr ""
+
+#: shortcodes/classes/wyde-image-gallery.php:107
+#: shortcodes/classes/wyde-slide.php:96 shortcodes/classes/wyde-slider.php:120
+#: shortcodes/classes/wyde-team-slider.php:88
+#: shortcodes/classes/wyde-testimonials-slider.php:42
+msgid "Slide"
+msgstr ""
+
+#: shortcodes/classes/wyde-image-gallery.php:108
+#: shortcodes/classes/wyde-slider.php:121
+#: shortcodes/classes/wyde-team-slider.php:89
+#: shortcodes/classes/wyde-testimonials-slider.php:43
+msgid "Fade"
+msgstr ""
+
+#: shortcodes/classes/wyde-info-box.php:12
+msgid "Info Box"
+msgstr ""
+
+#: shortcodes/classes/wyde-info-box.php:13
+msgid "Content box with icon."
+msgstr ""
+
+#: shortcodes/classes/wyde-info-box.php:25
+msgid "Set info box title."
+msgstr ""
+
+#: shortcodes/classes/wyde-info-box.php:53
+msgid "Icon Position"
+msgstr ""
+
+#: shortcodes/classes/wyde-info-box.php:59
+msgid "Select icon position."
+msgstr ""
+
+#: shortcodes/classes/wyde-info-box.php:68
+msgid "Border Style"
+msgstr ""
+
+#: shortcodes/classes/wyde-info-box.php:73
+msgid "Select icon border style."
+msgstr ""
+
+#: shortcodes/classes/wyde-info-box.php:84
+msgid "Select an icon color."
+msgstr ""
+
+#: shortcodes/classes/wyde-info-box.php:90
+msgid "Set a Read More link."
+msgstr ""
+
+#: shortcodes/classes/wyde-link-button.php:11
+msgid "Link Button"
+msgstr ""
+
+#: shortcodes/classes/wyde-link-button.php:12
+msgid "Add link button with icon."
+msgstr ""
+
+#: shortcodes/classes/wyde-popular-posts.php:8
+#: widgets/classes/class-wyde-popular-posts-widget.php:54
+msgid "Popular Posts"
+msgstr ""
+
+#: shortcodes/classes/wyde-popular-posts.php:13
+#: widgets/classes/class-wyde-popular-posts-widget.php:10
+msgid "Displays the popular posts with thumbnails."
+msgstr ""
+
+#: shortcodes/classes/wyde-popular-posts.php:18
+#: shortcodes/classes/wyde-portfolio-grid.php:98
+#: shortcodes/classes/wyde-recent-posts.php:18
+#: shortcodes/classes/wyde-team-slider.php:45
+#: shortcodes/classes/wyde-testimonials-slider.php:33
+msgid "Post Count"
+msgstr ""
+
+#: shortcodes/classes/wyde-popular-posts.php:20
+#: shortcodes/classes/wyde-portfolio-grid.php:100
+#: shortcodes/classes/wyde-recent-posts.php:20
+#: shortcodes/classes/wyde-team-slider.php:47
+#: shortcodes/classes/wyde-testimonials-slider.php:35
+msgid "Number of posts to show."
+msgstr ""
+
+#: shortcodes/classes/wyde-popular-posts.php:25
+#: shortcodes/classes/wyde-recent-posts.php:25
+msgid "Show Date"
+msgstr ""
+
+#: shortcodes/classes/wyde-popular-posts.php:26
+#: shortcodes/classes/wyde-recent-posts.php:26
+msgid "Display post date."
+msgstr ""
+
+#: shortcodes/classes/wyde-portfolio-grid.php:13
+msgid "Portfolio Grid"
+msgstr ""
+
+#: shortcodes/classes/wyde-portfolio-grid.php:14
+msgid "Displays Portfolio list."
+msgstr ""
+
+#: shortcodes/classes/wyde-portfolio-grid.php:25
+msgid "Enter text used as widget title."
+msgstr ""
+
+#: shortcodes/classes/wyde-portfolio-grid.php:30
+#: shortcodes/classes/wyde-slide.php:115
+msgid "Subtitle"
+msgstr ""
+
+#: shortcodes/classes/wyde-portfolio-grid.php:31
+msgid "Enter text used as widget sub heading."
+msgstr ""
+
+#: shortcodes/classes/wyde-portfolio-grid.php:36
+msgid "View"
+msgstr ""
+
+#: shortcodes/classes/wyde-portfolio-grid.php:41
+msgid "Photoset"
+msgstr ""
+
+#: shortcodes/classes/wyde-portfolio-grid.php:44
+msgid "Select portfolio layout style."
+msgstr ""
+
+#: shortcodes/classes/wyde-portfolio-grid.php:68
+msgid "Apollo"
+msgstr ""
+
+#: shortcodes/classes/wyde-portfolio-grid.php:69
+msgid "Duke"
+msgstr ""
+
+#: shortcodes/classes/wyde-portfolio-grid.php:70
+msgid "Grayscale 1"
+msgstr ""
+
+#: shortcodes/classes/wyde-portfolio-grid.php:71
+msgid "Grayscale 2"
+msgstr ""
+
+#: shortcodes/classes/wyde-portfolio-grid.php:72
+msgid "Romeo"
+msgstr ""
+
+#: shortcodes/classes/wyde-portfolio-grid.php:75
+msgid "Select the hover effect for portfolio items."
+msgstr ""
+
+#: shortcodes/classes/wyde-portfolio-grid.php:109
+msgid "Hide Filter"
+msgstr ""
+
+#: shortcodes/classes/wyde-portfolio-grid.php:110
+msgid "Display animated category filter to your grid."
+msgstr ""
+
+#: shortcodes/classes/wyde-portfolio-grid.php:118
+msgid "Show More Button"
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:8
+msgid "Pricing Box"
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:9
+msgid "Create pricing box."
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:21
+msgid "Enter the heading or package name."
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:26
+msgid "Sub Heading"
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:27
+msgid "Enter a short description."
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:33
+#: shortcodes/classes/wyde-slide.php:122
+msgid "Select image from media library."
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:38
+msgid "Price"
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:40
+msgid "Enter a price. E.g. 100, 150, etc."
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:45
+msgid "Price Unit"
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:46
+msgid "Enter a price unit. E.g. $, €, etc."
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:51
+msgid "Price Term"
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:52
+msgid "Enter a price term. E.g. per month, per year, etc."
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:57
+msgid "Box Color"
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:58
+msgid "Select box color."
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:63
+msgid "Features"
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:64
+msgid "Enter the features list or table description."
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:69
+msgid "Button Text"
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:70
+msgid "Enter a button text."
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:81
+msgid "Button Link"
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:82
+msgid "Select or enter the link for button."
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:87
+msgid "Featured Box"
+msgstr ""
+
+#: shortcodes/classes/wyde-pricing-box.php:88
+msgid "Make this box as featured"
+msgstr ""
+
+#: shortcodes/classes/wyde-progress-bar.php:9
+msgid "Progress Bar"
+msgstr ""
+
+#: shortcodes/classes/wyde-progress-bar.php:14
+msgid "Animated progress bar"
+msgstr ""
+
+#: shortcodes/classes/wyde-progress-bar.php:21
+msgid "Enter text which will be used as graph title."
+msgstr ""
+
+#: shortcodes/classes/wyde-progress-bar.php:27
+msgid "Input graph value"
+msgstr ""
+
+#: shortcodes/classes/wyde-progress-bar.php:32
+msgid "Unit"
+msgstr ""
+
+#: shortcodes/classes/wyde-progress-bar.php:33
+msgid ""
+"Enter measurement unit (if needed) Eg. %, px, points, etc. Graph value and "
+"unit will be appended to the graph tooltip."
+msgstr ""
+
+#: shortcodes/classes/wyde-progress-bar.php:46
+msgid "Hide Counter"
+msgstr ""
+
+#: shortcodes/classes/wyde-recent-posts.php:13
+msgid "Displays the recent posts with thumbnails."
+msgstr ""
+
+#: shortcodes/classes/wyde-section-separator.php:8
+msgid "Section Separator"
+msgstr ""
+
+#: shortcodes/classes/wyde-section-separator.php:13
+msgid "Section separator."
+msgstr ""
+
+#: shortcodes/classes/wyde-section-separator.php:20
+msgid "Wave"
+msgstr ""
+
+#: shortcodes/classes/wyde-section-separator.php:21
+msgid "Wave Flip"
+msgstr ""
+
+#: shortcodes/classes/wyde-section-separator.php:22
+msgid "Mountain"
+msgstr ""
+
+#: shortcodes/classes/wyde-section-separator.php:23
+msgid "Mountain Flip"
+msgstr ""
+
+#: shortcodes/classes/wyde-section-separator.php:25
+msgid "Select separator style."
+msgstr ""
+
+#: shortcodes/classes/wyde-separator.php:16
+msgid "Separator"
+msgstr ""
+
+#: shortcodes/classes/wyde-separator.php:22
+msgid "Horizontal separator line"
+msgstr ""
+
+#: shortcodes/classes/wyde-separator.php:39
+msgid "Input a title text separator."
+msgstr ""
+
+#: shortcodes/classes/wyde-separator.php:68
+msgid "Dashed"
+msgstr ""
+
+#: shortcodes/classes/wyde-separator.php:69
+msgid "Dotted"
+msgstr ""
+
+#: shortcodes/classes/wyde-separator.php:70
+msgid "Double"
+msgstr ""
+
+#: shortcodes/classes/wyde-separator.php:72
+msgid "Separator style"
+msgstr ""
+
+#: shortcodes/classes/wyde-separator.php:77
+msgid "Border Thickness"
+msgstr ""
+
+#: shortcodes/classes/wyde-separator.php:90
+msgid "Select border thickness."
+msgstr ""
+
+#: shortcodes/classes/wyde-separator.php:108
+msgid "Separator element width in percents."
+msgstr ""
+
+#: shortcodes/classes/wyde-separator.php:114
+msgid "Select separator border and text color."
+msgstr ""
+
+#: shortcodes/classes/wyde-slide.php:104
+msgid "Slide ID"
+msgstr ""
+
+#: shortcodes/classes/wyde-slide.php:110
+msgid "Slide heading."
+msgstr ""
+
+#: shortcodes/classes/wyde-slide.php:116
+msgid "Slide subheading."
+msgstr ""
+
+#: shortcodes/classes/wyde-slider.php:105
+msgid "Content slider"
+msgstr ""
+
+#: shortcodes/classes/wyde-slider.php:123
+#: shortcodes/classes/wyde-team-slider.php:91
+#: shortcodes/classes/wyde-testimonials-slider.php:45
+msgid "Select animation type."
+msgstr ""
+
+#: shortcodes/classes/wyde-slider.php:173
+msgid "Slide 1"
+msgstr ""
+
+#: shortcodes/classes/wyde-slider.php:173
+msgid "Slide 2"
+msgstr ""
+
+#: shortcodes/classes/wyde-tabs.php:96
+msgid "Tabs Icon"
+msgstr ""
+
+#: shortcodes/classes/wyde-tabs.php:103
+msgid "Tabbed content with navigation icon"
+msgstr ""
+
+#: shortcodes/classes/wyde-team-slider.php:8
+msgid "Team Members Slider"
+msgstr ""
+
+#: shortcodes/classes/wyde-team-slider.php:9
+msgid "Team Members in slider view."
+msgstr ""
+
+#: shortcodes/classes/wyde-team-slider.php:19
+msgid "Hide Member Name"
+msgstr ""
+
+#: shortcodes/classes/wyde-team-slider.php:20
+msgid "Check this to hide member's name on cover image."
+msgstr ""
+
+#: shortcodes/classes/wyde-team-slider.php:25
+msgid "Member Name Color"
+msgstr ""
+
+#: shortcodes/classes/wyde-team-slider.php:26
+msgid "Select color of member's name (on cover image)."
+msgstr ""
+
+#: shortcodes/classes/wyde-team-slider.php:40
+msgid "Create custom query, to populate content from your site."
+msgstr ""
+
+#: shortcodes/classes/wyde-team-slider.php:55
+msgid "Grid"
+msgstr ""
+
+#: shortcodes/classes/wyde-team-slider.php:57
+msgid "Select a post layout."
+msgstr ""
+
+#: shortcodes/classes/wyde-team-slider.php:65
+msgid "Select a grid columns."
+msgstr ""
+
+#: shortcodes/classes/wyde-testimonials-slider.php:8
+msgid "Testimonials Slider"
+msgstr ""
+
+#: shortcodes/classes/wyde-testimonials-slider.php:9
+msgid "Testimonials in slider view."
+msgstr ""
+
+#: shortcodes/classes/wyde-toggle.php:9
+msgid "FAQ"
+msgstr ""
+
+#: shortcodes/classes/wyde-toggle.php:14
+msgid "Toggle element for Q&A block"
+msgstr ""
+
+#: shortcodes/classes/wyde-toggle.php:21 shortcodes/classes/wyde-toggle.php:22
+msgid "Toggle title"
+msgstr ""
+
+#: shortcodes/classes/wyde-toggle.php:23
+msgid "Toggle block title."
+msgstr ""
+
+#: shortcodes/classes/wyde-toggle.php:30
+msgid "Toggle content"
+msgstr ""
+
+#: shortcodes/classes/wyde-toggle.php:31
+msgid "<p>Toggle content goes here, click edit button to change this text.</p>"
+msgstr ""
+
+#: shortcodes/classes/wyde-toggle.php:32
+msgid "Toggle block content."
+msgstr ""
+
+#: shortcodes/classes/wyde-toggle.php:38
+msgid "Select an element color."
+msgstr ""
+
+#: shortcodes/classes/wyde-toggle.php:43
+msgid "Default State"
+msgstr ""
+
+#: shortcodes/classes/wyde-toggle.php:45
+msgid "Closed"
+msgstr ""
+
+#: shortcodes/classes/wyde-toggle.php:46
+msgid "Open"
+msgstr ""
+
+#: shortcodes/classes/wyde-toggle.php:48
+msgid "Select \"Open\" if you want toggle to be open by default."
+msgstr ""
+
+#: shortcodes/classes/wyde-wc-shop.php:9
+msgid "Shop Page"
+msgstr ""
+
+#: shortcodes/classes/wyde-wc-shop.php:12
+msgid "WooCommerce"
+msgstr ""
+
+#: shortcodes/classes/wyde-wc-shop.php:13
+msgid "Create custom shop page with archive products."
+msgstr ""
+
+#: shortcodes/classes/wyde-wc-shop.php:36
+msgid "Date"
+msgstr ""
+
+#: shortcodes/classes/wyde-wc-shop.php:37
+msgid "ID"
+msgstr ""
+
+#: shortcodes/classes/wyde-wc-shop.php:38
+msgid "Author"
+msgstr ""
+
+#: shortcodes/classes/wyde-wc-shop.php:40
+msgid "Modified"
+msgstr ""
+
+#: shortcodes/classes/wyde-wc-shop.php:42
+msgid "Comment count"
+msgstr ""
+
+#: shortcodes/classes/wyde-wc-shop.php:43
+msgid "Menu order"
+msgstr ""
+
+#: shortcodes/classes/wyde-wc-shop.php:47
+#, php-format
+msgid "Select how to sort retrieved products. More at %s. Default by Title"
+msgstr ""
+
+#: shortcodes/classes/wyde-wc-shop.php:52
+msgid "Sort order"
+msgstr ""
+
+#: shortcodes/classes/wyde-wc-shop.php:55
+msgid "Descending"
+msgstr ""
+
+#: shortcodes/classes/wyde-wc-shop.php:56
+msgid "Ascending"
+msgstr ""
+
+#: shortcodes/classes/wyde-wc-shop.php:59
+#, php-format
+msgid ""
+"Designates the ascending or descending order. More at %s. Default by ASC"
+msgstr ""
+
+#: shortcodes/classes/wyde-wc-shop.php:64
+msgid "Per page"
+msgstr ""
+
+#: shortcodes/classes/wyde-wc-shop.php:66
+msgid "Number of items per page."
+msgstr ""
+
+#: shortcodes/css_editor.php:94
+msgid "Border radius"
+msgstr ""
+
+#: shortcodes/css_editor.php:96
+msgid "Box controls"
+msgstr ""
+
+#: shortcodes/css_editor.php:97
+msgid "Simplify controls"
+msgstr ""
+
+#: shortcodes/css_editor.php:136
+msgid "Theme defaults"
+msgstr ""
+
+#: widgets/classes/class-wyde-facebook-like-widget.php:7
+msgid "Wyde Facebook Like"
+msgstr ""
+
+#: widgets/classes/class-wyde-facebook-like-widget.php:10
+msgid "Facebook like box."
+msgstr ""
+
+#: widgets/classes/class-wyde-facebook-like-widget.php:70
+msgid "Find us on Facebook"
+msgstr ""
+
+#: widgets/classes/class-wyde-facebook-like-widget.php:96
+msgid "Set the box width, or leave it blank to use auto width."
+msgstr ""
+
+#: widgets/classes/class-wyde-flickr-widget.php:7
+msgid "Wyde Flickr Stream"
+msgstr ""
+
+#: widgets/classes/class-wyde-flickr-widget.php:10
+msgid "Displays a Flickr photo stream."
+msgstr ""
+
+#: widgets/classes/class-wyde-flickr-widget.php:93
+msgid "Number of images to show"
+msgstr ""
+
+#: widgets/classes/class-wyde-popular-posts-widget.php:7
+msgid "Wyde Popular Posts"
+msgstr ""
+
+#: widgets/classes/class-wyde-popular-posts-widget.php:67
+#: widgets/classes/class-wyde-recent-posts-widget.php:65
+msgid "Number of posts to show"
+msgstr ""
+
+#: widgets/classes/class-wyde-popular-posts-widget.php:71
+#: widgets/classes/class-wyde-recent-posts-widget.php:69
+msgid "Post date."
+msgstr ""
+
+#: widgets/classes/class-wyde-recent-posts-widget.php:7
+msgid "Wyde Recent Posts"
+msgstr ""
+
+#: widgets/classes/class-wyde-recent-posts-widget.php:10
+msgid "Most recent posts with thumbnails."
+msgstr ""
+
+#: widgets/classes/class-wyde-social-widget.php:7
+msgid "Wyde Social Icons"
+msgstr ""
+
+#: widgets/classes/class-wyde-social-widget.php:10
+msgid "Displays social icons from Theme Options -> Social Media."
+msgstr ""
+
+#: widgets/classes/class-wyde-social-widget.php:47
+msgid "Social Icons"
+msgstr ""
+
+#: widgets/classes/class-wyde-social-widget.php:60
+msgid "Alignment"
+msgstr ""
+
+#: wyde-core.php:182 wyde-core.php:189
+msgid "Portfolios"
+msgstr ""
+
+#: wyde-core.php:183
+msgid "Portfolio"
+msgstr ""
+
+#: wyde-core.php:184 wyde-core.php:275 wyde-core.php:321
+msgid "Add New"
+msgstr ""
+
+#: wyde-core.php:185
+msgid "Add New Portfolio"
+msgstr ""
+
+#: wyde-core.php:186
+msgid "Edit Portfolio"
+msgstr ""
+
+#: wyde-core.php:187
+msgid "New Portfolio"
+msgstr ""
+
+#: wyde-core.php:188
+msgid "View Portfolios"
+msgstr ""
+
+#: wyde-core.php:208
+msgid "Portfolio Categories"
+msgstr ""
+
+#: wyde-core.php:209 wyde-core.php:301 wyde-core.php:350
+msgid "Category"
+msgstr ""
+
+#: wyde-core.php:210 wyde-core.php:302 wyde-core.php:351
+msgid "All Categories"
+msgstr ""
+
+#: wyde-core.php:211 wyde-core.php:303 wyde-core.php:352
+msgid "Edit Category"
+msgstr ""
+
+#: wyde-core.php:212 wyde-core.php:304 wyde-core.php:353
+msgid "Update Category"
+msgstr ""
+
+#: wyde-core.php:213 wyde-core.php:305 wyde-core.php:354
+msgid "Add New Category"
+msgstr ""
+
+#: wyde-core.php:214 wyde-core.php:306 wyde-core.php:355
+msgid "New Category"
+msgstr ""
+
+#: wyde-core.php:231
+msgid "Portfolio Skills"
+msgstr ""
+
+#: wyde-core.php:232
+msgid "Skill"
+msgstr ""
+
+#: wyde-core.php:233
+msgid "All Skills"
+msgstr ""
+
+#: wyde-core.php:234
+msgid "Edit Skill"
+msgstr ""
+
+#: wyde-core.php:235
+msgid "Update Skill"
+msgstr ""
+
+#: wyde-core.php:236
+msgid "Add New Skill"
+msgstr ""
+
+#: wyde-core.php:237
+msgid "New Skill"
+msgstr ""
+
+#: wyde-core.php:252
+msgid "Portfolio Tags"
+msgstr ""
+
+#: wyde-core.php:253
+msgid "Tag"
+msgstr ""
+
+#: wyde-core.php:254
+msgid "All Tags"
+msgstr ""
+
+#: wyde-core.php:255
+msgid "Edit Tag"
+msgstr ""
+
+#: wyde-core.php:256
+msgid "Update Tag"
+msgstr ""
+
+#: wyde-core.php:257
+msgid "Add New Tag"
+msgstr ""
+
+#: wyde-core.php:258
+msgid "New Tag"
+msgstr ""
+
+#: wyde-core.php:273 wyde-core.php:280
+msgid "Testimonials"
+msgstr ""
+
+#: wyde-core.php:274
+msgid "Testimonial"
+msgstr ""
+
+#: wyde-core.php:276
+msgid "Add New Testimonial"
+msgstr ""
+
+#: wyde-core.php:277
+msgid "Edit Testimonial"
+msgstr ""
+
+#: wyde-core.php:278
+msgid "New Testimonial"
+msgstr ""
+
+#: wyde-core.php:279
+msgid "View Testimonial"
+msgstr ""
+
+#: wyde-core.php:300
+msgid "Testimonial Categories"
+msgstr ""
+
+#: wyde-core.php:319 wyde-core.php:329
+msgid "Team Members"
+msgstr ""
+
+#: wyde-core.php:320
+msgid "Team Member"
+msgstr ""
+
+#: wyde-core.php:322
+msgid "Add New Team Member"
+msgstr ""
+
+#: wyde-core.php:323
+msgid "Edit Team Member"
+msgstr ""
+
+#: wyde-core.php:324
+msgid "New Team Member"
+msgstr ""
+
+#: wyde-core.php:325
+msgid "All Team Members"
+msgstr ""
+
+#: wyde-core.php:326
+msgid "View Team Members"
+msgstr ""
+
+#: wyde-core.php:327
+msgid "Search Team Members"
+msgstr ""
+
+#: wyde-core.php:349
+msgid "Team Member Categories"
+msgstr ""
+
+#: wyde-core.php:374
+msgid "Enter the customer's name here"
+msgstr ""
+
+#: wyde-core.php:377
+msgid "Enter the member's name here"
+msgstr ""
